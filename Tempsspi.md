@@ -210,11 +210,11 @@ Faîtes que ce temps vienne
 
 ---
 MDVersion: 1
-Titre: Plusieurs membres, un seul corps
+Titre: Construire sur le roc
 Type: TempsSpiAPGE
 TitreParole: Construire sa maison sur le roc
 TitreGeste: Choisir une pierre
-Tags: Démarrer un camp
+Tags: Démarrer un camp, Construire
 Tranches d'âges: 8-11,11-14,14-17,17-19
 ---
 # -->Accueil
@@ -231,7 +231,7 @@ Notre camp est comme ces maisons construites sur le sable ou sur le roc. Pour qu
 Geste : chacun prend une pierre qui représentera ce qu’il pense nécessaire pour un bon déroulement du camp (bonne humeur, bienveillance, etc). On prend un petit temps de silence pour demander à Dieu de nous aider à vivre ce que nous lui demandons puis chacun vient empiler sa pierre sous la croix (ou selon le lieu) pour construire le camp sur des bases saines et solides.
 
 # -->Envoi
-###chant d’envoi
+chant d’envoi
 
 Chant: le fou sur le sable a bâti sa maison
 https://www.youtube.com/watch?v=w3Et9DATFy8
@@ -242,11 +242,11 @@ https://www.youtube.com/watch?v=w3Et9DATFy8
 
 ---
 MDVersion: 1
-Titre: Fais de moi un instrument de paix
+Titre: Fais de moi un instrument de Paix
 Type: TempsSpiAPGE
 TitreParole: Prière de Saint François d’Assise
 TitreGeste: Rédiger une intention de prière
-Tags: Paix
+Tags: Paix, Servir
 Tranches d'âges: 11-14,14-17,17-19
 ---
 # -->Accueil
@@ -584,9 +584,9 @@ Tranches d'âges: 11-14,14-17,17-18
 Début de camp
 
 # -->Accueil
- « Seigneur, nous avons quitté notre confort, nos habitudes, nos familles. Nous avons monté la tente et nous nous sommes installés ici pour vivre notre camp. Nous voulons, Seigneur, que tu t’installes toi aussi au milieu de nous.
+Seigneur, nous avons quitté notre confort, nos habitudes, nos familles. Nous avons monté la tente et nous nous sommes installés ici pour vivre notre camp. Nous voulons, Seigneur, que tu t’installes toi aussi au milieu de nous.
  
-Seigneur, tu nous montres qu’il nous faut vider notre sac du superflu pour te suivre, de tout ce qui encombre nos cœurs. L’essentiel de notre camp, Seigneur sera dans les moments que nous allons passer ensemble, dans les rencontres que nous allons faire. »
+Seigneur, tu nous montres qu’il nous faut vider notre sac du superflu pour te suivre, de tout ce qui encombre nos cœurs. L’essentiel de notre camp, Seigneur sera dans les moments que nous allons passer ensemble, dans les rencontres que nous allons faire.
 # -->Parole
 Texte biblique : Marc 10, 17-22 
 Comme Jésus se mettait en chemin, un homme accourut et se jeta à genoux devant lui: «Bon maître, lui demanda-t-il, que dois-je faire pour hériter de la vie éternelle?»
@@ -723,7 +723,7 @@ https://www.youtube.com/watch?v=wqOPOyQcdw4
 
 ---
 MDVersion: 1
-Titre: Le Désert un lieu non-choisi
+Titre: Sur le chemin d’Emmaüs
 Type: TempsSpiAPGE
 TitreParole: Sur le chemin d’Emmaüs
 TitreGeste: Partager sur le vécu
@@ -773,15 +773,13 @@ Quels sont les signes d'espérance qui peuvent rendre notre coeur brûlant ?
 Prière scoute
 
 
-
-
 ---
 MDVersion: 1
 Titre: Préparer son sac
 Type: TempsSpiAPGE
 TitreParole: Passage de la mer rouge
 TitreGeste: Choisir ce que j’emmène
-Tags: Début de camp
+Tags: Début de camp, Départ
 Tranches d'âges: 8-11,11-14, 14-17,17-19
 ---
 Démarrer un camp
@@ -934,7 +932,7 @@ Titre: Ce qui est important
 Type: TempsSpiAPGE
 TitreParole: les petites béatitudes
 TitreGeste: Identifier les richesses de ma vie
-Tags: REtour d'explo
+Tags: Retour d'explo
 Tranches d'âges: 11-14,14-17,17-19
 ---
 # -->Accueil
@@ -973,16 +971,13 @@ Chant: Ne rentrez pas chez vous comme avant.
 Signe de Croix
 
 
-
-
-
 ---
 MDVersion: 1
 Titre: Se mettre de chemin
 Type: TempsSpiAPGE
 TitreParole: Sur le chemin d’Emmaüs
 TitreGeste: Autour du feu ou d’une bougie
-Tags: Début de camp
+Tags: Début de camp, Départ
 Tranches d'âges: 14-17,17-18
 ---
 # -->Accueil
