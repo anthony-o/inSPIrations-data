@@ -1,36 +1,5 @@
 ---
 MDVersion: 1
-Titre: Apprends nous à éduquer
-Type: Texte
-Tags: Education, Autonomie
----
-Seigneur, tu es le Bon Pasteur, prêt à risquer ta vie pour tes brebis.
-Elles sont enfermées dans l'univers un peu fusionnel de la bergerie,
-où elles se tiennent bien au chaud, serrées les unes contres les autres.
-Alors, tu les appelles chacune par leur nom, leur conférant une identité propre de sujet.
-Et tu les fais sortir, littéralement, tu les éduques.
-Voici alors qu'elles trouvent un pâturage: elles deviennent autonomes.
- 
-Seigneur, ces jeunes que tu nous confies, apprends- nous à les éduquer,
-à leur faire découvrir leur identité d'être unique aimé de toi,
-à les faire sortir de l'état de dépendance qu'est celui de l'enfance vers celui de sujet,
-capable de prendre la parole, d'entrer en relation avec les autres,
-de s'opposer, de travailler, de communiquer,
-et capable de la plus haute expression de la communication: l'amour.
-Apprends-nous à les rejoindre à ta manière, sans vouloir escalader à tout prix,
-mais en prenant le temps de découvrir la porte d'accès, ce qui suppose tact et douceur.
-
-“Ce n'est pas par les coups, mais par la douceur que tu en feras des amis”, disais-tu à Don Bosco,
-lorsqu'à l'âge de neuf ans, il entrevoyait déjà ce que serait sa mission.
-Indique-nous le chemin de la persévérance, de manière à apprendre à les connaître vraiment.
-
-Et puissent-ils, grâce à toi, découvrir peu à peu que cette vie qui est leur,
-ils l'ont reçue en abondance.
- 
-<br><br>
-<i>Jean-Marie Petitclerc</i>
----
-MDVersion: 1
 Titre: Ce qui est important
 Type: Texte
 Tags: Essentiel
@@ -3104,3 +3073,34 @@ Heureux êtes-vous lorsque l'on vous insulte, que l'on vous persécute et que l'
 Soyez dans la joie et l'allégresse, car votre récompense est grande dans les cieux ; c'est ainsi en effet que l'on a persécuté les prophètes qui vous ont précédés.
 <br><br>
 <i>Jésus-Christ, Bonne Nouvelle (Evangile) selon Saint Matthieu, 5, 3-12</i>
+---
+MDVersion: 1
+Titre: Apprends nous à éduquer
+Type: Texte
+Tags: Education, Autonomie
+---
+Seigneur, tu es le Bon Pasteur, prêt à risquer ta vie pour tes brebis.
+Elles sont enfermées dans l'univers un peu fusionnel de la bergerie,
+où elles se tiennent bien au chaud, serrées les unes contres les autres.
+Alors, tu les appelles chacune par leur nom, leur conférant une identité propre de sujet.
+Et tu les fais sortir, littéralement, tu les éduques.
+Voici alors qu'elles trouvent un pâturage: elles deviennent autonomes.
+ 
+Seigneur, ces jeunes que tu nous confies, apprends- nous à les éduquer,
+à leur faire découvrir leur identité d'être unique aimé de toi,
+à les faire sortir de l'état de dépendance qu'est celui de l'enfance vers celui de sujet,
+capable de prendre la parole, d'entrer en relation avec les autres,
+de s'opposer, de travailler, de communiquer,
+et capable de la plus haute expression de la communication: l'amour.
+Apprends-nous à les rejoindre à ta manière, sans vouloir escalader à tout prix,
+mais en prenant le temps de découvrir la porte d'accès, ce qui suppose tact et douceur.
+
+“Ce n'est pas par les coups, mais par la douceur que tu en feras des amis”, disais-tu à Don Bosco,
+lorsqu'à l'âge de neuf ans, il entrevoyait déjà ce que serait sa mission.
+Indique-nous le chemin de la persévérance, de manière à apprendre à les connaître vraiment.
+
+Et puissent-ils, grâce à toi, découvrir peu à peu que cette vie qui est leur,
+ils l'ont reçue en abondance.
+ 
+<br><br>
+<i>Jean-Marie Petitclerc</i>
