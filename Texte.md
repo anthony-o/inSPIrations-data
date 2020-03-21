@@ -31,24 +31,6 @@ ils l'ont reçue en abondance.
 <i>Jean-Marie Petitclerc</i>
 ---
 MDVersion: 1
-Titre: Béatitudes
-Type: Texte
-Tags: Bonheur
----
-Heureux les pauvres de coeur : le Royaume des cieux est à eux.
-Heureux les doux : ils auront la terre en partage.
-Heureux ceux qui pleurent : ils seront consolés.
-Heureux ceux qui ont faim et soif de la justice : ils seront rassasiés.
-Heureux les miséricordieux : il leur sera fait miséricorde.
-Heureux les coeurs purs : ils verront Dieu.
-Heureux ceux qui font oeuvre de paix : ils seront appelés fils de Dieu.
-Heureux ceux qui sont persécutés pour la justice : le royaume des cieux est à eux.
-Heureux êtes-vous lorsque l'on vous insulte, que l'on vous persécute et que l'on dit faussement contre vous toute sorte de mal à cause de moi.
-Soyez dans la joie et l'allégresse, car votre récompense est grande dans les cieux ; c'est ainsi en effet que l'on a persécuté les prophètes qui vous ont précédés.
-<br><br>
-<i>Jésus-Christ, Bonne Nouvelle (Evangile) selon Saint Matthieu, 5, 3-12</i>
----
-MDVersion: 1
 Titre: Ce qui est important
 Type: Texte
 Tags: Essentiel
@@ -3105,3 +3087,20 @@ Quand on les libère, on en est maître pour toujours.
 Si tu veux être heureux, ne t'attache pas aux choses.
 Alors, tu les posséderas.
 ---
+MDVersion: 1
+Titre: Béatitudes
+Type: Texte
+Tags: Bonheur
+---
+Heureux les pauvres de coeur : le Royaume des cieux est à eux.
+Heureux les doux : ils auront la terre en partage.
+Heureux ceux qui pleurent : ils seront consolés.
+Heureux ceux qui ont faim et soif de la justice : ils seront rassasiés.
+Heureux les miséricordieux : il leur sera fait miséricorde.
+Heureux les coeurs purs : ils verront Dieu.
+Heureux ceux qui font oeuvre de paix : ils seront appelés fils de Dieu.
+Heureux ceux qui sont persécutés pour la justice : le royaume des cieux est à eux.
+Heureux êtes-vous lorsque l'on vous insulte, que l'on vous persécute et que l'on dit faussement contre vous toute sorte de mal à cause de moi.
+Soyez dans la joie et l'allégresse, car votre récompense est grande dans les cieux ; c'est ainsi en effet que l'on a persécuté les prophètes qui vous ont précédés.
+<br><br>
+<i>Jésus-Christ, Bonne Nouvelle (Evangile) selon Saint Matthieu, 5, 3-12</i>
