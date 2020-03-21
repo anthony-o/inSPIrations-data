@@ -3100,8 +3100,9 @@ Titre: Les choses
 Type: Texte
 Tags: Essentiel, Sobriété
 ---
-Le Bouddha disait :
-On ne possède pas les choses :
+
+Le Bouddha disait 
+On ne possède pas les choses 
 On les tient seulement un instant entre les mains.
 Dès qu'on veut les posséder, elles nous possèdent.
 
@@ -3109,6 +3110,7 @@ Quand on veut s'approprier les choses, on les gâche.
 Quand on les libère, on en est maître pour toujours.
 Si tu veux être heureux, ne t'attache pas aux choses.
 Alors, tu les posséderas.
+
 ---
 
 MDVersion: 1
@@ -3126,8 +3128,10 @@ Heureux ceux qui font oeuvre de paix : ils seront appelés fils de Dieu.
 Heureux ceux qui sont persécutés pour la justice : le royaume des cieux est à eux.
 Heureux êtes-vous lorsque l'on vous insulte, que l'on vous persécute et que l'on dit faussement contre vous toute sorte de mal à cause de moi.
 Soyez dans la joie et l'allégresse, car votre récompense est grande dans les cieux ; c'est ainsi en effet que l'on a persécuté les prophètes qui vous ont précédés.
-<br><br>
+
+
 <i>Jésus-Christ, Bonne Nouvelle (Evangile) selon Saint Matthieu, 5, 3-12</i>
+
 ---
 MDVersion: 1
 Titre: Apprends nous à éduquer
