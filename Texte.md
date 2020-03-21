@@ -3,7 +3,6 @@ MDVersion: 1
 Titre: Apprends nous à éduquer
 Type: Texte
 Tags: Education, Autonomie
-
 ---
 Seigneur, tu es le Bon Pasteur, prêt à risquer ta vie pour tes brebis.
 Elles sont enfermées dans l'univers un peu fusionnel de la bergerie,
@@ -21,12 +20,9 @@ et capable de la plus haute expression de la communication: l'amour.
 Apprends-nous à les rejoindre à ta manière, sans vouloir escalader à tout prix,
 mais en prenant le temps de découvrir la porte d'accès, ce qui suppose tact et douceur.
 
-
-“Ce n'est pas par les coups, mais par la douceur
-que tu en feras des amis”, disais-tu à Don Bosco,
+“Ce n'est pas par les coups, mais par la douceur que tu en feras des amis”, disais-tu à Don Bosco,
 lorsqu'à l'âge de neuf ans, il entrevoyait déjà ce que serait sa mission.
 Indique-nous le chemin de la persévérance, de manière à apprendre à les connaître vraiment.
-
 
 Et puissent-ils, grâce à toi, découvrir peu à peu que cette vie qui est leur,
 ils l'ont reçue en abondance.
@@ -39,7 +35,6 @@ Titre: Béatitudes
 Type: Texte
 Tags: Bonheur
 ---
-
 Heureux les pauvres de coeur : le Royaume des cieux est à eux.
 Heureux les doux : ils auront la terre en partage.
 Heureux ceux qui pleurent : ils seront consolés.
@@ -99,10 +94,6 @@ Titre: Décalogue de la sérérenité
 Type: Texte
 Tags: Sérénité
 ---
-# -->Titre
-Décalogue de la sérénité
-
-# -->Texte
 1. Rien qu'aujourd'hui, j'essaierai de vivre ma journée sans chercher à résoudre le problème de toute ma vie.
 2. Rien qu'aujourd'hui, je prendrai le plus grand soin de me comporter et d'agir de manière courtoise ; je ne critiquerai personne et je ne prétendrai corriger ou régenter qui que ce soit, excepté moi-même.
 3. Aujourd'hui je serai heureux, rien qu'aujourd'hui, sur la certitude d'avoir été créé pour le bonheur, non seulement dans l'autre monde, mais également dans celui-ci.
@@ -115,10 +106,8 @@ Décalogue de la sérénité
 10. Rien qu'aujourd'hui, je n'aurai aucune crainte. Et tout particulièrement, je n'aurai pas peur d'apprécier ce qui est beau et de croire à la bonté.
 Je suis en mesure de faire le bien pendant douze heures, ce qui ne saurait me décourager, comme si je me croyais obligé de le faire toute ma vie durant.
 
-
 <br><br>
 <i>Pape Jean XXIII</i>
-
 
 ---
 MDVersion: 1
@@ -354,17 +343,13 @@ O Dieu, envoie-nous des fous.
 <br><br>
  
 
-
 *Louis-Joseph Lebret*
-
-
 ---
 MDVersion: 1
 Titre: Au delà
 Type: Texte
 Tags: Foi en l'homme, Courage
 ---
-
 Au-delà des mots et des dires Il y a des silences complices 
 Au-delà des mers démontées Il y a des terres nouvelles 
 Au-delà des cris et des larmes Il y a des tendresses infinies 
@@ -373,7 +358,6 @@ Au-delà des violences du temps Il y a l’homme, toujours l’homme
 Que Dieu te donne de voir au-delà des évidences son visage en tout homme. 
 <br><br>
 <i>Anonyme</i>
-
 
 ---
 MDVersion: 1
@@ -669,10 +653,6 @@ Titre: Le jour ou je me suis aimé pour de vrai
 Type: Texte
 Tags: Confiance, Grandir
 ---
-# -->Titre
-Le jour où je me suis aimé
-
-# -->Texte
 Le jour où je me suis aimé pour de vrai,
 j’ai compris qu’en toutes circonstances,
 j’étais à la bonne place, au bon moment.
@@ -2235,17 +2215,12 @@ Si tu veux construire un bateau, ne rassemble pas tes hommes et femmes pour leur
 <br>
 *Antoine de Saint-Exupéry*
 
-
-
 ---
 MDVersion: 1
 Titre: Si vous êtes malheureux
 Type: Texte
 Tags: Dieu
 ---
-
-
-# -->Texte
 Je Suis la LUMIÈRE... et vous ne Me voyez pas
 Je Suis la ROUTE... et vous ne Me suivez pas
 Je Suis la VÉRITÉ... et vous ne Me croyez pas
