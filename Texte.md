@@ -570,18 +570,22 @@ Titre: Hymne à la joie (prière)
 Type: Texte
 Tags: Joie, Prière
 ---
+
 La joie est prière,
 la joie est force,
 la joie est amour.
-<br><br>
+
+
 Dieu aime celui qui donne avec joie.
 La meilleure manière de montrer notre gratitude envers Dieu et envers les gens, c'est d'accepter tout avec joie.
-<br><br>
+
+
 Ne laissez jamais le chagrin vous noyer au point d'en oublier la joie du Christ ressuscité.
 Nous aspirons tous au ciel où est Dieu,
 mais nous avons le pouvoir de nous trouver dès maintenant dans ce ciel :
 il suffit d'être heureux avec lui, en l'instant présent.
-<br><br>
+
+
 Mais être heureux avec lui, maintenant,
 cela veut dire :
 aimer comme il aime,
@@ -592,22 +596,24 @@ sauver comme il sauve,
 être avec lui vingt-quatre heures par jour,
 le toucher sous son déguisement de misère,
 dans les pauvres et dans ceux qui souffrent.
-<br><br>
+
+
 Un coeur joyeux est le résultat normal
 d'un coeur brûlant d'amour.
 C'est le don de l'Esprit,
 une participation à la joie de Jésus
 vivant dans l'âme.
-<br><br>
+
+
 Gardons dans nos coeurs
 la joie de l'amour de Dieu
 et partageons cette joie
 de nous aimer les uns les autres,
 comme il aime chacun de nous.
 Que Dieu nous bénisse. Amen.
-. <br><br>
+
+
 <i>Mère Teresa, La joie du don, 1975</i>
----
 
 ---
 MDVersion: 1
@@ -1204,31 +1210,56 @@ Titre: Le pêcheur et l’homme d’affaires
 Type: Texte
 Tags: Argent, Temps, Sens, Sobriété
 ---
+
 Un riche d’homme d’affaires était en vacances en Inde. Un matin, sur la grève, il aperçut la barque d’un pêcheur qui rentrait.
-– Oh là ! lui cria-t-il. La pêche a été bonne ?
+
+Oh là ! lui cria-t-il. La pêche a été bonne ?
+
 Le pêcheur lui sourit et lui montra quelques poissons sur le sol de sa barque :
-– Oui, c’est une bonne pêche.
-– Il est encore tôt. Je suppose que tu y retournes.
-– Y retourner ? demanda le pêcheur. Mais pour quoi faire ?
-– Mais parce qu’ainsi tu en auras plus, répondit l’homme d’affaires à qui cela semblait une évidence.
-– Mais pour quoi faire ? Je n’en ai pas besoin !
-– Quand tu en auras plus, tu les revendras !
-– Mais pour quoi faire ?
-– Tu auras plus d’argent.
-– Mais pour quoi faire ?
-– Tu pourras changer ta vieille barque contre un joli petit bateau.
-– Mais pour quoi faire ?
-– Et bien, avec ton petit bateau, tu pourras avoir plus de poissons.
-– Mais pour quoi faire ?
-– Et bien tu pourras prendre des ouvriers.
-– Mais pour quoi faire ?
-– Ils pêcheront pour toi !
-– Mais pour quoi faire ?
-– Tu deviendras riche.
-– Mais pour quoi faire ?
-– Tu pourras ainsi te reposer.
+
+Oui, c’est une bonne pêche.
+
+Il est encore tôt. Je suppose que tu y retournes.
+
+Y retourner ? demanda le pêcheur. Mais pour quoi faire ?
+
+Mais parce qu’ainsi tu en auras plus, répondit l’homme d’affaires à qui cela semblait une évidence.
+
+Mais pour quoi faire ? Je n’en ai pas besoin !
+
+Quand tu en auras plus, tu les revendras !
+
+Mais pour quoi faire ?
+
+Tu auras plus d’argent.
+
+Mais pour quoi faire ?
+
+Tu pourras changer ta vieille barque contre un joli petit bateau.
+
+Mais pour quoi faire ?
+
+Et bien, avec ton petit bateau, tu pourras avoir plus de poissons.
+
+Mais pour quoi faire ?
+
+Et bien tu pourras prendre des ouvriers.
+
+Mais pour quoi faire ?
+
+Ils pêcheront pour toi !
+
+Mais pour quoi faire ?
+
+Tu deviendras riche.
+
+Mais pour quoi faire ?
+
+Tu pourras ainsi te reposer.
+
 Le pêcheur le regarda alors avec un grand sourire :
-– C’est justement ce que je vais faire tout de suite.
+C’est justement ce que je vais faire tout de suite.
+
 ---
 MDVersion: 1
 Titre: Le petit garçon et les étoiles de mer
@@ -1372,7 +1403,6 @@ Depuis, j'adore la vie parce que j'adore ses couleurs.
 <br><br>
 <i>Wen Yi-to</i>
 
-
 ---
 MDVersion: 1
 Titre: Les deux joies
@@ -1386,49 +1416,60 @@ Qu’elles remplissent les heures de ton jour et les jours de ta vie.
 Car lorsque les deux se rencontrent et s’unissent,
 Il y a un tel chant d’allégresse que ni le chant de l’alouette
 ni celui du rossignol ne peuvent s’y comparer.
-<br>
+
+
 Mais si une seule devait t’appartenir,
 si pour toi je devais choisir,
 je choisirais la joie qui vient du dedans.
-<br>
+
+
 Parce que la joie qui vient du dehors
 est comme le soleil qui se lève le matin et qui, le soir, se couche.
 Comme l’arc-en-ciel qui paraît et disparaît,
 comme la chaleur de l’été qui vient et se retire.
-<br>
+
+
 Comme le vent qui souffle et passe.
 Comme le feu qui brûle puis s’éteint…
 Trop éphémère, trop fugitive…
-<br>
+
+
 J’aime les joies du dehors.
 Je n’en renie aucune.
 Toutes, elles sont venues dans ma vie quand il le fallait…
 Mais j’ai besoin de quelque chose qui dure,
 de quelque chose qui n’a pas de fin, qui ne peut pas finir.
-<br>
+
+
 Et la joie du dedans ne peut pas finir.
 Elle est comme une rivière tranquille, toujours la même, toujours présente.
 Elle est comme le rocher,
 comme le ciel et la terre qui ne peuvent ni changer ni passer.
-<br>
+
+
 Je la trouve aux heures de silence, aux heures d’abandon.
 Son chant m’arrive au travers de ma tristesse et de ma fatigue.
 Elle ne m’a jamais quitté.
-<br>
+
+
 C’est Dieu – c’est le chant de Dieu en moi,
 cette force tranquille qui dirige les mondes et qui conduit les hommes
 et qui n’a pas de fin, qui ne peut pas finir.
-<br>
+
+
 Il y a la joie qui vient du dedans
 Et il y a celle qui vient du dehors.
 Je voudrais que les deux soient tiennes.
 Qu’elles remplissent les heures de ton jour et les jours de ta vie.
-<br>
+
+
 Mais si une seule devait t’appartenir,
 si pour toi je devais choisir,
 je choisirais la joie qui vient du dedans.
-<br><br>
-*Aimée Degallier-Martin (totem Lézard) *
+
+
+Aimée Degallier-Martin (totem Lézard) 
+
 ---
 MDVersion: 1
 Titre: Les gros cailloux de la vie
@@ -3005,12 +3046,14 @@ Dieu seul se suffit à lui même
 mais il a préféré compter sur toi !
 
 Guy Gilbert
+
 ---
 MDVersion: 1
 Titre: Donner.
 Type: Texte
 Tags: Amour, Don, Partager
 ---
+
 Donner mon temps
 pour écouter et pour parler.
 Une parcelle de temps seulement,
@@ -3045,12 +3088,12 @@ de mener la justice
 jusqu'à la répartition des biens.
 
 Donner,
-avec conviction,
-sans restrictions,
+avec conviction, sans restrictions,
 avec la joie de commencer à tout donner
 et à me donner enfin moi-même
 à l'image de celui qui a donné sa vie
 pour le bonheur du monde !
+
 ---
 MDVersion: 1
 Titre: Les choses
@@ -3067,6 +3110,7 @@ Quand on les libère, on en est maître pour toujours.
 Si tu veux être heureux, ne t'attache pas aux choses.
 Alors, tu les posséderas.
 ---
+
 MDVersion: 1
 Titre: Béatitudes
 Type: Texte
