@@ -21,29 +21,5 @@ Un marchand qui faisait boire ses chameaux non loin de là avait entendu les deu
 - Comment peux-tu donner deux réponses complètement différentes à la même question posée par deux personnes ?
 - Celui qui ouvre son coeur change aussi son regard sur les autres, répondit le vieillard. Chacun porte son univers dans son coeur.
 
-<br><br>
+
 <i>Anonyme</i>
-
----
-MDVersion: 1
-Titre: Ce qui est important
-Type: Texte
-Tags: Essentiel
----
-« Je me sens triste ! » dit une vague de l'océan en constatant que les autres vagues étaient plus grandes qu'elle. « Les vagues sont si grandes, si vigoureuses, et moi je suis si petite, si chétive. »
-
-Une autre vague lui répondit : « Ne sois pas triste. Ton chagrin n'existe que parce que tu t'attaches à l'apparent, tu ne conçois pas ta véritable nature. »
-
-« Ne suis-je donc pas une vague ? »
-
-« La vague n'est qu'une manifestation transitoire de ta nature. En vérité tu es l'eau. »
-
-« L'eau ? »
-
-« Oui. Si tu comprends clairement que ta nature est l'eau, tu n'accorderas plus d'importance à ta forme de vague et ton chagrin disparaîtra. »
-
-Avoir à l'esprit que l'humanité fait partie d'un ensemble est important. Car l'être humain se considère souvent comme le centre des choses en s'arrogeant des droits particuliers qui n'ont pas de raison d'être. Ainsi il ne voit que chez son prochain ce qu'il n'a pas, sans voir ce qu'il a déjà, et se cause les plus inutiles soucis.
-<br>
-<i>Zen</i>
-
-
