@@ -134,13 +134,6 @@ Martin Gray, Ecrivain
 ---
 MDVersion: 1
 Type: Citation
-Tags: Amour
----
-"Le véritable amour se révèle et se prouve par les oeuvres."
-Saint Thomas
----
-MDVersion: 1
-Type: Citation
 Tags: Vivre, Croissance, Oser
 ---
 "Si on ne change pas, on ne grandit pas. Si on ne grandit pas, on ne vit pas vraiment. Grandir exige un abandon provisoire de tout sentiment de sécurité."
@@ -403,5 +396,12 @@ Type: Citation
 Tags: Amour, Fraternité, Bien
 --
 Dans l’amitié humaine, celui qui aime vraiment cherche le bien de son ami plus que le plaisir qu’il trouverait dans sa présence. "
+Saint Thomas
+---
+MDVersion: 1
+Type: Citation
+Tags: Amour
+---
+"Le véritable amour se révèle et se prouve par les oeuvres."
 Saint Thomas
 ---
