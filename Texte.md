@@ -4,7 +4,6 @@ Titre: Comment sont les gens
 Type: Texte
 Tags: Oser
 ---
-
 Il était une fois un vieil homme assis à l'entrée d'une ville du Moyen-Orient.
 Un jeune homme s'approcha et lui dit :
 
@@ -36,4 +35,5 @@ Comment peux-tu donner deux réponses complètement différentes à la même que
 
 Celui qui ouvre son coeur change aussi son regard sur les autres, répondit le vieillard. Chacun porte son univers dans son coeur.
 
-<i>Anonyme</i>
+Anonyme
+---
