@@ -554,48 +554,6 @@ Jésus avança un peu et il vit Jacques, fils de Zébédée, et son frère Jean,
 Aussitôt, Jésus les appela. Alors, laissant dans la barque leur père Zébédée avec ses ouvriers, ils partirent à sa suite.
 ---
 MDVersion: 1
-Titre: L'arbre de Jessé
-Type: ReferenceBiblique
-Tags: Arbre, Psaume
-Reference: Psaume 103
----
-Bénis le Seigneur, ô mon âme ; Seigneur mon Dieu, tu es si grand ! Revêtu de magnificence,
-tu as pour manteau la lumière ! Comme une tenture, tu déploies les cieux,
-tu élèves dans leurs eaux tes demeures ; des nuées, tu te fais un char, tu t'avances sur les ailes du vent ;
-tu prends les vents pour messagers, pour serviteurs, les flammes des éclairs.
-Tu as donné son assise à la terre : qu'elle reste inébranlable au cours des temps.
-Tu l'as vêtue de l'abîme des mers : les eaux couvraient même les montagnes ;
-à ta menace, elles prennent la fuite, effrayées par le tonnerre de ta voix.
-Elles passent les montagnes, se ruent dans les vallées vers le lieu que tu leur as préparé.
-Tu leur imposes la limite à ne pas franchir : qu'elles ne reviennent jamais couvrir la terre.
-Dans les ravins tu fais jaillir des sources et l'eau chemine aux creux des montagnes ;
-elle abreuve les bêtes des champs : l'âne sauvage y calme sa soif ;
-les oiseaux séjournent près d'elle : dans le feuillage on entend leurs cris.
-De tes demeures tu abreuves les montagnes, et la terre se rassasie du fruit de tes oeuvres ;
-tu fais pousser les prairies pour les troupeaux, et les champs pour l'homme qui travaille. De la terre il tire son pain :
-le vin qui réjouit le coeur de l'homme, l'huile qui adoucit son visage, et le pain qui fortifie le coeur de l'homme.
-Les arbres du Seigneur se rassasient, les cèdres qu'il a plantés au Liban ;
-c'est là que vient nicher le passereau, et la cigogne a sa maison dans les cyprès ;
-aux chamois, les hautes montagnes, aux marmottes, l'abri des rochers.
-Tu fis la lune qui marque les temps et le soleil qui connaît l'heure de son coucher.
-Tu fais descendre les ténèbres, la nuit vient : les animaux dans la forêt s'éveillent ;
-le lionceau rugit vers sa proie, il réclame à Dieu sa nourriture.
-Quand paraît le soleil, ils se retirent : chacun gagne son repaire.
-L'homme sort pour son ouvrage, pour son travail, jusqu'au soir.
-Quelle profusion dans tes oeuvres, Seigneur ! + Tout cela, ta sagesse l'a fait ; * la terre s'emplit de tes biens.
-Voici l'immensité de la mer, son grouillement innombrable d'animaux grands et petits,
-ses bateaux qui voyagent, et Léviathan que tu fis pour qu'il serve à tes jeux.
-Tous, ils comptent sur toi pour recevoir leur nourriture au temps voulu.
-Tu donnes : eux, ils ramassent ; tu ouvres la main : ils sont comblés.
-Tu caches ton visage : ils s'épouvantent ; tu reprends leur souffle, ils expirent et retournent à leur poussière.
-Tu envoies ton souffle : ils sont créés ; tu renouvelles la face de la terre.
-Gloire au Seigneur à tout jamais ! Que Dieu se réjouisse en ses oeuvres !
-Il regarde la terre : elle tremble ; il touche les montagnes : elles brûlent.
-Je veux chanter au Seigneur tant que je vis ; je veux jouer pour mon Dieu tant que je dure.
-Que mon poème lui soit agréable ; moi, je me réjouis dans le Seigneur.
-Que les pécheurs disparaissent de la terre ! Que les impies n'existent plus ! Bénis le Seigneur, ô mon âme !
----
-MDVersion: 1
 Titre: La croissance
 Type: ReferenceBiblique
 Tags: Arbre, Croissance
@@ -2188,4 +2146,46 @@ Reference: Marc 9,33-35
 Ils arrivèrent à Capharnaüm, et, une fois à la maison, Jésus leur demanda : « De quoi discutiez-vous en chemin ? »
 Ils se taisaient, car, en chemin, ils avaient discuté entre eux pour savoir qui était le plus grand.
 S’étant assis, Jésus appela les Douze et leur dit : « Si quelqu’un veut être le premier, qu’il soit le dernier de tous et le serviteur de tous. »
+---
+MDVersion: 1
+Titre: L'arbre de Jessé
+Type: ReferenceBiblique
+Tags: Arbre, Psaume
+Reference: Psaume 103
+---
+Bénis le Seigneur, ô mon âme ; Seigneur mon Dieu, tu es si grand ! Revêtu de magnificence,
+tu as pour manteau la lumière ! Comme une tenture, tu déploies les cieux,
+tu élèves dans leurs eaux tes demeures ; des nuées, tu te fais un char, tu t'avances sur les ailes du vent ;
+tu prends les vents pour messagers, pour serviteurs, les flammes des éclairs.
+Tu as donné son assise à la terre : qu'elle reste inébranlable au cours des temps.
+Tu l'as vêtue de l'abîme des mers : les eaux couvraient même les montagnes ;
+à ta menace, elles prennent la fuite, effrayées par le tonnerre de ta voix.
+Elles passent les montagnes, se ruent dans les vallées vers le lieu que tu leur as préparé.
+Tu leur imposes la limite à ne pas franchir : qu'elles ne reviennent jamais couvrir la terre.
+Dans les ravins tu fais jaillir des sources et l'eau chemine aux creux des montagnes ;
+elle abreuve les bêtes des champs : l'âne sauvage y calme sa soif ;
+les oiseaux séjournent près d'elle : dans le feuillage on entend leurs cris.
+De tes demeures tu abreuves les montagnes, et la terre se rassasie du fruit de tes oeuvres ;
+tu fais pousser les prairies pour les troupeaux, et les champs pour l'homme qui travaille. De la terre il tire son pain :
+le vin qui réjouit le coeur de l'homme, l'huile qui adoucit son visage, et le pain qui fortifie le coeur de l'homme.
+Les arbres du Seigneur se rassasient, les cèdres qu'il a plantés au Liban ;
+c'est là que vient nicher le passereau, et la cigogne a sa maison dans les cyprès ;
+aux chamois, les hautes montagnes, aux marmottes, l'abri des rochers.
+Tu fis la lune qui marque les temps et le soleil qui connaît l'heure de son coucher.
+Tu fais descendre les ténèbres, la nuit vient : les animaux dans la forêt s'éveillent ;
+le lionceau rugit vers sa proie, il réclame à Dieu sa nourriture.
+Quand paraît le soleil, ils se retirent : chacun gagne son repaire.
+L'homme sort pour son ouvrage, pour son travail, jusqu'au soir.
+Quelle profusion dans tes oeuvres, Seigneur ! + Tout cela, ta sagesse l'a fait ; * la terre s'emplit de tes biens.
+Voici l'immensité de la mer, son grouillement innombrable d'animaux grands et petits,
+ses bateaux qui voyagent, et Léviathan que tu fis pour qu'il serve à tes jeux.
+Tous, ils comptent sur toi pour recevoir leur nourriture au temps voulu.
+Tu donnes : eux, ils ramassent ; tu ouvres la main : ils sont comblés.
+Tu caches ton visage : ils s'épouvantent ; tu reprends leur souffle, ils expirent et retournent à leur poussière.
+Tu envoies ton souffle : ils sont créés ; tu renouvelles la face de la terre.
+Gloire au Seigneur à tout jamais ! Que Dieu se réjouisse en ses oeuvres !
+Il regarde la terre : elle tremble ; il touche les montagnes : elles brûlent.
+Je veux chanter au Seigneur tant que je vis ; je veux jouer pour mon Dieu tant que je dure.
+Que mon poème lui soit agréable ; moi, je me réjouis dans le Seigneur.
+Que les pécheurs disparaissent de la terre ! Que les impies n'existent plus ! Bénis le Seigneur, ô mon âme !
 ---
