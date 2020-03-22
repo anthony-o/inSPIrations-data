@@ -140,7 +140,7 @@ Type: ReferenceBiblique
 Tags: Agir 
 Reference: Lettres de St Jacques Apotre 2,14-18
 ---
-1Mes frères, si quelqu’un prétend avoir la foi, sans la mettre en œuvre, à quoi cela sert-il ? Sa foi peut-elle le sauver ?
+Mes frères, si quelqu’un prétend avoir la foi, sans la mettre en œuvre, à quoi cela sert-il ? Sa foi peut-elle le sauver ?
 Supposons qu’un frère ou une sœur n’ait pas de quoi s’habiller, ni de quoi manger tous les jours ;
 si l’un de vous leur dit : « Allez en paix ! Mettez-vous au chaud, et mangez à votre faim ! » sans leur donner le nécessaire pour vivre, à quoi cela sert-il ?
 Ainsi donc, la foi, si elle n’est pas mise en œuvre, est bel et bien morte.
@@ -402,8 +402,6 @@ alors pourquoi n’as-tu pas mis mon argent à la banque ? À mon arrivée, je l
 Et le roi dit à ceux qui étaient là : “Retirez-lui cette somme et donnez-la à celui qui a dix fois plus.”
 On lui dit : “Seigneur, il a dix fois plus !
 Je vous le déclare : on donnera à celui qui a ; mais celui qui n’a rien se verra enlever même ce qu’il a.
-
-
 ---
 MDVersion: 1
 Titre: Quitte ton pays - Abraham
@@ -496,7 +494,6 @@ Nathanaël lui demande : « D’où me connais-tu ? » Jésus lui répond : « A
 Nathanaël lui dit : « Rabbi, c’est toi le Fils de Dieu ! C’est toi le roi d’Israël ! »
 Jésus reprend : « Je te dis que je t’ai vu sous le figuier, et c’est pour cela que tu crois ! Tu verras des choses plus grandes encore. »
 Et il ajoute : « Amen, amen, je vous le dis : vous verrez le ciel ouvert, et les anges de Dieu monter et descendre au-dessus du Fils de l’homme. »
-
 ---
 MDVersion: 1
 Titre: Je vous ferai pêcheurs d’hommes
@@ -557,7 +554,7 @@ Jésus avança un peu et il vit Jacques, fils de Zébédée, et son frère Jean,
 Aussitôt, Jésus les appela. Alors, laissant dans la barque leur père Zébédée avec ses ouvriers, ils partirent à sa suite.
 ---
 MDVersion: 1
-L'arbre de Jessé
+Titre: L'arbre de Jessé
 Type: ReferenceBiblique
 Tags: Arbre, Psaume
 Reference: Psaume 103
@@ -846,10 +843,10 @@ Mes os n'étaient pas cachés pour toi * quand j'étais façonné dans le secret
 J'étais encore inachevé, tu me voyais ; * sur ton livre, tous mes jours étaient inscrits, recensés avant qu'un seul ne soit !
 Que tes pensées sont pour moi difficiles, Dieu, que leur somme est imposante !
 Je les compte : plus nombreuses que le sable ! Je m'éveille : je suis encore avec toi.
-[Dieu, si tu exterminais l'impie ! Hommes de sang, éloignez-vous de moi !
+Dieu, si tu exterminais l'impie ! Hommes de sang, éloignez-vous de moi !
 Tes adversaires profanent ton nom : ils le prononcent pour détruire.
 Comment ne pas haïr tes ennemis, Seigneur, ne pas avoir en dégoût tes assaillants ?
-Je les hais d'une haine parfaite, je les tiens pour mes propres ennemis.]
+Je les hais d'une haine parfaite, je les tiens pour mes propres ennemis.
 Scrute-moi, mon Dieu, tu sauras ma pensée  éprouve-moi, tu connaîtras mon coeur.
 Vois si je prends le chemin des idoles, et conduis-moi sur le chemin d'éternité
 ---
@@ -867,9 +864,9 @@ les arrogants qui m'ont tendu des pièges ; sur mon passage ils ont mis un filet
 Je dis au Seigneur : « Mon Dieu, c'est toi ! » Seigneur, entends le cri de ma prière.
 Tu es la force qui me sauve, Maître, Seigneur ; au jour du combat, tu protèges ma tête.
 Ne cède pas, Seigneur, au désir des impies, ne permets pas que leurs intrigues réussissent !
-[Sur la tête de ceux qui m'encerclent, que retombe le poids de leurs injures !
+Sur la tête de ceux qui m'encerclent, que retombe le poids de leurs injures !
 Que des braises pleuvent sur eux ! Qu'ils soient jetés à la fosse et jamais ne se relèvent !
-L'insulteur ne tiendra pas sur la terre : le violent, le mauvais, sera traqué à mort.]
+L'insulteur ne tiendra pas sur la terre : le violent, le mauvais, sera traqué à mort.
 Je le sais, le Seigneur rendra justice au malheureux, il fera droit au pauvre.
 Oui, les justes rendront grâce à ton nom, les hommes droits siégeront en ta présence.
 ---
@@ -927,7 +924,7 @@ Le soleil s’étant levé, ils ont brûlé et, faute de racines, ils ont séch�
 D’autres sont tombés dans les ronces ; les ronces ont poussé et les ont étouffés.
 D’autres sont tombés dans la bonne terre, et ils ont donné du fruit à raison de cent, ou soixante, ou trente pour un.
 Celui qui a des oreilles, qu’il entende ! »
-[...]
+...
 Vous donc, écoutez ce que veut dire la parabole du semeur.
 Quand quelqu’un entend la parole du Royaume sans la comprendre, le Mauvais survient et s’empare de ce qui est semé dans son cœur : celui-là, c’est le terrain ensemencé au bord du chemin.
 Celui qui a reçu la semence sur un sol pierreux, c’est celui qui entend la Parole et la reçoit aussitôt avec joie ;
@@ -1386,7 +1383,7 @@ Reference: Livre d'Osée 6,1-6
 Venez, retournons vers le Seigneur !   il a blessé, mais il nous guérira ; il a frappé, mais il nous soignera.
 Après deux jours, il nous rendra la vie ; il nous relèvera le troisième jour : alors, nous vivrons devant sa face.
 Efforçons-nous de connaître le Seigneur : son lever est aussi sûr que l’aurore ; il nous viendra comme la pluie, l’ondée qui arrose la terre.
-– Que ferai-je de toi, Éphraïm ? Que ferai-je de toi, Juda ? Votre fidélité, une brume du matin, une rosée d’aurore qui s’en va.
+Que ferai-je de toi, Éphraïm ? Que ferai-je de toi, Juda ? Votre fidélité, une brume du matin, une rosée d’aurore qui s’en va.
 Voilà pourquoi j’ai frappé par mes prophètes, donné la mort par les paroles de ma bouche : mon jugement jaillit comme la lumière.
 Je veux la fidélité, non le sacrifice, la connaissance de Dieu plus que les holocaustes.
 ---
