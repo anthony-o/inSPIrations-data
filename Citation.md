@@ -141,13 +141,6 @@ Saint Thomas
 ---
 MDVersion: 1
 Type: Citation
-Tags: Amour, Fraternité, Bien
---
-Dans l’amitié humaine, celui qui aime vraiment cherche le bien de son ami plus que le plaisir qu’il trouverait dans sa présence. "
-Saint Thomas
----
-MDVersion: 1
-Type: Citation
 Tags: Vivre, Croissance, Oser
 ---
 "Si on ne change pas, on ne grandit pas. Si on ne grandit pas, on ne vit pas vraiment. Grandir exige un abandon provisoire de tout sentiment de sécurité."
@@ -404,4 +397,11 @@ Tags: Espérance, Courage
 ---
 "La plupart des choses importantes dans le monde ont été accomplies par des personnes qui ont continué à essayer quand il semblait y avoir aucun espoir."
 Dale Carnegie
+---
+MDVersion: 1
+Type: Citation
+Tags: Amour, Fraternité, Bien
+--
+Dans l’amitié humaine, celui qui aime vraiment cherche le bien de son ami plus que le plaisir qu’il trouverait dans sa présence. "
+Saint Thomas
 ---
