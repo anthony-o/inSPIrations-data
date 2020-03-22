@@ -19,7 +19,8 @@ Le vieillard répondit:
 
 Tu trouveras les mêmes gens ici.
 
-Un peu plus tard, un autre jeune homme s'approcha et lui posa exactement la même question. - Je viens d'arriver dans la région ; comment sont les gens qui vivent dans cette ville ?
+Un peu plus tard, un autre jeune homme s'approcha et lui posa exactement la même question. 
+Je viens d'arriver dans la région ; comment sont les gens qui vivent dans cette ville ?
 
 Le vieille homme répondit de même :
 
