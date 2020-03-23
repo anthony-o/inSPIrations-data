@@ -6,7 +6,6 @@ Tags: Scout, Marie
 ---
 Couronnée d’étoiles: 
 
-
 [Lien Youtube: Couronnée d’étoiles](https://www.youtube.com/watch?v=UEmQh77K0Rs)
 
 ---
