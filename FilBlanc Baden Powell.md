@@ -30,6 +30,7 @@ A chaque temps une phrase de Baden Powell pour lancer.
 MDVersion: 1
 Titre: La meilleure manière d’atteindre le bonheur est de le donner aux autres
 Type: TempsSpi
+Modèle: document-simple
 FilBlanc: BadenPowell
 TitreParole: Demeurez dans mon amour
 TitreGeste: Ne fais pas aux autres ce que tu ne voudrais pas qu’ils te fassent.
@@ -74,8 +75,8 @@ Signe de croix.
 ---
 MDVersion: 1
 Titre: La meilleure manière d’atteindre le bonheur est de le donner aux autres
-Type: TempsSpiAPGE
-FilBlanc: BadenPowell
+Type: TempsSpi
+CodeFilBlanc: BadenPowell
 TitreParole: Demeurez dans mon amour
 TitreGeste: Ingrédients
 Tags: Scout, Caractère, Sens
@@ -109,8 +110,8 @@ Prière : Que ce goûter qui symbolise l’addition de toutes nos qualités nous
 ---
 MDVersion: 1
 Titre: La vie est trop courte pour qu’on se dispute
-Type: TempsSpiAPGE
-FilBlanc: BadenPowell
+Type: TempsSpi
+CodeFilBlanc: BadenPowell
 TitreParole: Prière de St François d'assise
 TitreGeste: Etre liés et se pardonner
 Tags: Scout, Pardon, Pardon, Paix
@@ -150,8 +151,8 @@ Chant : Evenou Shalom
 ---
 MDVersion: 1
 Titre: L’optimiste est une forme de courage qui donne confiance aux autres et mène au succès
-Type: TempsSpiAPGE
-FilBlanc: BadenPowell
+Type: TempsSpi
+CodeFilBlanc: BadenPowell
 TitreParole: Les 4 bougies
 TitreGeste: La flamme de la confiance
 Tags: Scout, Confiance, Paix, Espérance
@@ -182,8 +183,8 @@ Chant : Dans nos obscurités allume le feu qui ne s’éteint jamais.
 ---
 MDVersion: 1
 Titre: Une langue et deux oreilles
-Type: TempsSpiAPGE
-FilBlanc: BadenPowell
+Type: TempsSpi
+CodeFilBlanc: BadenPowell
 TitreParole: Ecouter
 TitreGeste: La flamme de la confiance
 Tags: Scout, Ecouter
@@ -216,8 +217,8 @@ Chant : Ecoute écoute, surtout ne fait pas de bruit
 ---
 MDVersion: 1
 Titre: "Tout ce qui mérite d'être fait, mérite d'être bien fait"
-Type: TempsSpiAPGE
-FilBlanc: BadenPowell
+Type: TempsSpi
+CodeFilBlanc: BadenPowell
 TitreParole: Ecouter
 TitreGeste: Photolanguage
 Tags: Scout, Prière
@@ -248,8 +249,8 @@ Chant : Dans ce monde qui avance
 ---
 MDVersion: 1
 Titre: Dernier message de BP
-Type: TempsSpiAPGE
-FilBlanc: BadenPowell
+Type: TempsSpi
+CodeFilBlanc: BadenPowell
 TitreParole: Ecouter
 TitreGeste: Photolanguage
 Tags: Scout, Relecture, Fin de camp

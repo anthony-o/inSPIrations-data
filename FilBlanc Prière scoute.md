@@ -19,12 +19,12 @@ que celle de savoir que nous faisons Votre Sainte Volonté
 ---
 MDVersion: 1
 Titre: La Prière Scoute
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Prière Scoute
 TitreGeste: Partager son vécu 
 Tags: Scoute, Progressions personnelle
 Tranches d'âges: 11-14,14-17,17-19
-FilBlanc: Prière Scoute
+CodeFilBlanc: Prière Scoute
 OrdreFilBlanc: 1
 ---
 # -->Accueil
@@ -69,11 +69,11 @@ Chanter la prière la prière scoute.
 ---
 MDVersion: 1
 Titre: Apprenez nous à être généreux
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: S'il me manque l'amour
 TitreGeste: Identifier les richesses de ma vie
 Tags: Générosité, Scout, Amour
-FilBlanc: Prière Scoute
+CodeFilBlanc: Prière Scoute
 OrdreFilBlanc: 2
 Tranches d'âges: 8-11,11-14,14-17,17-18
 ---
@@ -107,11 +107,11 @@ chant: Je veux chanter ton amour Seigneur chaque instant de ma vie
 ---
 MDVersion: 1
 Titre: A donner sans compter
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Je crois en l'homme
 TitreGeste: Essayer encore et encore
 Tags: Croire en l'homme
-FilBlanc: Prière Scoute
+CodeFilBlanc: Prière Scoute
 OrdreFilBlanc: 3
 Tranches d'âges: 11-14,14-17,17-19
 ---
@@ -173,11 +173,11 @@ Chant: Dans ce monde qui avance je fais de mon mieux
 ---
 MDVersion: 1
 Titre: Sans attendre de récompenses
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Sans attendre de récompenses
 TitreGeste: à compléter
 Tags: Prière, Scout, Humilité
-FilBlanc: Prière Scoute
+CodeFilBlanc: Prière Scoute
 OrdreFilBlanc: 7
 Tranches d'âges: 11-14,14-17,17-18
 ---
@@ -202,11 +202,11 @@ Reference: Matthieu 6,1-4
 ---
 MDVersion: 1
 Titre: Dialogue sur la prière Scoute
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Prière Scoute
 TitreGeste: Un temps pour soi
 Tags: Prière, Scout
-FilBlanc: Prière Scoute
+CodeFilBlanc: Prière Scoute
 OrdreFilBlanc: 30
 Tranches d'âges: 11-14,14-17,17-18
 ---

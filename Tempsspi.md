@@ -1,7 +1,7 @@
 ---
 MDVersion: 1
 Titre: Prendre du recul au désert
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Le roi et le jardin
 TitreGeste: Identifier les richesses de ma vie
 Tags: Désert, Prise de recul, Essentiel
@@ -52,7 +52,7 @@ Chant: Debout resplendis
 ---
 MDVersion: 1
 Titre: Faire le point
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: L'appel des disciples
 TitreGeste: Questions à compléter en équipe
 Tags: Appel, Equipe
@@ -115,7 +115,7 @@ Chants:
 ---
 MDVersion: 1
 Titre: Bienheureux ceux qui procurent la paix
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Alors, la paix viendra
 TitreGeste: Identifier les richesses de ma vie
 Tags: Prendre du recul, Paix
@@ -211,7 +211,7 @@ Faîtes que ce temps vienne
 ---
 MDVersion: 1
 Titre: Construire sur le roc
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Construire sa maison sur le roc
 TitreGeste: Choisir une pierre
 Tags: Démarrer un camp, Construire
@@ -243,7 +243,7 @@ https://www.youtube.com/watch?v=w3Et9DATFy8
 ---
 MDVersion: 1
 Titre: Fais de moi un instrument de Paix
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Prière de Saint François d’Assise
 TitreGeste: Rédiger une intention de prière
 Tags: Paix, Servir
@@ -316,7 +316,7 @@ Faîtes que ce temps vienne
 ---
 MDVersion: 1
 Titre: Le désert, un lieu non-choisi
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Sur le chemin d’Emmaüs
 TitreGeste: Partager en groupe
 Tags: Désert, Paix
@@ -371,7 +371,7 @@ Chant: Jésus, toi qui a promis
 ---
 MDVersion: 1
 Titre: L’eau vive
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: La Samaritaine
 TitreGeste: Admirer, remercier, prier
 Tags: Le Don de Dieu
@@ -412,7 +412,7 @@ https://www.youtube.com/watch?v=9-GZ26qT7iA
 ---
 MDVersion: 1
 Titre: La vie est une chance
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: La vie est une chance
 TitreGeste: Prendre une pincée de sel
 Tags: Vivre
@@ -462,7 +462,7 @@ https://www.youtube.com/watch?v=G2QXOfLk2Gw
 ---
 MDVersion: 1
 Titre: Utiliser le Don de Dieu
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: La vie est une chance
 TitreGeste: Merci pour ces dons
 Tags: Don de Dieu, Milieu de camp
@@ -515,7 +515,7 @@ Signe de Croix
 ---
 MDVersion: 1
 Titre: Loué sois-tu
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Cantique des créatures
 TitreGeste: Observer et dessiner
 Tags: Laudato Si, Nature
@@ -575,7 +575,7 @@ https://www.youtube.com/watch?v=42O2r1Lxfz0&list=RDCAyO0xt-3CI&index=51
 ---
 MDVersion: 1
 Titre: Ce qui est important
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Au delà des commandements
 TitreGeste: Objet à compléter durant le camp
 Tags: Début de camp
@@ -623,7 +623,7 @@ A tour de rôle chacun exprime, un risque, une envie qu’il a pour que le group
 ---
 MDVersion: 1
 Titre: Plusieurs membres, un seul corps
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Tous les membres ne forment qu’un seul corps
 TitreGeste: L’importance de chaque partie du corps
 Tags: Equipe, Solidarité
@@ -724,7 +724,7 @@ https://www.youtube.com/watch?v=wqOPOyQcdw4
 ---
 MDVersion: 1
 Titre: Sur le chemin d’Emmaüs
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Sur le chemin d’Emmaüs
 TitreGeste: Partager sur le vécu
 Tags: Désert, Chemin, Espérance
@@ -776,7 +776,7 @@ Prière scoute
 ---
 MDVersion: 1
 Titre: Préparer son sac
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Passage de la mer rouge
 TitreGeste: Choisir ce que j’emmène
 Tags: Début de camp, Départ
@@ -821,7 +821,7 @@ https://www.youtube.com/watch?v=_R5WzczfR20
 ---
 MDVersion: 1
 Titre: Loué sois tu Seigneur pour...
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: le cantique de frère soleil
 TitreGeste: Dire une louange
 Tags: Louange, Laudato Si
@@ -929,7 +929,7 @@ https://www.youtube.com/watch?v=Lje_aWoQnnQ
 ---
 MDVersion: 1
 Titre: Ce qui est important
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: les petites béatitudes
 TitreGeste: Identifier les richesses de ma vie
 Tags: Retour d'explo
@@ -974,7 +974,7 @@ Signe de Croix
 ---
 MDVersion: 1
 Titre: Se mettre de chemin
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Sur le chemin d’Emmaüs
 TitreGeste: Autour du feu ou d’une bougie
 Tags: Début de camp, Départ
@@ -1021,7 +1021,7 @@ Jean Debruynne
 ---
 MDVersion: 1
 Titre: La beauté de la nature
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Dieu éclate tellement dans toute sa création
 TitreGeste: Admirer, remercier, prier
 Tags: Nature, Début de camp, Laudato Si
@@ -1080,7 +1080,7 @@ Par le pain et le vin... Refrain
 ---
 MDVersion: 1
 Titre: Laudato Si
-Type: TempsSpiAPGE
+Type: TempsSpi
 TitreParole: Laudato 21 et 23
 TitreGeste: Débat
 Tags: Nature, Début de camp, Laudato Si

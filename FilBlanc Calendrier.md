@@ -21,7 +21,9 @@ Retracer la vie de Jésus, en commençant  par Noël et en finissant par la Tous
 ---
 MDVersion: 1
 Titre: Noël
-Type: TempsSpiSimple
+Type: TempsSpi
+CodeFilBlanc: Calendrier
+Modèle: document-simple
 Tags: Noël
 Tranches d'âges: 8-11,11-14,14-17,17-18
 OrdreFilBlanc: 1
@@ -57,7 +59,9 @@ La valeur du temps
 ---
 MDVersion: 1
 Titre: Epiphanie
-Type: TempsSpiSimple
+Type: TempsSpi
+CodeFilBlanc: Calendrier
+Modèle: document-simple
 Tags: Epiphanie
 Tranches d'âges: 8-11,11-14,14-17,17-18
 OrdreFilBlanc: 2
@@ -85,7 +89,9 @@ S’apprivoiser, Le Petit Prince
 ---
 MDVersion: 1
 Titre: Paques
-Type: TempsSpiSimple
+Type: TempsSpi
+CodeFilBlanc: Calendrier
+Modèle: document-simple
 Tags: Paques
 Tranches d'âges: 8-11,11-14,14-17,17-18
 OrdreFilBlanc: 3
@@ -117,7 +123,9 @@ Risquer - Rudyard Kipling
 ---
 MDVersion: 1
 Titre: Ascension
-Type: TempsSpiSimple
+Type: TempsSpi
+CodeFilBlanc: Calendrier
+Modèle: document-simple
 Tags: Ascension
 Tranches d'âges: 8-11,11-14,14-17,17-18
 OrdreFilBlanc: 4
@@ -143,7 +151,9 @@ Le jour où je me suis aimé pour de vrai, Charlie Chaplin
 ---
 MDVersion: 1
 Titre: Pentecôte
-Type: TempsSpiSimple
+Type: TempsSpi
+CodeFilBlanc: Calendrier
+Modèle: document-simple
 Tags: Pentecôte
 Tranches d'âges: 8-11,11-14,14-17,17-18
 OrdreFilBlanc: 5
@@ -173,7 +183,9 @@ Risquer - Rudyard Kipling
 ---
 MDVersion: 1
 Titre: Assomption
-Type: TempsSpiSimple
+Type: TempsSpi
+CodeFilBlanc: Calendrier
+Modèle: document-simple
 Tags: Assomption
 Tranches d'âges: 8-11,11-14,14-17,17-18
 OrdreFilBlanc: 6
@@ -201,7 +213,9 @@ Poèmes de la fête des mères
 ---
 MDVersion: 1
 Titre: Toussaint
-Type: TempsSpiSimple
+Type: TempsSpi
+Modèle: document-simple
+CodeFilBlanc: Calendrier
 Tags: Toussaint
 Tranches d'âges: 8-11,11-14,14-17,17-18
 OrdreFilBlanc: 7
