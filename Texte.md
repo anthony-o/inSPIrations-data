@@ -108,30 +108,30 @@ Tags: Oser
 >Il était une fois un vieil homme assis à l'entrée d'une ville du Moyen-Orient.
 >
 >Un jeune homme s'approcha et lui dit :
->- Je ne suis jamais venu ici ; comment sont les gens qui vivent dans cette ville ?
+>"Je ne suis jamais venu ici ; comment sont les gens qui vivent dans cette ville ?"
 >
 >Le vieil homme lui répondit par une question :
->- Comment étaient les gens dans la ville d'où tu viens ?
+>"Comment étaient les gens dans la ville d'où tu viens ?"
 >
->- Egoïstes et méchants. C'est d'ailleurs la raison pour laquelle j'étais bien content de partir, dit le jeune homme.
+>"Egoïstes et méchants. C'est d'ailleurs la raison pour laquelle j'étais bien content de partir, dit le jeune homme."
 >
 >Le vieillard répondit:
->- Tu trouveras les mêmes gens ici.
+>"Tu trouveras les mêmes gens ici."
 >
 >Un peu plus tard, un autre jeune homme s'approcha et lui posa exactement la même question. 
->- Je viens d'arriver dans la région ; comment sont les gens qui vivent dans cette ville ?
+>"Je viens d'arriver dans la région ; comment sont les gens qui vivent dans cette ville ?"
 >
 >Le vieille homme répondit de même :
->- Dis-moi, mon garçon, comment étaient les gens dans la ville d'où tu viens ?
+>"Dis-moi, mon garçon, comment étaient les gens dans la ville d'où tu viens ?"
 >
->- Ils étaient bons et accueillants, honnêtes; j'y avais de bons amis; j'ai eu beaucoup de mal à la quitter, répondit le jeune homme.
+>"Ils étaient bons et accueillants, honnêtes; j'y avais de bons amis; j'ai eu beaucoup de mal à la quitter, répondit le jeune homme."
 >
->- Tu trouveras les mêmes ici, répondit le vieil homme.
+>"Tu trouveras les mêmes ici, répondit le vieil homme."
 >
 >Un marchand qui faisait boire ses chameaux non loin de là avait entendu les deux conversations. Dès que le deuxième jeune homme se >fut éloigné, il s'adressa au vieillard sur un ton de reproche :
->- Comment peux-tu donner deux réponses complètement différentes à la même question posée par deux personnes ?
+>"Comment peux-tu donner deux réponses complètement différentes à la même question posée par deux personnes ?"
 >
->- Celui qui ouvre son coeur change aussi son regard sur les autres, répondit le vieillard. Chacun porte son univers dans son coeur.
+>"Celui qui ouvre son coeur change aussi son regard sur les autres, répondit le vieillard. Chacun porte son univers dans son coeur."
 
 <br><br>
 <i>Anonyme</i>
@@ -142,17 +142,27 @@ Titre: Décalogue de la sérérenité
 Type: Texte
 Tags: Sérénité
 ---
-1. Rien qu'aujourd'hui, j'essaierai de vivre ma journée sans chercher à résoudre le problème de toute ma vie.
-2. Rien qu'aujourd'hui, je prendrai le plus grand soin de me comporter et d'agir de manière courtoise ; je ne critiquerai personne et je ne prétendrai corriger ou régenter qui que ce soit, excepté moi-même.
-3. Aujourd'hui je serai heureux, rien qu'aujourd'hui, sur la certitude d'avoir été créé pour le bonheur, non seulement dans l'autre monde, mais également dans celui-ci.
-4. Rien qu'aujourd'hui je consacrerai dix minutes à une bonne lecture en me rappelant que, comme la nourriture est nécessaire à la vie du corps , de même la bonne lecture est nécessaire à la vie de l'âme.
-5. Rien qu'aujourd'hui, je ferai une bonne action et je n'en parlerai à personne.
-6. Rien qu'aujourd'hui, j'accomplirai au moins une chose que je n'ai pas du tout envie de faire, et si on m'offense, je ne le manifesterai pas.
-7. Rien qu'aujourd'hui, je me plierai aux circonstances, sans prétendre que celles-ci cèdent à tous mes désirs 
-8. Rien qu'aujourd'hui, j'établirai un programme détaillé de ma journée. Je ne m'en acquitterai peut-être pas entièrement, mais je le rédigerai. Et je me garderai de deux calamités: la hâte et l'indécision.
-9. Rien qu'aujourd'hui, je croirai fermement - même si les circonstances attestent le contraire - que la Providence de Dieu s'occupe de moi comme si rien d'autre n'existait au monde.
-10. Rien qu'aujourd'hui, je n'aurai aucune crainte. Et tout particulièrement, je n'aurai pas peur d'apprécier ce qui est beau et de croire à la bonté.
-Je suis en mesure de faire le bien pendant douze heures, ce qui ne saurait me décourager, comme si je me croyais obligé de le faire toute ma vie durant.
+>1. Rien qu'aujourd'hui, j'essaierai de vivre ma journée sans chercher à résoudre le problème de toute ma vie.
+>
+>2. Rien qu'aujourd'hui, je prendrai le plus grand soin de me comporter et d'agir de manière courtoise ; je ne critiquerai personne et je ne prétendrai corriger ou régenter qui que ce soit, excepté moi-même.
+>
+>3. Aujourd'hui je serai heureux, rien qu'aujourd'hui, sur la certitude d'avoir été créé pour le bonheur, non seulement dans l'autre monde, mais également dans celui-ci.
+>
+>4. Rien qu'aujourd'hui je consacrerai dix minutes à une bonne lecture en me rappelant que, comme la nourriture est nécessaire à la vie du corps , de même la bonne lecture est nécessaire à la vie de l'âme.
+>
+>5. Rien qu'aujourd'hui, je ferai une bonne action et je n'en parlerai à personne.
+>
+>6. Rien qu'aujourd'hui, j'accomplirai au moins une chose que je n'ai pas du tout envie de faire, et si on m'offense, je ne le manifesterai pas.
+>
+>7. Rien qu'aujourd'hui, je me plierai aux circonstances, sans prétendre que celles-ci cèdent à tous mes désirs 
+>
+>8. Rien qu'aujourd'hui, j'établirai un programme détaillé de ma journée. Je ne m'en acquitterai peut-être pas entièrement, mais je le rédigerai. Et je me garderai de deux calamités: la hâte et l'indécision.
+>
+>9. Rien qu'aujourd'hui, je croirai fermement - même si les circonstances attestent le contraire - que la Providence de Dieu s'occupe de moi comme si rien d'autre n'existait au monde.
+>
+>10. Rien qu'aujourd'hui, je n'aurai aucune crainte. Et tout particulièrement, je n'aurai pas peur d'apprécier ce qui est beau et de croire à la bonté.
+>
+>Je suis en mesure de faire le bien pendant douze heures, ce qui ne saurait me décourager, comme si je me croyais obligé de le faire toute ma vie durant.
 
 <br><br>
 <i>Pape Jean XXIII</i>
@@ -164,79 +174,78 @@ Type: Texte
 Tags: Bonheur, Droits, Homme
 ---
 Considérant que la reconnaissance de la dignité inhérente à tous les membres de la famille humaine et de leurs droits égaux et inaliénables constitue le fondement de la liberté, de la justice et de la paix dans le monde,
-<br>
+<br><br>
 Considérant que la méconnaissance et le mépris des droits de l'homme ont conduit à des actes de barbarie qui révoltent la conscience de l'humanité et que l'avènement d'un monde où les êtres humains seront libres de parler et de croire, libérés de la terreur et de la misère, a été proclamé comme la plus haute aspiration de l'homme,
-<br>
+<br><br>
 Considérant qu'il est essentiel que les droits de l'homme soient protégés par un régime de droit pour que l'homme ne soit pas contraint, en suprême recours, à la révolte contre la tyrannie et l'oppression,
-<br>
+<br><br>
 Considérant qu'il est essentiel d'encourager le développement de relations amicales entre nations,
-<br>
+<br><br>
 Considérant que dans la Charte les peuples de Nations Unies ont proclamé à nouveau leur foi dans les droits fondamentaux de l'homme, dans la dignité et la valeur de la personne humaine, dans l'égalité des droits des hommes et des femmes, et qu'ils se sont déclarés résolus à favoriser le progrès social et à instaurer de meilleures conditions de vie dans une liberté plus grande,
-<br>
+<br><br>
 Considérant que les Etats Membres se sont engagés à assurer, en coopération avec l'Organisation des Nations Unies, le respect universel et effectif des droits de l'homme et des libertés fondamentales,
-<br>
+<br><br>
 Considérant qu'une conception commune de ces droits et libertés est de la plus haute importance pour remplir pleinement cet engagement,
-<br>
-L'Assemblée générale proclame la présente Déclaration universelle des droits de l'homme comme l'idéal commun à atteindre par tous les peuples et toutes les nations afin que tous les individus et tous les organes de la société, ayant cette Déclaration constamment à l'esprit, s'efforcent, par l'enseignement et l'éducation, de développer le respect de ces droits et libertés et d'en assurer, par des mesures progressives d'ordre national et
-international, la reconnaissance et l'application universelles et effectives, tant parmi les populations des Etats Membres eux-mêmes que parmi celles des territoires placés sous leur juridiction.
-<br>
+<br><br>
+L'Assemblée générale proclame la présente Déclaration universelle des droits de l'homme comme l'idéal commun à atteindre par tous les peuples et toutes les nations afin que tous les individus et tous les organes de la société, ayant cette Déclaration constamment à l'esprit, s'efforcent, par l'enseignement et l'éducation, de développer le respect de ces droits et libertés et d'en assurer, par des mesures progressives d'ordre national et international, la reconnaissance et l'application universelles et effectives, tant parmi les populations des Etats Membres eux-mêmes que parmi celles des territoires placés sous leur juridiction.
+<br><br>
 Article 1. Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.
-<br>
+<br><br>
 Article 2. Chacun peut se prévaloir de tous les droits et de toutes les libertés proclamés dans la présente Déclaration, sans distinction aucune, notamment de race, de couleur, de sexe, de langue, de religion, d'opinion politique ou de toute autre opinion, d'origine nationale ou sociale, de fortune, de naissance ou de toute autre situation. De plus, il ne sera fait aucune distinction fondée sur le statut politique, juridique ou international du pays ou territoire dont une personne est ressortissante, que ce pays ou territoire soit indépendant, sous tutelle, non autonome ou soumis à une limitation quelconque de souveraineté.
-<br>
+<br><br>
 Article 3. Tout individu a droit à la vie, à la liberté et à la sûreté de sa personne.
-<br>
+<br><br>
 Article 4. Nul ne sera tenu en esclavage ni en servitude ; l'esclavage et la traite des esclaves sont interdits sous toutes leurs formes.
-<br>
+<br><br>
 Article 5. Nul ne sera soumis à la torture, ni à des peines ou traitements cruels, inhumains ou dégradants.
-<br>
+<br><br>
 Article 6. Chacun a droit à la reconnaissance en tous lieux de sa personnalité juridique.
-<br>
+<br><br>
 Article 7. Tous sont égaux devant la loi et ont droit sans distinction à une égale protection de la loi. Tous ont droit à une protection égale contre toute discrimination qui violerait la présente Déclaration et contre toute provocation à une telle discrimination.
 Article 8. Toute personne a droit à un recours effectif devant les juridictions nationales contre les actes violant les droits fondamentaux qui lui sont reconnus par la constitution ou par la loi.
-<br>
+<br><br>
 Article 9. Nul ne peut être arbitrairement arrêté, détenu ou exilé.
-<br>
+<br><br>
 Article 10. Toute personne a droit, en pleine égalité, à ce que sa cause soit entendue équitablement et publiquement par un tribunal indépendant et impartial, qui décidera soit de ses droits et obligations, soit du bien-fondé de toute accusation en matière pénale dirigée contre elle.
-<br>
+<br><br>
 Article 11. Toute personne accusée d'un acte délictueux est présumée innocente jusqu'à ce que sa culpabilité ait été légalement établie au cours d'un procès public où toutes les garanties nécessaires à sa défense lui auront été assurées. Nul ne sera condamné pour des actions ou omissions qui, au moment où elles ont été commises, ne constituaient pas un acte délictueux d'après le droit national ou international. De même, il ne sera infligé aucune peine plus forte que celle qui était applicable au moment où l'acte délictueux a été commis.
-<br>
+<br><br>
 Article 12. Nul ne sera l'objet d'immixtions arbitraires dans sa vie privée, sa famille, son domicile ou sa correspondance, ni d'atteintes à son honneur et à sa réputation. Toute personne a droit à la protection de la loi contre de telles immixtions ou de telles atteintes.
-<br>
+<br><br>
 Article 13. Toute personne a le droit de circuler librement et de choisir sa résidence à l'intérieur d'un état. Toute personne a le droit de quitter tout pays, y compris le sien, et de revenir dans son pays.
-<br>
+<br><br>
 Article 14. Devant la persécution, toute personne a le droit de chercher asile et de bénéficier de l'asile en d'autres pays. Ce droit ne peut être invoqué dans le cas de poursuites réellement fondées sur un crime de droit commun ou sur des agissements contraires aux buts et aux principes des Nations Unies.
-<br>
+<br><br>
 Article 15. Tout individu a le droit à une nationalité. Nul ne peut être arbitrairement privé de sa nationalité, ni du droit de changer sa nationalité.
-<br>
+<br><br>
 Article 16. A partir de l'age nubile, l'homme et la femme, sans aucune restriction quant à la race, la nationalité ou la religion, ont le droit de se marier et de fonder une famille. Ils ont des droits égaux au regard du mariage, durant le mariage et lors de sa dissolution. Le mariage ne peut être conclu qu'avec le libre et plein consentement des futurs époux. La famille est l'élément naturel et fondamental de la société et a droit à la protection de la société et de l'Etat.
-<br>
+<br><br>
 Article 17. Toute personne, aussi bien seule qu'en collectivité, a droit à la propriété. Nul ne peut être arbitrairement privé de sa propriété.
-<br>
+<br><br>
 Article 18. Toute personne a droit à la liberté de pensée, de conscience et de religion ; ce droit implique la liberté de changer de religion ou de conviction ainsi que la liberté de manifester sa religion ou sa conviction seule ou en commun, tant en public qu'en privé, par l'enseignement, les pratiques, le culte et l'accomplissement des rites.
-<br>
+<br><br>
 Article 19. Tout individu a droit à la liberté d'opinion et d'expression, ce qui implique le droit de ne pas être inquiété pour ses opinions et celui de chercher, de recevoir et de répandre, sans considération de frontières, les informations et les idées par quelque moyen que ce soit.
-<br>
+<br><br>
 Article 20. Toute personne a droit à la liberté de réunion et d'association pacifiques. Nul ne peut être obligé de faire partie d'une association.
-<br>
+<br><br>
 Article 21. Toute personne a le droit de prendre part à la direction des affaires publiques de son pays, soit directement, soit par l'intermédiaire de représentants librement choisis. Toute personne a droit à accéder, dans des conditions d'égalité, aux fonctions publiques de son pays. La volonté du peuple est le fondement de l'autorité des pouvoirs publics; cette volonté doit s'exprimer par des élections honnêtes qui doivent avoir lieu périodiquement, au suffrage universel égale et au vote secret ou suivant une procédure équivalente assurant la liberté du vote.
-<br>
+<br><br>
 Article 22. Toute personne, en tant que membre de la société, a droit à la sécurité sociale ; elle est fondée à obtenir la satisfaction des droits économiques, sociaux et culturels indispensables à sa dignité et au libre développement de sa personnalité grâce à l'effort national et à la coopération internationale, compte tenu de l'organisation et des ressources de chaque pays.
-<br>
+<br><br>
 Article 23. Toute personne a droit au travail, au libre choix de son travail, à des conditions équitables et satisfaisantes de travail et à une protection contre le chômage. Tous ont droit, sans aucune discrimination, à un salaire égal pour un travail égal. Quiconque travaille à droit à une rémunération équitable et satisfaisante lui assurant ainsi qu'à sa famille une existence conforme à la dignité humaine et complétée, s'il y a lieu, par tous autres moyens de protection sociale. Toute personne a le droit de fonder avec d'autres des syndicats et de s'affilier à des syndicats pour la défense de ses intérêts. 
-<br>
+<br><br>
 Article 24. Toute personne a droit au repos et aux loisirs et notamment à une limitation raisonnable de la durée du travail et à des congés payés périodiques.
-<br>
+<br><br>
 Article 25. Toute personne a droit à un niveau de vie suffisant pour assurer sa santé, son bien-être et ceux de sa famille, notamment pour l'alimentation, l'habillement, les soins médicaux ainsi que pour les services sociaux nécessaires ; elle a droit à la sécurité en cas de chômage, de maladie, d'invalidité, de veuvage, de vieillesse ou dans les autres cas de perte de ses moyens de subsistance par suite de circonstances indépendantes de sa volonté. La maternité et l'enfance ont droit à une aide et à une assistance spéciales. Tous les enfants, qu'ils soient nés dans le mariage ou hors mariage, jouissent de la même protection sociale.
-<br>
+<br><br>
 Article 26. Toute personne a droit à l'éducation. L'éducation doit être gratuite, au moins en ce qui concerne l'enseignement élémentaire et fondamental. L'enseignement technique et professionnel doit être généralisé ; l'accès aux études supérieures doit être ouvert en pleine égalité à tous en fonction de leur mérite. L'éducation doit viser au plein épanouissement de la personnalité humaine et au renforcement du respect des droits de l'homme et des libertés fondamentales. Elle doit favoriser la compréhension, la tolérance et l'amitié entre toutes les nations et tous les groupes raciaux ou religieux, ainsi que le développement des activités des Nations Unies pour le maintien de la paix. Les parents ont, par priorité, le droit de choisir le genre d'éducation à donner à leurs enfants.
-<br>
+<br><br>
 Article 27. Toute personne a le droit de prendre part librement à la vie culturelle de la communauté, de jouir des arts et de participer au progrès scientifique et aux bienfaits qui en résultent. Chacun a droit à la protection des intérêts moraux et matériels découlant de toute production scientifique, littéraire ou artistique dont il est l'auteur.
-<br>
+<br><br>
 Article 28. Toute personne a droit à ce que règne, sur le plan social et sur le plan international, un ordre tel que les droits et libertés énoncés dans la présente Déclaration puissent y trouver plein effet.
-<br>
+<br><br>
 Article 29. L'individu a des devoirs envers la communauté dans laquelle seul le libre et plein développement de sa personnalité est possible. Dans l'exercice de ses droits et dans la jouissance de ses libertés, chacun n'est soumis qu'aux limitations établies par la loi exclusivement en vue d'assurer la reconnaissance et le respect des droits et libertés d'autrui et afin de satisfaire aux justes exigences de la morale, de l'ordre public et du bien-être général dans une société démocratique. Ces droits et libertés ne pourront, en aucun cas, s'exercer contrairement aux buts et aux principes des Nations Unies.
-<br>
+<br><br>
 Article 30. Aucune disposition de la présente Déclaration ne peut être interprétée comme impliquant pour un Etat, un groupement ou un individu un droit quelconque de se livrer à une activité ou d'accomplir un acte visant à la destruction des droits et libertés qui y sont énoncés.
 <br><br>
 <i>Adoptée par l'assemblée générale des Nations Unies, le 10 décembre 1948</i>
