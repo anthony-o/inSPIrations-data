@@ -16,8 +16,6 @@ Tags: Joie, Bonheur
 ---
 Debout resplendis
 
-# -->Texte
-
 
 [Lien Youtube: Debout resplendis](https://www.youtube.com/watch?v=4RzKZdYmJbg&index=46&list=RD9QpA8miRUL0)
 ---
@@ -38,18 +36,18 @@ Tags: Attente, Foi, Confiance,Ecoute
 ---
 Ecoute, Ecoute
 
-Ils ont marché au pas des siècles vers un pays de joie.
+Ils ont marché au pas des siècles vers un pays de joie.  
 Ils ont marché vers la lumière pour habiter la joie.
   
-<b>Écoute, écoute, surtout ne fais pas de bruit,
-On marche sur la route, on marche dans la nuit.
-Écoute, écoute, les pas du Seigneur vers toi,
+<b>Écoute, écoute, surtout ne fais pas de bruit,  
+On marche sur la route, on marche dans la nuit.  
+Écoute, écoute, les pas du Seigneur vers toi,  
 Il marche sur ta route, il marche près de toi.</b>
   
-Ils ont laissé leurs cris de guerre pour des chansons de paix.
-Ils ont laissé leur bout de terre pour habiter la paix.
+Ils ont laissé leurs cris de guerre pour des chansons de paix.  
+Ils ont laissé leur bout de terre pour habiter la paix.  
   
-Ils sont venus les mains ouvertes pour accueillir l'amour.
+Ils sont venus les mains ouvertes pour accueillir l'amour.  
 Ils sont venus chercher des frères pour habiter l'amour.
 
 
@@ -209,35 +207,41 @@ Titre: Notre-Dame des éclaireurs
 Type: Chant
 Tags: Scout, Marie, Prière
 ---
-Notre-Dame des éclaireurs
-
-
-<br>
-Le soir étend sur la terre
-Son grand manteau de velours
-Et le camp calme et solitaire
+Le soir étend sur la terre  
+Son grand manteau de velours  
+Et le camp calme et solitaire  
 Se recueille en ton amour.
-<br>
 
-<i>Refrain</i>
-<br><br>
-Ô Vierge de lumière, 
-Etoile de nos coeurs,  
-Entend notre prière,  
-Notre-Dame des éclaireurs.  
+**Refrain**
+**Ô Vierge de lumière,**
+**Etoile de nos coeurs,**
+**Entend notre prière,**
+**Notre-Dame des éclaireurs.**
 
-<br>
-
-O douce Dame aux étoiles  
-Jette un regard sur ce camp  
-Où tes fils, sous leurs frêles toiles,  
+O douce Dame aux étoiles   
+Jette un regard sur ce camp   
+Où tes fils, sous leurs frêles toiles,   
 Vont dormir en t'invoquant.  
 
-<br><br><i>Refrain</i>
-<br><br>
-
 O toi plus blanche que neige  
-Ravie au Mont virginal  
+Ravie au Mont virginal  
+Ta beauté, Vierge, nous protège  
+Contre la laideur du mal.
+
+Que tes bontés maternelles  
+Veillent sur ceux qui sont tiens ;  
+Place ici comme sentinelles  
+Les bons anges nos gardiens.  
+
+Comme les tentes légères  
+Que l'on roule pour partir,  
+Garde-nous, âmes passagères,  
+Toujours prêtes à mourir.  
+
+Fais-nous quitter l'existence  
+Joyeux et pleins d'abandon,  
+Comme un scout, après les vacances,  
+S'en retourne à la maison.
 
 ---
 MDVersion: 1
@@ -260,39 +264,31 @@ Tags: Création, Laudato Si, Louange
 [Lien Youtube: Psaume de la Création](https://www.youtube.com/watch?v=Lje_aWoQnnQ)
 
 
-<b>Refrain :   
-Je veux crier mon Dieu ! Tu es grand, Tu es beau,   
-Dieu vivant, Dieu très-haut, Tu es le Dieu d'amour !   
-Mon Dieu, Tu es grand, Tu es beau, Dieu vivant, Dieu très-haut   
-Dieu présent en toute création.  <b><br><br>
+**Je veux crier mon Dieu ! Tu es grand, Tu es beau,**     
+**Dieu vivant, Dieu très-haut, Tu es le Dieu d'amour !**
+**Mon Dieu, Tu es grand, Tu es beau, Dieu vivant, Dieu très-haut**  
+**Dieu présent en toute création.**  
+<br><br>
 
 Par les cieux devant Toi, Splendeur et majesté     
 Par l'infiniment grand, l'infiniment petit,     
 Et par le firmament, Ton manteau étoilé,   
 Et par frère soleil...   
-  
-<i>Refrain</i>  
-    
+     
 Par tous les océans et toutes les mers,  
 Par tous les continents et par l'eau des rivières,  
 Par le feu qui Te dit comme un buisson ardent  
 Et par l'aile du vent...   
-  
-<i>Refrain</i>  
    
 Par toutes les montagnes et toutes les vallées,  
 Par l'ombre des forêts et par les fleurs des champs,  
 Par les bourgeons des arbres et l'herbe des prairies,  
 Par le blé en épis...  
-  
-<i>Refrain</i>  
    
 Par tous les animaux de la terre et de l'eau,  
 Par le chant des oiseaux, par le chant de la vie,  
 Par l'homme que Tu fis juste moins grand que Toi  
 Et par tous ses enfants...   
-  
-<i>Refrain</i>  
    
 Par cette main tendue qui invite à la danse,   
 Par ce baiser jailli d'un élan d'espérance,   

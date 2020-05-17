@@ -3223,3 +3223,19 @@ Quand on les libère, on en est maître pour toujours.
 Si tu veux être heureux, ne t'attache pas aux choses.  
 Alors, tu les posséderas.
 ---
+MDVersion: 1
+Titre: La cloture et les clous
+Type: Texte
+Tags: Patience, Colère 
+---
+« C’est l’histoire d’un petit garçon qui avait mauvais caractère.  
+Son père lui donna un sac de clous et lui dit qu’à chaque fois qu’il perdrait patience, il devrait planter un clou derrière la clôture. Le premier jour, le jeune garçon planta 37 clous derrière la clôture.  
+Les semaines qui suivirent, à mesure qu’il apprenait à contrôler son humeur, il plantait de moins en moins de clous derrière la clôture... Il découvrit qu’il était plus facile de contrôler son humeur que d’aller planter des clous derrière la clôture...  
+Le jour vint où il contrôla son humeur toute la journée. Après en avoir informé son père, ce dernier lui suggéra de retirer un clou à chaque jour où il contrôlerait son humeur.  
+Les jours passèrent et le jeune homme pût finalement annoncer à son père qu’il ne restait plus aucun clou à retirer de la clôture. Son père le prit par la main et l’amena à la clôture.  
+Il lui dit : "Tu as travaillé fort, mon fils, mais regarde tous ces trous dans la clôture. Elle ne sera plus jamais la même. À chaque fois que tu perds patience, cela laisse des cicatrices exactement comme celles-ci.  
+Tu peux enfoncer un couteau dans un homme et le retirer, peu importe combien de fois tu lui diras être désolé, la cicatrice demeurera pour toujours.  
+Une offense verbale est aussi néfaste qu’une offense physique.  
+Les amis sont des joyaux précieux. Ils nous font rire et nous encouragent à réussir. Ils nous prêtent une oreille attentive, nous louangent et sont toujours prêts à nous ouvrir leur COEUR. »   
+Souvent on dit : ne fais pas aux autres ce que tu ne voudrais pas qu’ils te fassent.  
+---
