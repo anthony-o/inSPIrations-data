@@ -531,7 +531,8 @@ La bonté suprême est comme l'eau qui favorise tout et ne rivalise avec rien.
 Produire et faire croître, produire sans s'approprier, agir sans rien attendre, guider sans contraindre, c'est la vertu suprême.
 
 Il y avait quelque chose d'indéterminé avant la naissance de l'univers. Ce quelque chose est muet et vide. Il est indépendant et inaltérable. Il circule partout sans se lasser jamais. Il doit être la Mère de l'univers. Ne connaissant pas son nom, je le dénomme "Tao".
-<br>
+<br><br>
+
 *Tao Te King" de Lao Tseu*
 
 ---
@@ -564,32 +565,48 @@ Titre: Froissé par les événements
 Type: Texte
 Tags: Confiance, Courage, Epreuve
 ---
-Un conférencier bien connu commence son séminaire en tenant bien haut un billet de 20 euros. Il demande aux gens : Qui aimerait avoir ce billet ?
-Les mains commencent à se lever alors il dit : Je vais donner ce billet de 20 euros à quelqu'un d'entre vous mais avant laissez moi faire quelque chose avec.
+Un conférencier bien connu commence son séminaire en tenant bien haut un billet de 20 euros. Il demande aux gens : 
+"Qui aimerait avoir ce billet ?"
+
+Les mains commencent à se lever alors il dit : 
+"Je vais donner ce billet de 20 euros à quelqu'un d'entre vous mais avant laissez moi faire quelque chose avec."
+
 Il chiffonne alors le billet avec force et il demande :
-Est-ce que vous voulez toujours de ce billet ?
+"Est-ce que vous voulez toujours de ce billet ?"
+
 Les mains continuent à se lever.
-Bon, d'accord, mais que se passera-t-il si je fais cela. Il jette le billet froissé par terre et saute à pied joints dessus, l'écrasant autant que possible et le recouvrant des poussières du plancher.
-Ensuite il demande : Qui veut encore avoir ce billet ?
+"Bon, d'accord, mais que se passera-t-il si je fais cela. Il jette le billet froissé par terre et saute à pied joints dessus, l'écrasant autant que possible et le recouvrant des poussières du plancher."
+
+Ensuite il demande : 
+"Qui veut encore avoir ce billet ?"
+
 Évidemment, les mains continuent de se lever !
-Mes amis, vous venez d'apprendre une leçon… Peu importe ce que je fais avec ce billet, vous le voulez toujours parce que sa valeur n'a pas changé, il vaut toujours 20 euros.
+"Mes amis, vous venez d'apprendre une leçon… Peu importe ce que je fais avec ce billet, vous le voulez toujours parce que sa valeur n'a pas changé, il vaut toujours 20 euros. 
+
 Plusieurs fois dans votre vie vous serez froissés, rejetés, souillés par les gens ou par les événements. Vous aurez l'impression que vous ne valez plus rien mais en réalité votre valeur n'aura pas changé aux yeux des gens qui vous aiment !
-La valeur d'une personne ne tient pas à ce que l'on a fait ou pas, vous pourrez toujours recommencer et atteindre vos objectifs car votre valeur intrinsèque est toujours intacte.
-<br>
+
+La valeur d'une personne ne tient pas à ce que l'on a fait ou pas, vous pourrez toujours recommencer et atteindre vos objectifs car votre valeur intrinsèque est toujours intacte."
+<br><br>
+
 <i>Anonyme</i>
 
 ---
 MDVersion: 1
 Titre: Heureux ceux qui...
 Type: Texte
-Tags: Viellesse, Age
+Tags: Vieillesse, Age
 ---
-Heureux ceux qui respectent mes mains décharnées et mes pieds déformés. 
+Heureux ceux qui respectent mes mains décharnées et mes pieds déformés.  
+
 Heureux ceux qui conversent avec moi bien que j’aie désormais quelque peine à bien entendre leurs paroles. 
+
 Heureux ceux qui comprennent que mes yeux commencent à s’embrumer et mes idées à s’embrouiller. Heureux ceux qui, en perdant du temps à bavarder avec moi, gardent le sourire. 
+
 Heureux ceux qui jamais ne me font observer : « C’est la troisième fois que vous me racontez cette histoire ! ». 
+
 Heureux ceux qui m’assurent qu’ils m’aiment et que je suis encore bonne ou bon à quelque chose. Heureux ceux qui m’aident à vivre l’automne de ma vie...  
-<br>
+<br><br>
+
 <i>St Vincent de Paul</i>
 
 ---
@@ -647,19 +664,19 @@ Le jour où je me suis aimé pour de vrai,
 j’ai compris qu’en toutes circonstances,
 j’étais à la bonne place, au bon moment.
 Et alors, j’ai pu me relaxer.
-*Aujourd’hui, je sais que ça s’appelle estime de soi.*
+**Aujourd’hui, je sais que ça s’appelle estime de soi.**
 
 Le jour où je me suis aimé pour de vrai,
 j’ai pu percevoir que mon anxiété et ma souffrance émotionnelle
 n’étaient rien d’autre qu’un signal
 lorsque je vais à l’encontre de mes convictions.
-*Aujourd’hui, je sais que ça s’appelle authenticité*
+**Aujourd’hui, je sais que ça s’appelle authenticité**
 
 Le jour où je me suis aimé pour de vrai,
 j’ai cessé de vouloir une vie différente,
 et j’ai commencé à voir que tout ce qui m’arrive contribue
 à ma croissance personnelle.
-*Aujourd’hui, je sais que ça s’appelle maturité.*
+**Aujourd’hui, je sais que ça s’appelle maturité.**
 
 Le jour où je me suis aimé pour de vrai,
 j’ai commencé à percevoir l’abus dans le fait de forcer une situation,
@@ -667,36 +684,36 @@ ou une personne,
 dans le seul but d’obtenir ce que je veux, sachant très bien
 que ni la personne ni moi-même ne sommes prêts,
 et que ce n’est pas le moment.
-*Aujourd’hui, je sais que ça s’appelle respect.*
+**Aujourd’hui, je sais que ça s’appelle respect.**
 
 Le jour où je me suis aimé pour de vrai,
 j’ai commencé à me libérer de tout ce qui ne m’était pas salutaire :
 personnes, situations, tout ce qui baissait mon énergie.
 Au début, ma raison appelait ça de l’égoïsme.
-*Aujourd’hui, je sais que ça s’appelle amour-propre.*
+**Aujourd’hui, je sais que ça s’appelle amour-propre.**
 
 Le jour où je me suis aimé pour de vrai,
 j’ai cessé d’avoir peur du temps libre et j’ai arrêté de faire des grands plans.
 Aujourd’hui, je fais ce qui est correct, ce que j’aime,
 quand ça me plait et à mon rythme.
-*Aujourd’hui, j’appelle ça simplicité.*
+**Aujourd’hui, j’appelle ça simplicité.**
 
 Le jour où je me suis aimé pour de vrai,
 j’ai cessé de chercher à toujours avoir raison,
 et je me suis rendu compte de toutes les fois où je me suis trompé.
-*Aujourd’hui, j’ai découvert l’humilité.*
+**Aujourd’hui, j’ai découvert l’humilité.**
 
 Le jour où je me suis aimé pour de vrai,
 j’ai cessé de revivre le passé et de me préoccuper de l’avenir.
 Aujourd’hui, je vis au présent, là où toute la vie se passe.
-*Aujourd’hui, je vis une seule journée à la fois, et ça s’appelle plénitude.*
+**Aujourd’hui, je vis une seule journée à la fois, et ça s’appelle plénitude.**
 
 Le jour où je me suis aimé pour de vrai,
 j’ai compris que ma tête pouvait me tromper et me décevoir.
 Mais si je la mets au service de mon cœur,
-*Elle devient un allié très précieux.*
+**Elle devient un allié très précieux.**
+<br><br>
 
-<br>
 *Charlie Chaplin*
 ---
 MDVersion: 1
@@ -741,7 +758,7 @@ Ces brutes vous ont promis toutes ces choses pour que vous leur donniez le pouvo
 
 Alors, il faut nous battre pour accomplir toutes leurs promesses. Il faut nous battre pour libérer le monde, pour renverser les frontières et les barrières raciales, pour en finir avec l'avidité, avec la haine et l'intolérance. Il faut nous battre pour construire un monde de raison, un monde où la science et le progrès mèneront tous les hommes vers le bonheur. Soldats, au nom de la Démocratie, unissons-nous tous !
 
-Charlie Chaplin
+*Charlie Chaplin*
 
 ---
 MDVersion: 1
@@ -782,20 +799,30 @@ Type: Texte
 Tags: Dieu, Sens
 ---
 On me dit que mes enfants, les hommes, ont des problèmes d'emploi.
+
 Moi, j'appelle, dit Dieu.
 J'embauche tout le temps, je suis sur la place pour embaucher dès 6h00 du matin.
 J'y suis à 9h00, j'y suis à 14h00.
 J'y suis encore à 5h00 du soir, alors que la journée va s'achever ; à ce moment, moi, j'embauche encore.
+
 Et moi je paie, dit Dieu.
 Je ne paie pas à l'heure, ni au mois, ni aux pièces.
 Moi je paie à l'éternité...
 Parfaitement : une éternité de bonheur pour celui qui aura travaillé pour moi quelques heures, quelques semaines, quelques mois, quelques années.
+
 Et j'appelle tous ceux qui veulent. Je ne demande ni BAC, ni BEPC, ni CAP, ni BTS, ni diplôme d'aucune sorte.
-Je ne demande que de la bonne volonté, la volonté de travailler. J'appelle pour tous les métiers.
+Je ne demande que de la bonne volonté, la volonté de travailler. 
+
+J'appelle pour tous les métiers.
+
 J'ai besoin de cantonniers, car il est écrit : "Préparez les routes du Seigneur, rabotez les collines et rectifiez les virages...". J'ai besoin de cantonniers pour préparer la route de mon retour. En créant un monde moins inégal et plus droit, en luttant contre les injustices et les misères, En rendant les routes de la vie moins dures et moins pénibles pour les hommes, mes fils, pour les hommes, vos frères...
+
 J'ai besoin d'infirmiers, de bons samaritains, ceux qui soignent les maladies du corps et surtout de l'âme, ceux qui ramassent dans les fossés les blessés de la vie, les abandonnés de la route… 
+
 J'ai besoin de vignerons et de moissonneurs, car "la moisson est abondante et les ouvriers peu nombreux". J'appelle tous ceux qui sont prêts à récolter la moisson des bonnes volontés qui ne savent où s'adresser, la vendange des joies qui ne savent avec qui se partager...
+
 Surtout, surtout, j'ai besoin de bergers, "car j'ai pitié de ces foules, qui sont comme des troupeaux sans pasteurs". Ceux par les mains de qui je partagerai à tous les affamés le Pain de ma Parole, le Pain de mon Corps et le Vin de mon Sang...
+
 Venez tous, dit Dieu, j'appelle ; il y a du travail pour tous, j'emploie tout le monde...
 Et ce soir, après la journée de travail, tous ensemble, avec Moi, vous ferez la fête !
 
@@ -805,59 +832,68 @@ Et ce soir, après la journée de travail, tous ensemble, avec Moi, vous ferez l
 
 ---
 MDVersion: 1
-Titre: J’avais demandé à Dieu
+Titre: J'avais demandé à Dieu
 Type: Texte
 Tags: Dieu, Sens, Courage, Epreuve
 ---
 J’avais demandé à Dieu la force pour atteindre le succès ; il m’a rendu faible, afin que j’apprenne humblement à obéir.
-J’avais demandé la santé, pour faire de grandes choses, il m’a donné l’infirmité pour que je fasse des choses meilleures.
-J’avais demandé la richesse, pour que je puisse être heureux ; il m’a donné la pauvreté, pour que je puisse être sage.
-J’avais demandé le pouvoir, pour être apprécié des hommes ; il m’a donné la faiblesse, afin que j’éprouve le besoin de Dieu.
-J’avais demandé un compagnon, afin de ne pas vivre seul ; il m’a donné un coeur, afin que je puisse aimer tous mes frères.
-J’avais demandé des choses qui puissent réjouir ma vie ; j’ai reçu la vie, afin que je puisse me réjouir de toutes choses.
-Je n’ai rien eu de ce que j’avais demandé, mais j’ai reçu tout ce que j’avais espéré.
-Presque en dépit de moi-même, mes prières informulées ont été exaucées.
-Je suis, parmi les hommes, le plus richement comblé.
-<br>
-<i>Texte anonyme gravé sur une tablette de bronze, dans un institut de réadaptation New-Yorkais. Cette célèbre prière américaine aurait, dit-on, été composée par un soldat Sudiste lors de la guerre de sécession (1861-1865).</i>
 
+J’avais demandé la santé, pour faire de grandes choses, il m’a donné l’infirmité pour que je fasse des choses meilleures.
+
+J’avais demandé la richesse, pour que je puisse être heureux ; il m’a donné la pauvreté, pour que je puisse être sage.
+
+J’avais demandé le pouvoir, pour être apprécié des hommes ; il m’a donné la faiblesse, afin que j’éprouve le besoin de Dieu.
+
+J’avais demandé un compagnon, afin de ne pas vivre seul ; il m’a donné un coeur, afin que je puisse aimer tous mes frères.
+
+J’avais demandé des choses qui puissent réjouir ma vie ; j’ai reçu la vie, afin que je puisse me réjouir de toutes choses.
+
+Je n’ai rien eu de ce que j’avais demandé, mais j’ai reçu tout ce que j’avais espéré.
+
+Presque en dépit de moi-même, mes prières informulées ont été exaucées.
+
+Je suis, parmi les hommes, le plus richement comblé.
+<br><br>
+
+<i>Texte anonyme gravé sur une tablette de bronze, dans un institut de réadaptation New-Yorkais. Cette célèbre prière américaine aurait, dit-on, été composée par un soldat Sudiste lors de la guerre de sécession (1861-1865).</i>
 ---
 MDVersion: 1
 Titre: Je crois en l’Homme
 Type: Texte
 Tags: Foi en l'Homme, Confiance
 ---
-Je crois en l’homme, cette ordure,
-Je crois en l’homme, ce fumier,
-Ce sable mouvant, cette eau morte,
-Je crois en l’homme, ce tordu,
-Cette vessie de vanité.
+Je crois en l’homme, cette ordure,  
+Je crois en l’homme, ce fumier,  
+Ce sable mouvant, cette eau morte,  
+Je crois en l’homme, ce tordu,  
+Cette vessie de vanité.  
+
+Je crois en l’homme, cette pommade,  
+Ce grelot, cette plume au vent,  
+Ce boutefeu, ce fouille merde.  
+Je crois en l’homme, ce lèche sang.  
+Malgré tout ce qu’il a pu faire  
+De mortel et d’irréparable.  
+
+Je crois en lui  
+Pour la sûreté de sa main,  
+Pour son goût de la liberté,  
+Pour le jeu de sa fantaisie.  
+Pour son vertige devant l’étoile.  
+ 
+Je crois en lui  
+Pour le sel de son amitié  
+Pour l’eau de ses yeux, pour son rire,  
+Pour son élan et ses faiblesses.  
+ 
+Je crois à tout jamais en lui  
+Pour une amie qui s’est tendue,  
+Pour un regard qui s’est offert.  
+Et puis surtout et avant tout  
+Pour le simple accueil d’un berger.  
  <br>
-Je crois en l’homme, cette pommade,
-Ce grelot, cette plume au vent,
-Ce boutefeu, ce fouille merde.
-Je crois en l’homme, ce lèche sang.
-Malgré tout ce qu’il a pu faire
-De mortel et d’irréparable.
- <br> 
-Je crois en lui
-Pour la sûreté de sa main,
-Pour son goût de la liberté,
-Pour le jeu de sa fantaisie.
-Pour son vertige devant l’étoile.
- <br> 
-Je crois en lui
-Pour le sel de son amitié
-Pour l’eau de ses yeux, pour son rire,
-Pour son élan et ses faiblesses.
-  <br>
-Je crois à tout jamais en lui
-Pour une amie qui s’est tendue,
-Pour un regard qui s’est offert.
-Et puis surtout et avant tout
-Pour le simple accueil d’un berger.
  <br>
- <br>
+
 *Lucien Jacques*
 
 ---
@@ -866,22 +902,22 @@ Titre: Je n’ai rien dis
 Type: Texte
 Tags: Solidarité, Courage
 ---
-Quand ils sont venus chercher les communistes,
-je n'ai rien dit, je n'étais pas communiste.
-<br>
-Quand ils sont venus chercher les syndicalistes,
-je n'ai rien dit, je n'étais pas syndicaliste.
-<br>
-Quand ils sont venus chercher les juifs,
-je n'ai rien dit, je n'étais pas juif.
-<br>
-Quand ils sont venus chercher les catholiques,
-je n'ai rien dit, je n'étais pas catholique.
-<br>
-Puis ils sont venus me chercher.
-Et il ne restait personne pour protester...
+Quand ils sont venus chercher les communistes,  
+je n'ai rien dit, je n'étais pas communiste.  
 
+Quand ils sont venus chercher les syndicalistes,  
+je n'ai rien dit, je n'étais pas syndicaliste.  
+
+Quand ils sont venus chercher les juifs,  
+je n'ai rien dit, je n'étais pas juif.  
+ 
+Quand ils sont venus chercher les catholiques,  
+je n'ai rien dit, je n'étais pas catholique.  
+ 
+Puis ils sont venus me chercher.  
+Et il ne restait personne pour protester...
 <br><br>
+
 <i>Pasteur Martin Niemoller (1892-1984), Dachau 1942</i>
 
 ---
@@ -890,18 +926,38 @@ Titre: Je te souhaite de ne pas réussir ta vie
 Type: Texte
 Tags: Avenir, Sens, Educateur
 ---
-Je te souhaite de ne pas réussir ta vie. 
+Je te souhaite de ne pas réussir ta vie.
+
 Je te souhaite de vivre autrement que les gens arrivés. 
+
 Je te souhaite de vivre la tête en bas et le cœur en l’air, les pieds dans tes rêves et les yeux pour entendre. 
-Je te souhaite de vivre sans te laisser acheter par l’argent. Je te souhaite de vivre debout et habité. Je te souhaite de vivre le souffle en feu, brûlé vif de tendresse. 
-Je te souhaite de vivre sans titre, sans étiquette, sans distinction, ne portant d’autre nom que l’humain. Je te souhaite de vivre sans que tu aies rendu quelqu’un victime de toi-même. 
-Je te souhaite de vivre sans suspecter ni condamner même du bout des lèvres. Je te souhaite de vivre sans ironie même contre toi-même. 
+
+Je te souhaite de vivre sans te laisser acheter par l’argent. 
+
+Je te souhaite de vivre debout et habité. 
+
+Je te souhaite de vivre le souffle en feu, brûlé vif de tendresse. 
+
+Je te souhaite de vivre sans titre, sans étiquette, sans distinction, ne portant d’autre nom que l’humain. 
+
+Je te souhaite de vivre sans que tu aies rendu quelqu’un victime de toi-même. 
+
+Je te souhaite de vivre sans suspecter ni condamner même du bout des lèvres. 
+
+Je te souhaite de vivre sans ironie même contre toi-même. 
+
 Je te souhaite de vivre dans un monde sans exclu, sans rejeté, sans méprisé, sans humilié, ni montré du doigt, ni excommunié. 
-Je te souhaite de vivre dans un monde où chacun aura droit de devenir ton frère et de devenir ton prochain. 
-Un monde où personne ne sera rejeté du droit à la parole, du droit d’apprendre à lire et de savoir écrire. Je te souhaite de vivre dans un monde sans croisade, sans inquisition, sans saint office, ni chasse au sorcière. 
+
+Je te souhaite de vivre dans un monde où chacun aura droit de devenir ton frère et de devenir ton prochain. Un monde où personne ne sera rejeté du droit à la parole, du droit d’apprendre à lire et de savoir écrire. 
+
+Je te souhaite de vivre dans un monde sans croisade, sans inquisition, sans saint office, ni chasse au sorcière. 
+
 Je te souhaite de vivre libre, dans un monde libre d’aller et de venir, d’entrer et de sortir, libre de parler librement dans toutes les églises, dans tous les partis, dans tous les journaux, à toutes les radios, à toutes les télévisions, à toutes les tribunes, dans tous les congrès, à toutes les assemblées, dans toutes les usines, dans tous les bureaux, dans toutes les administrations. 
-Je te souhaite de parler non pour être écouté mais pour être compris. Je te souhaite de vivre l’inespéré, c’est dire que Je te souhaite de ne pas réussir ta vie…
-<br>
+
+Je te souhaite de parler non pour être écouté mais pour être compris. 
+
+Je te souhaite de vivre l’inespéré, c’est dire que Je te souhaite de ne pas réussir ta vie…
+<br><br>
 
 <i>Jean Debruynne</i>
 
@@ -914,14 +970,22 @@ Tags: Bonheur
 ---
 Je vous souhaite des rêves à n’en plus finir.
 Et l’envie furieuse d’en réaliser quelques-uns.
+
 Je vous souhaite d’aimer ce qu’il faut aimer,
 et d’oublier ce qu’il faut oublier.
+
 Je vous souhaite des passions.
+
 Je vous souhaite des silences.
+
 Je vous souhaite des chants d’oiseaux au réveil, et des rires d’enfants.
+
 Je vous souhaite de respecter les différences des autres parce que le mérite et la valeur de chacun sont souvent à découvrir
+
 Je vous souhaite de résister à l’enlisement, à l’indifférence et aux vertus négatives de notre époque.
+
 Je vous souhaite enfin de ne jamais renoncer à la recherche, à l’aventure, à la vie, à l’amour, car la vie est une magnifique aventure et nul de raisonnable ne doit y renoncer sans livrer une rude bataille.
+
 Je vous souhaite surtout d’être vous, fier de l’être et heureux, car le bonheur est notre destin véritable.
 
 
@@ -932,41 +996,40 @@ Titre: L'amitié
 Type: Texte
 Tags: Amitié, Fraternité
 ---
-La véritable amitié est pure.
-Elle ne recherche aucune faveur en retour.
-Elle élève celui qui la donne.
-<br>
-La véritable amitié est généreuse.
-Elle est plus forte que tous les préjugés.
-Elle anoblit celui qui la donne.
-<br>
-La véritable amitié est fidèle.
-Elle n’est pas altérée par le temps.
-Elle honore celui qui la donne.
-<br>
-La véritable amitié est tenace.
-Elle est faite de loyauté et de franchise.
-Elle grandit celui qui la donne.
-<br>
-La véritable amitié est magnanime.
-Elle ne pose aucune condition.
-Elle embellit celui qui la donne.
-<br>
-La véritable amitié est absolue.
-Elle n’est jamais donnée par miettes.
-Elle fait honneur à celui qui la donne.
-<br>
-La véritable amitié est spontanée.
-Elle ne fait l’objet d’aucun marchandage.
-Elle récompense celui qui la donne.
-<br>
-La véritable amitié est sincère.
-Elle ne pose pas de conditions.
-Elle enrichit celui qui la donne.
+La véritable amitié est pure.  
+Elle ne recherche aucune faveur en retour.  
+Elle élève celui qui la donne.  
+ 
+La véritable amitié est généreuse.  
+Elle est plus forte que tous les préjugés.  
+Elle anoblit celui qui la donne.  
+ 
+La véritable amitié est fidèle.  
+Elle n’est pas altérée par le temps.  
+Elle honore celui qui la donne.  
+ 
+La véritable amitié est tenace.  
+Elle est faite de loyauté et de franchise.  
+Elle grandit celui qui la donne.  
 
+La véritable amitié est magnanime.  
+Elle ne pose aucune condition.  
+Elle embellit celui qui la donne.  
+ 
+La véritable amitié est absolue.  
+Elle n’est jamais donnée par miettes.  
+Elle fait honneur à celui qui la donne.  
+ 
+La véritable amitié est spontanée.  
+Elle ne fait l’objet d’aucun marchandage.  
+Elle récompense celui qui la donne.  
+ 
+La véritable amitié est sincère.  
+Elle ne pose pas de conditions.  
+Elle enrichit celui qui la donne.  
 <br><br>
-<i>Anonyme</i>
 
+<i>Anonyme</i>
 
 ---
 MDVersion: 1
@@ -975,18 +1038,28 @@ Type: Texte
 Tags: Amour
 ---
 Le devoir sans amour nous rend acharné
+
 La responsabilité sans amour nous rend impitoyable
+
 La justice sans amour nous rend dur
+
 La vérité sans amour nous rend critique
+
 L'intelligence sans amour nous rend rusé
+
 La gentillesse sans amour nous rend hypocrite
+
 L'ordre sans amour donne un esprit étroit
+
 L'honneur sans amour nous rend orgueilleux
+
 La possession sans amour nous rend avare
+
 La foi sans amour nous rend fanatique
+
 La vie sans amour est sans valeur
- 
-<br><br>
+ <br><br>
+
 <i>Anonyme</i>
 
 
@@ -997,19 +1070,30 @@ Type: Texte
 Tags: Sobriété, Argent, Sens
 ---
 On peut acheter le plaisir mais pas l'amour...
-On peut acheter un spectacle mais pas la joie...
-On peut acheter un esclave mais pas un ami...
-On peut acheter une femme mais pas une épouse...
-On peut acheter une maison mais pas un foyer...
-On peut acheter des aliments mais pas l'appétit...
-On peut acheter des médicaments mais pas la santé...
-On peut acheter des diplômes mais pas la culture...
-On peut acheter des livre mais pas l'intelligence...
-On peut acheter des tranquillisants mais pas la paix...
-On peut acheter des indulgences mais pas le pardon...
-On peut acheter de la terre mais pas le Ciel...
 
+On peut acheter un spectacle mais pas la joie...
+
+On peut acheter un esclave mais pas un ami...
+
+On peut acheter une femme mais pas une épouse...
+
+On peut acheter une maison mais pas un foyer...
+
+On peut acheter des aliments mais pas l'appétit...
+
+On peut acheter des médicaments mais pas la santé...
+
+On peut acheter des diplômes mais pas la culture...
+
+On peut acheter des livre mais pas l'intelligence...
+
+On peut acheter des tranquillisants mais pas la paix...
+
+On peut acheter des indulgences mais pas le pardon...
+
+On peut acheter de la terre mais pas le Ciel...
 <br><br>
+
 <i>Anonyme</i>
 
 ---
@@ -1019,15 +1103,22 @@ Type: Texte
 Tags: Sens, Bien, Solidarité
 ---
 Un saint homme tenait un jour une conversation avec Dieu. Il lui dit :
-- Seigneur, j'aimerais savoir comment est le paradis et comment est l'enfer.
+
+"Seigneur, j'aimerais savoir comment est le paradis et comment est l'enfer."
+
 Dieu conduisit le saint homme vers deux portes. Il ouvrit l'une des portes et lui permit de regarder à l'intérieur.
+
 Au milieu de la pièce, il y avait une immense table ronde. Au milieu de cette table, il y avait une grosse marmite contenant un ragoût à l'arôme délicieux. Le saint homme saliva d'envie. Les personnes assises autour de cette table étaient maigres, livides et malades. Elles avaient toutes l'air affamées. Elles tenaient des cuillères aux très longs manches, attachées à leurs bras. Toutes pouvaient atteindre le plat de ragoût et cueillir une cuillerée. Mais, comme le manche de la cuillère était plus long que leurs bras, elles ne pouvaient ramener les cuillères dans leur bouche. Le saint homme frissonna à la vue de leur misère et de leurs souffrances. 
+
 Dieu dit :
-- Tu viens de voir l'enfer.
+"Tu viens de voir l'enfer."
+
 Dieu et le saint homme se dirigèrent vers la seconde porte. Dieu l'ouvrit. La scène était identique à la précédente. Il y avait la grande table ronde, la marmite de délicieux ragoût qui fit encore saliver le saint homme. Les personnes autour de la table étaient également équipées des cuillères aux longs manches. Cette fois, cependant, les gens étaient bien nourris, replets, souriants et se parlaient les uns aux autres en riant. Le saint homme dit à Dieu :
-- Je ne comprends pas !
-- C'est simple, répondit Dieu. Ils ont appris à se nourrir les uns les autres tandis que les gloutons et les égoïstes ne pensent qu'à eux-mêmes.
+
+"Je ne comprends pas !"
+"C'est simple, répondit Dieu. Ils ont appris à se nourrir les uns les autres tandis que les gloutons et les égoïstes ne pensent qu'à eux-mêmes."
 <br><br>
+
 <i>Anonyme</i>
 
 
@@ -1037,10 +1128,15 @@ Titre: L’espérance du monde
 Type: Texte
 Tags: Espérance, Avenir, Humanité
 ---
-Aujourd’hui, dans la nuit du monde et dans l’espérance, j’affirme ma foi dans l’avenir de l’humanité. Je refuse de croire que les circonstances actuelles rendent les hommes incapables de faire une terre meilleure. Je refuse de partager l’avis de ceux qui prétendent l’homme à ce point captif de la nuit que l’aurore de la paix et de la fraternité ne pourra jamais devenir une réalité.
+Aujourd’hui, dans la nuit du monde et dans l’espérance, j’affirme ma foi dans l’avenir de l’humanité. Je refuse de croire que les circonstances actuelles rendent les hommes incapables de faire une terre meilleure. 
+
+Je refuse de partager l’avis de ceux qui prétendent l’homme à ce point captif de la nuit que l’aurore de la paix et de la fraternité ne pourra jamais devenir une réalité.
+
 Je crois que la vérité et l’amour, sans conditions, auront le dernier mot effectivement. La vie, même vaincue provisoirement, demeure toujours plus forte que la mort.
+
 Je crois fermement qu’il reste l’espoir d’un matin radieux, je crois que la bonté pacifique deviendra un jour la loi. Chaque homme pourra s’asseoir sous son figuier, dans sa vigne, et plus personne n’aura de raison d’avoir peur.
-<br>
+<br><br>
+
 *Barack Obama*
 
 ---
@@ -1050,20 +1146,37 @@ Type: Texte
 Tags: Bonheur, Sobriété
 ---
 Un grand maharadjah indien n'était pas heureux.
+
 Pourtant, il avait tout ce qu'un mortel est susceptible de désirer : un palais luxueux, des richesses à foison, des esclaves à sa disposition, des distractions sans cesse renouvelées; des femmes, il en changeait plusieurs fois par semaine. Malgré cela, il n'était pas heureux. Un jour, il alla trouver son grand vizir, et il lui demanda ce qu'il fallait faire pour être heureux.
-- Personne n'est heureux, lui répondit l'homme.
-Insatisfait, le maharadjah posait à ceux qu'il rencontrait sa question. Un sage accepta de se compromettre et donna sa recette du bonheur : "Il vous suffit de revêtir la chemise d'un homme heureux, et vous le deviendrez". Aussitôt, le maharadjah envoie ses ambassadeurs dans tout son royaume avec mission de trouver l'homme heureux et de rapporter sa chemise.
+
+"Personne n'est heureux", lui répondit l'homme.
+
+Insatisfait, le maharadjah posait à ceux qu'il rencontrait sa question. 
+
+Un sage accepta de se compromettre et donna sa recette du bonheur :   
+"Il vous suffit de revêtir la chemise d'un homme heureux, et vous le deviendrez". 
+
+Aussitôt, le maharadjah envoie ses ambassadeurs dans tout son royaume avec mission de trouver l'homme heureux et de rapporter sa chemise.
 Les ambassadeurs partirent aux quatre coins du royaume et interrogèrent les gens. Partout, la même réponse : Non, je ne suis pas heureux.
-- Je n'ai qu'un petit coin de terre et ne peux nourrir me famille.
-Je ne suis pas bien dans ma peau; je ne suis pas en paix avec moi-même.
-- Je m'ennuie terriblement.
+
+"Je n'ai qu'un petit coin de terre et ne peux nourrir me famille."
+
+"Je ne suis pas bien dans ma peau; je ne suis pas en paix avec moi-même."
+
+"Je m'ennuie terriblement."
+
 Riches et pauvres, hommes ou femmes, adultes ou enfants, personne n'était heureux.
 Les envoyés se désespéraient lorsqu'un jour, l'un d'eux découvrit, au bord d'un massif montagneux, une grotte où vivaient des yogis. Ils avaient délaissé le monde pour chercher les réalités divines. Ils ne possédaient rien et se nourrissaient d'un grain de riz par jour. Au premier qu'il approcha, l'envoyé posa sa question :
-- Es-tu heureux ?
-- Moi ? parfaitement heureux !
-- Alors, donne-moi ta chemise.
+
+"Es-tu heureux ?"
+
+"Moi ? parfaitement heureux !"
+
+"Alors, donne-moi ta chemise."
+
 Un instant le sage fixa sur le visage de son interlocuteur son regard transparent et profond. Il lui dit avec un geste qui indiquait une évidence :
-- Très volontiers je te donnerais ma chemise. Mais depuis longtemps, je n'en ai plus.
+
+"Très volontiers je te donnerais ma chemise. Mais depuis longtemps, je n'en ai plus."
 ---
 MDVersion: 1
 Titre: La cruche fissurée
@@ -1072,13 +1185,18 @@ Tags: Faiblesse, Confiance
 ---
 Un vendeur d’eau se rend chaque matin à la rivière, remplit ses deux cruches et part vers la ville distribuer l’eau à ses clients. Fissurée, une des cruches perd son eau. Toute neuve, l’autre rapporte plus d’argent. La pauvre fissurée se sent inférieure.
 Un matin, elle décide de se confier à son patron :
-- Tu sais, je suis consciente de mes limites. Tu perds de l’argent à cause de moi, car je suis à moitié vide quand nous arrivons en ville. Pardonne mes faiblesses.
-Le lendemain, en route vers la rivière, le patron interpelle sa cruche fissurée :
-- Regarde sur le bord de la route !
-- C’est joli, et plein de fleurs !
-- C’est grâce à toi, réplique le patron. C’est toi qui, chaque matin, arroses le bas-côté de la route. J’ai acheté un paquet de graines de fleurs et je les ai semées le long du chemin. Et toi, sans le savoir et sans le vouloir, tu les arroses chaque jour. Ne l’oublie jamais : nous sommes tous un peu fissurés mais, si nous le lui demandons, Dieu sait faire des merveilles avec nos faiblesses.
 
+"Tu sais, je suis consciente de mes limites. Tu perds de l’argent à cause de moi, car je suis à moitié vide quand nous arrivons en ville. Pardonne mes faiblesses."
+
+Le lendemain, en route vers la rivière, le patron interpelle sa cruche fissurée :
+
+"Regarde sur le bord de la route !"
+
+"C’est joli, et plein de fleurs !"
+
+"C’est grâce à toi, réplique le patron. C’est toi qui, chaque matin, arroses le bas-côté de la route. J’ai acheté un paquet de graines de fleurs et je les ai semées le long du chemin. Et toi, sans le savoir et sans le vouloir, tu les arroses chaque jour. Ne l’oublie jamais : nous sommes tous un peu fissurés mais, si nous le lui demandons, Dieu sait faire des merveilles avec nos faiblesses."
 <br><br>
+
 <i>Anonyme</i>
 
 ---
@@ -1087,58 +1205,58 @@ Titre: La promesse
 Type: Texte
 Tags: Promesse, Scout, Livre de Lézard
 ---
-Devant un feu tranquille, viens faire ta Promesse.
-Ce n’est pas difficile, ce n’est pas audacieux,
-ce n’est pas présomptueux de promettre
-qu’on veut faire tout son possible
-pour servir Dieu, aider son prochain, obéir à la Loi.
-<br>
-Ce n’est pas difficile parce que tu ne promets pas de ne jamais faillir,
-tu ne promets pas de ne jamais désobéir, de ne jamais te tromper,
-cela tu ne le pourrais pas, car tu n’es pas une sainte,
-pas plus que moi, pas plus que nous.
-Tu promets seulement de faire tout ton possible… ce que tu peux,
-comme tu peux, de ton mieux.
-<br>
-Devant ce feu tranquille, viens faire ta Promesse.
-<br>
-La Promesse est une force,
-une direction que tu donnes à ton effort.
-Et l’effort te conduira d’effort en effort, à travers la vie,
-jusqu’au but que tu t’es proposé.
-<br>
-La Promesse est une force.
-Quand tu l’auras faite, tu ne seras pas meilleure, tu seras plus forte.
-Et s’il t’arrive un jour d’hésiter,
-de ne pas très bien savoir si telle chose est faisable
-ou si elle est de celles qui ne doivent pas se faire,
-tu te souviendras qu’un soir, devant un feu tranquille,
-à l’heure où les clartés se voilent,
-où les bruits s’apaisent,
-au milieu des camarades qui avaient le même idéal que toi,
-tu as promis de servir Dieu, et tu n’hésiteras plus.
-Tu sauras si la chose est faisable
-ou si elle est de celles qui ne doivent pas se faire.
-<br>
-La Promesse est une force.
-Tu ne seras pas toujours aussi bien disposée qu’aujourd’hui.
-Tu n’auras pas toujours cette joie débordante ou cette calme sérénité,
-parce qu’il y a des tourments dans la vie,
-de grandes lassitudes,
-des chagrins d’enfants et des tristesses d’adultes,
-de soudaines incertitudes
-<br>
-Alors, peut-être, par un triste matin d’une triste journée,
-tu te diras : « A quoi bon tout cela ?... »
-et puis tu te souviendras qu’un soir,
-devant un feu tranquille,
-à l’heure où les clartés se voilent,
-où les bruits s’apaisent,
-au milieu des camarades qui avaient le même idéal que toi,
-tu as promis de servir Dieu. »
-<br><br>
-*Aimée Degallier-Martin (totem Lézard)*
+Devant un feu tranquille, viens faire ta Promesse.  
+Ce n’est pas difficile, ce n’est pas audacieux,  
+ce n’est pas présomptueux de promettre  
+qu’on veut faire tout son possible  
+pour servir Dieu, aider son prochain, obéir à la Loi.  
 
+Ce n’est pas difficile parce que tu ne promets pas de ne jamais faillir,  
+tu ne promets pas de ne jamais désobéir, de ne jamais te tromper,  
+cela tu ne le pourrais pas, car tu n’es pas une sainte,  
+pas plus que moi, pas plus que nous.  
+Tu promets seulement de faire tout ton possible… ce que tu peux,  
+comme tu peux, de ton mieux.
+ 
+Devant ce feu tranquille, viens faire ta Promesse.  
+ 
+La Promesse est une force,  
+une direction que tu donnes à ton effort.  
+Et l’effort te conduira d’effort en effort, à travers la vie,  
+jusqu’au but que tu t’es proposé.  
+ 
+La Promesse est une force.  
+Quand tu l’auras faite, tu ne seras pas meilleure, tu seras plus forte.  
+Et s’il t’arrive un jour d’hésiter,  
+de ne pas très bien savoir si telle chose est faisable  
+ou si elle est de celles qui ne doivent pas se faire,  
+tu te souviendras qu’un soir, devant un feu tranquille,  
+à l’heure où les clartés se voilent,  
+où les bruits s’apaisent,  
+au milieu des camarades qui avaient le même idéal que toi,  
+tu as promis de servir Dieu, et tu n’hésiteras plus.  
+Tu sauras si la chose est faisable  
+ou si elle est de celles qui ne doivent pas se faire.  
+ 
+La Promesse est une force.  
+Tu ne seras pas toujours aussi bien disposée qu’aujourd’hui.  
+Tu n’auras pas toujours cette joie débordante ou cette calme sérénité,  
+parce qu’il y a des tourments dans la vie,  
+de grandes lassitudes,  
+des chagrins d’enfants et des tristesses d’adultes,  
+de soudaines incertitudes  
+ 
+Alors, peut-être, par un triste matin d’une triste journée,  
+tu te diras : « A quoi bon tout cela ?... »  
+et puis tu te souviendras qu’un soir,  
+devant un feu tranquille,  
+à l’heure où les clartés se voilent,  
+où les bruits s’apaisent,  
+au milieu des camarades qui avaient le même idéal que toi,  
+tu as promis de servir Dieu. »  
+<br><br>
+
+*Aimée Degallier-Martin (totem Lézard)*
 ---
 MDVersion: 1
 Titre: La richesse
@@ -1146,13 +1264,18 @@ Type: Texte
 Tags: Argent, Sobriété, Sens
 ---
 Un jour, le père d'une très riche famille amène son fils à la campagne pour lui montrer comment les gens pauvres vivent. Ils y passent quelques jours sur la ferme d'une famille qui n'a pas beaucoup à leur offrir.
-<br>
-Au retour, le père demande à son fils : "As-tu aimé ton séjour?"
+ 
+Au retour, le père demande à son fils : 
+"As-tu aimé ton séjour?"
+
 "C'était fantastique, papa".
+
 "As-tu vu comment les gens pauvres vivent ?" demande encore le père.
+
 "Ah oui" répond le fils.
+
 "Alors qu'as-tu appris ?"
-<br>
+ 
 Le fils lui répond :
 "J'ai vu que nous n'avions qu'un chien, alors qu'ils en ont quatre.
 Nous avons une piscine qui fait la moitié du jardin et ils ont une grande rivière.
@@ -1162,21 +1285,19 @@ Nous avons un domaine, mais eux ont des champs à perte de vue.
 Nous avons des serviteurs alors qu'eux servent les autres.
 Nous achetons nos denrées et eux les cultivent.
 Nous avons des murs autour de la propriété pour nous protéger, eux ont des amis qui les protègent."
-<br>
+ 
 Le père en resta muet.
 Le fils rajouta : "Merci papa de m'avoir montré tout ce que nous n'avons pas."
-<br>
+ 
 Trop souvent nous oublions ce qui nous est acquis pour nous morfondre sur ce que nous n'avons pas...
 Ce qui est un objet sans valeur pour un, peut très bien être un trésor pour un autre.
 Ce n'est qu'une question de perspective.
 C'est à se demander ce qui arriverait si on rendait grâce pour tout ce que nous avons, au lieu d'en vouloir plus.
-<br>
+ 
 Apprenez à apprécier ce que vous avez, y compris vos amis.
-
-
 <br><br>
-<i>Anonyme</i>
 
+<i>Anonyme</i>
 ---
 MDVersion: 1
 Titre: La valeur du temps
@@ -1184,13 +1305,20 @@ Type: Texte
 Tags: Sens, Temps, Présent
 ---
 Pour apprendre la valeur d'une année, demande à l'étudiant qui a raté un examen.
+
 Pour apprendre la valeur d'un mois, demande à la mère qui a mis un enfant au monde trop tôt.
+
 Pour apprendre la valeur d'une semaine, demande à l'éditeur d'un journal hebdomadaire.
+
 Pour apprendre la valeur d'une heure, demande aux fiancés qui attendent de se revoir.
+
 Pour apprendre la valeur d'une minute, demande à celui qui a raté son train, son bus ou son avion.
+
 Pour apprendre la valeur d'une seconde, demande à celui qui a perdu quelqu'un dans un accident.
+
 Pour apprendre la valeur d'une milliseconde, demande à celui qui a gagné une médaille d'argent aux Jeux Olympiques.
 <br><br>
+
 Le temps n'attend personne. Rassemble chaque instant qu'il te reste et il sera de grande valeur. Partage les avec une personne de choix et ils deviendront encore plus précieux.
 
 <br><br>
@@ -1202,28 +1330,27 @@ Titre: Le bâtisseur de ponts
 Type: Texte
 Tags: Amitié, Fraternité, Pardon
 ---
-Le bâtisseur de ponts
 Voici l'histoire de deux frères qui s'aimaient beaucoup et vivaient en parfaite harmonie dans leur ferme jusqu'au jour où un conflit éclata entre eux.
+
 Les deux frères vivaient du travail de leurs champs. Ils cultivaient ensemble et récoltaient ensemble. Ils avaient tout en commun. Tout commença par un malheureux malentendu entre eux. Mais peu à peu, le fossé se creusa jusqu'au jour où il y eut une vive discussion puis un silence douloureux qui dura plusieurs semaines.
-<br>
+
 Un jour quelqu'un frappa à la porte du frère aîné. C'était un homme à tout faire qui cherchait du travail. Quelques réparations à faire...
-- Oui, lui répondit-il, j'ai du travail pour toi. Tu vois, de l'autre côté du ruisseau vit mon frère cadet. Il y a quelques semaines, il m'a offensé gravement et nos rapports se sont brisés. Je vais lui montrer que je peux aussi me venger. Tu vois ces pierres à côté de ma maison ? Je voudrais que tu en construises un mur de deux mètres de haut, car je ne veux plus le voir.
-<br>
+"Oui", lui répondit-il, j'ai du travail pour toi. "Tu vois, de l'autre côté du ruisseau vit mon frère cadet. Il y a quelques semaines, il m'a offensé gravement et nos rapports se sont brisés. Je vais lui montrer que je peux aussi me venger. Tu vois ces pierres à côté de ma maison ? Je voudrais que tu en construises un mur de deux mètres de haut, car je ne veux plus le voir."
+ 
 L'homme répondit :
-- Je crois que je comprends la situation.
+"Je crois que je comprends la situation."
 L'homme aida son visiteur à réunir tout le matériel de travail puis il partit en voyage le laissant seul pendant toute une semaine.
 Quelques jours plus tard, lorsqu'il revint de la ville, l'homme à tout faire avait déjà terminé son travail. Mais quelle surprise ! Au lieu d'un mur de deux mètres de haut, il y avait un pont. 
-<br>
+ 
 Précisément à ce moment, le frère cadet sortit de sa maison et courut vers son aîné en s'exclamant :
-- Tu es vraiment formidable ! Construire un pont alors que nous étions si fâchés ! Je suis fier de toi !
-<br>
+"Tu es vraiment formidable ! Construire un pont alors que nous étions si fâchés ! Je suis fier de toi !"
+ 
 Pendant que les deux frères fêtaient leur réconciliation, l'homme à tout faire ramassa ses outils pour partir.
-- Non, attends ! lui dirent-ils. Il y a ici du travail pour toi.
+"Non, attends !" lui dirent-ils. Il y a ici du travail pour toi.
 Mais il répondit :
-- Je voudrais bien rester, mais j'ai encore d'autres ponts à construire...
-
-
+"Je voudrais bien rester, mais j'ai encore d'autres ponts à construire..."
 <br><br>
+
 <i>Anonyme</i>
 
 ---
@@ -1233,48 +1360,70 @@ Type: Texte
 Tags: Argent, Temps, Sens, Sobriété
 ---
 Un riche d’homme d’affaires était en vacances en Inde. Un matin, sur la grève, il aperçut la barque d’un pêcheur qui rentrait.
-– Oh là ! lui cria-t-il. La pêche a été bonne ?
+
+"Oh là ! lui cria-t-il. La pêche a été bonne ?"
+
 Le pêcheur lui sourit et lui montra quelques poissons sur le sol de sa barque :
-– Oui, c’est une bonne pêche.
-– Il est encore tôt. Je suppose que tu y retournes.
-– Y retourner ? demanda le pêcheur. Mais pour quoi faire ?
-– Mais parce qu’ainsi tu en auras plus, répondit l’homme d’affaires à qui cela semblait une évidence.
-– Mais pour quoi faire ? Je n’en ai pas besoin !
-– Quand tu en auras plus, tu les revendras !
-– Mais pour quoi faire ?
-– Tu auras plus d’argent.
-– Mais pour quoi faire ?
-– Tu pourras changer ta vieille barque contre un joli petit bateau.
-– Mais pour quoi faire ?
-– Et bien, avec ton petit bateau, tu pourras avoir plus de poissons.
-– Mais pour quoi faire ?
-– Et bien tu pourras prendre des ouvriers.
-– Mais pour quoi faire ?
-– Ils pêcheront pour toi !
-– Mais pour quoi faire ?
-– Tu deviendras riche.
-– Mais pour quoi faire ?
-– Tu pourras ainsi te reposer.
+"Oui, c’est une bonne pêche."
+
+"Il est encore tôt. Je suppose que tu y retournes.
+
+"Y retourner ? demanda le pêcheur. Mais pour quoi faire ?"
+
+"Mais parce qu’ainsi tu en auras plus, répondit l’homme d’affaires à qui cela semblait une évidence."
+
+"Mais pour quoi faire ? Je n’en ai pas besoin !"
+
+"Quand tu en auras plus, tu les revendras !"
+
+"Mais pour quoi faire ?"
+
+"Tu auras plus d’argent."
+
+"Mais pour quoi faire ?"
+
+"Tu pourras changer ta vieille barque contre un joli petit bateau."
+
+"Mais pour quoi faire ?"
+
+"Et bien, avec ton petit bateau, tu pourras avoir plus de poissons."
+
+"Mais pour quoi faire ?"
+
+"Et bien tu pourras prendre des ouvriers."
+
+"Mais pour quoi faire ?"
+
+"Ils pêcheront pour toi !"
+
+"Mais pour quoi faire ?"
+
+"Tu deviendras riche."
+
+"Mais pour quoi faire ?"
+
+"Tu pourras ainsi te reposer."
+
 Le pêcheur le regarda alors avec un grand sourire :
-– C’est justement ce que je vais faire tout de suite.
+"C’est justement ce que je vais faire tout de suite."
 ---
 MDVersion: 1
 Titre: Le petit garçon et les étoiles de mer
 Type: Texte
 Tags: Colibri
 ---
-Pendant mes dernières vacances, au bord de la mer, un matin en arrivant sur la plage, j'ai découvert des milliers d'étoiles de mer qui s'étaient échouées dans la nuit. J'étais complètement estomaqué par ce spectacle quand je vois un petit garçon au bord de la mer qui prend une étoile de mer entre ses deux doigts et la rejette à la mer. Pendant que je m'approche, il continue sa tâche en essayant de lancer les étoiles de mer le plus loin possible dans la mer. Arrivé près de lui, je le félicite pour ce qu'il a entrepris mais je lui fais remarquer que c'est une tâche impossible :
+Pendant mes dernières vacances, au bord de la mer, un matin en arrivant sur la plage, j'ai découvert des milliers d'étoiles de mer qui s'étaient échouées dans la nuit. 
 
-- Même si tu continues tout le temps à les rejeter, une par une, à la mer, compte tenu des milliers et des milliers d'étoiles de mer qui se sont échouées, à la fin de la journée, on ne verra pas beaucoup la différence sur la plage.
+J'étais complètement estomaqué par ce spectacle quand je vois un petit garçon au bord de la mer qui prend une étoile de mer entre ses deux doigts et la rejette à la mer. Pendant que je m'approche, il continue sa tâche en essayant de lancer les étoiles de mer le plus loin possible dans la mer. Arrivé près de lui, je le félicite pour ce qu'il a entrepris mais je lui fais remarquer que c'est une tâche impossible :
+
+"Même si tu continues tout le temps à les rejeter, une par une, à la mer, compte tenu des milliers et des milliers d'étoiles de mer qui se sont échouées, à la fin de la journée, on ne verra pas beaucoup la différence sur la plage."
 
 A ce moment là, le jeune garçon, qui venait de prendre délicatement une étoile de mer s'est redressé, il m'a regardé droit dans les yeux et avec un grand sourire, il m'a dit :
 
-- D'accord, peut-être que ça ne changera pas beaucoup de choses sur la plage, mais, pour cette étoile de mer-là, ça fait une sacrée différence.
+"D'accord, peut-être que ça ne changera pas beaucoup de choses sur la plage, mais, pour cette étoile de mer-là, ça fait une sacrée différence."
 
 <br>
 *Anonyme*
-
-
 ---
 MDVersion: 1
 Titre: Le roi est le jardin
@@ -1308,28 +1457,25 @@ Titre: Un sourire
 Type: Texte
 Tags: Bonheur
 ---
-Un sourire ne coûte rien et produit beaucoup,
-Il enrichit ceux qui le reçoivent
-Sans appauvrir ceux qui le donnent.
-Il ne dure qu'un instant
-Mais son souvenir est parfois éternel.
- Personne n'est assez riche pour s'en passer,
-Personne n'est assez pauvre pour qu'il soit inutile,
-Personne n'est assez méprisable pour ne pas le mériter.
-Il crée le bonheur au foyer, soutient en affaires et au travail,
-Il est le signe sensible de l'amitié.
-Un sourire donne du repos à l'être fatigué,
-Rend courage aux plus découragés.
- Il ne peut ni s'acheter, ni se prêter, ni se voler
-Car il n'a de valeur qu'à partir du moment où il se donne.
-Et si quelquefois vous rencontrez une personne
-Qui ne sait plus avoir le sourire,
-Soyez généreux, donnez-lui le vôtre,
-Car nul n'a autant besoin d'un sourire
-Que celui qui ne peut en donner aux autres.
-
-
-
+Un sourire ne coûte rien et produit beaucoup,  
+Il enrichit ceux qui le reçoivent  
+Sans appauvrir ceux qui le donnent.  
+Il ne dure qu'un instant  
+Mais son souvenir est parfois éternel.  
+ Personne n'est assez riche pour s'en passer,  
+Personne n'est assez pauvre pour qu'il soit inutile,  
+Personne n'est assez méprisable pour ne pas le mériter.  
+Il crée le bonheur au foyer, soutient en affaires et au travail,  
+Il est le signe sensible de l'amitié.  
+Un sourire donne du repos à l'être fatigué,  
+Rend courage aux plus découragés.  
+ Il ne peut ni s'acheter, ni se prêter, ni se voler  
+Car il n'a de valeur qu'à partir du moment où il se donne.  
+Et si quelquefois vous rencontrez une personne  
+Qui ne sait plus avoir le sourire,  
+Soyez généreux, donnez-lui le vôtre,  
+Car nul n'a autant besoin d'un sourire  
+Que celui qui ne peut en donner aux autres.  
 ---
 MDVersion: 1
 Titre: Les 3 passoires
@@ -1337,50 +1483,46 @@ Type: Texte
 Tags: Sens
 ---
 Socrate avait, dans la Grèce antique, une haute réputation de sagesse. Quelqu'un vint un jour trouver le grand philosophe et lui dit : 
-<br>
+ 
 « Sais-tu ce que je viens d'apprendre sur ton ami ? »
-<br>
+ 
 « Un instant, répondit Socrate. Avant que tu me racontes tout cela, j'aimerais te faire passer un test rapide. Ce que tu as à me dire, l'as tu fait passer par les trois passoires ?
-<br>
+ 
 Mais oui, reprit Socrate, avant de raconter toutes sortes de choses sur les autres, il est bon de prendre le temps de filtrer ce que l'on aimerait dire. C'est ce que j'appelle le test des trois passoires.
-<br>
+ 
 La première passoire est celle de la VÉRITÉ. As-tu vérifié si ce que tu veux me raconter est VRAI ? » « Non, pas vraiment, je n'ai pas vu la chose moi-même, je l'ai seulement entendu dire. » « Très bien ! Tu ne sais donc pas si c'est la vérité.
-<br>
+ 
 Voyons maintenant, essayons de filtrer autrement, en utilisant une deuxième passoire, celle de la BONTÉ. Ce que tu veux m'apprendre sur mon ami, est-ce quelque chose de BIEN ? » « Ah non, au contraire! J'ai entendu dire que ton ami avait très mal agi. » « Donc, continue Socrate, tu veux me raconter de mauvaises choses sur lui et tu n'es pas sûr qu'elles soient vraies. Ce n'est pas très prometteur !
-<br>
+ 
 Mais tu peux encore passer le test, car il reste une passoire : celle de l'UTILITÉ. Est-il UTILE que tu m'apprennes ce que mon ami aurait fait ? » « Utile ? Non, pas vraiment, je ne crois pas que ce soit utile. »
-<br>
+ 
 « Alors, conclut Socrate, si ce que tu as à me raconter n'est ni VRAI, ni BIEN, ni UTILE, pourquoi vouloir me le dire ? Je ne veux rien savoir. De ton côté, tu ferais mieux d'oublier tout cela . »
-
 <br><br>
+
 <i>Anonyme</i>
-
-
 ---
 MDVersion: 1
 Titre: Les 4 bougies
 Type: Texte
 Tags: Espérance
 ---
-Quatre bougies brûlaient lentement. Il régnait un tel silence que l’on pouvait entendre leur conversation.
-La première dit « Je suis la Paix ! Cependant, personne n’arrive à me maintenir allumée… je crois bien que je vais m’éteindre… »
+Quatre bougies brûlaient lentement. Il régnait un tel silence que l’on pouvait entendre leur conversation.  
+La première dit « **Je suis la Paix !**  Cependant, personne n’arrive à me maintenir allumée… je crois bien que je vais m’éteindre… »
 Sa flamme diminua peu à peu, et disparut.
  
-La seconde dit « Je suis la Foi ! Mais dorénavant, le monde pense que je ne suis plus indispensable… Ca n’a pas de sens que je reste allumée plus longtemps ! »
+La seconde dit « **Je suis la Foi !** Mais dorénavant, le monde pense que je ne suis plus indispensable… Ca n’a pas de sens que je reste allumée plus longtemps ! »  
 Et sitôt qu’elle eut fini de parler, une brise légère souffla sur elle et l’éteignit.
  
-La troisième bougie se manifesta à son tour « Je suis l’Amour ! Mais je n’ai plus de force pour rester allumée. Les gens me laissent de côté et ne comprennent pas mon importance. Ils oublient même d’aimer ceux qui sont proches d’eux… »
+La troisième bougie se manifesta à son tour « **Je suis l’Amour !** Mais je n’ai plus de force pour rester allumée. Les gens me laissent de côté et ne comprennent pas mon importance. Ils oublient même d’aimer ceux qui sont proches d’eux… »  
 Et sans un bruit, elle s’effaça à son tour.
  
-Alors entra un enfant, qui vit les trois bougies éteintes.
-« Mais pourquoi avez-vous cessé de brûler ? Vous deviez rester allumées jusqu’à la fin ! »
+Alors entra un enfant, qui vit les trois bougies éteintes.  
+« Mais pourquoi avez-vous cessé de brûler ? Vous deviez rester allumées jusqu’à la fin ! »  
 Et une larme glissa le long de sa joue…
  
-Alors la quatrième bougie murmura « N’aies pas peur. Tant que j’ai ma flamme, nous pourrons rallumer les autres bougies. Je suis l’Espérance ! »
+Alors la quatrième bougie murmura « N’aies pas peur. Tant que j’ai ma flamme, nous pourrons rallumer les autres bougies. **Je suis l’Espérance !** »
  
 Alors, les yeux brillants, l’enfant prit la bougie de l’Espérance et ralluma les trois autres
-
-
 ---
 MDVersion: 1
 Titre: Les couleurs de la vie
@@ -1388,13 +1530,21 @@ Type: Texte
 Tags: Sens
 ---
 Ma vie était une feuille blanche sans valeur.
+
 Le vert m'a donné la croissance,
+
 le rouge l'ardeur,
+
 le jaune m'a appris la loyauté et la droiture,
+
 le bleu la pureté,
+
 le rose m'a offert l'espoir,
+
 le gris léger la tristesse.
+
 Pour terminer cette Aquarelle, le noir m'imposera la mort.
+
 Depuis, j'adore la vie parce que j'adore ses couleurs.
 
 <br><br>
@@ -1466,7 +1616,9 @@ Tags: Sens, Essentiel
 Un jour, un vieux professeur de l'École nationale d'administration publique (ENAP) fut engagé pour donner une formation sur la planification efficace de son temps à un groupe d'une quinzaine de dirigeants de grosses compagnies nord-américaines. Ce cours constituait l'un des cinq ateliers de leur journée de formation. Le vieux prof n'avait donc qu'une heure pour "passer sa matière ".  
 
 Debout, devant ce groupe d'élite (qui était prêt à noter tout ce que l'expert allait enseigner), le vieux prof les regarda un par un, lentement, puis leur dit : "Nous allons réaliser une expérience". De dessous la table qui le séparait de ses élèves, le vieux prof sortit un immense pot Mason d'un gallon (pot de verre de plus de 4 litres) qu'il posa délicatement en face de lui. Ensuite, il sortit environ une douzaine de cailloux a peu près gros comme des balles de tennis et les plaça délicatement, un par un, dans le grand pot.
+
 Lorsque le pot fut rempli jusqu'au bord et qu'il fut impossible d'y ajouter un caillou de plus, il leva lentement les yeux vers ses élèves et leur demanda :  
+
 "Est-ce que ce pot est plein?".  
 
 Tous répondirent : "Oui".  
@@ -1474,21 +1626,31 @@ Tous répondirent : "Oui".
 Il attendit quelques secondes et ajouta : "Vraiment?".  
 
 Alors, il se pencha de nouveau et sortit de sous la table un récipient rempli de gravier. Avec minutie, il versa ce gravier sur les gros cailloux puis brassa légèrement le pot. Les morceaux de gravier s'infiltrèrent entre les cailloux... jusqu'au fond du pot.  
-Le vieux prof leva à nouveau les yeux vers son auditoire et redemanda : "Est-ce que ce pot est plein?". Cette fois, ses brillants élèves commençaient à comprendre son manège.  
+Le vieux prof leva à nouveau les yeux vers son auditoire et redemanda :
+
+"Est-ce que ce pot est plein?". 
+
+Cette fois, ses brillants élèves commençaient à comprendre son manège.  
 L'un d'eux répondît: "Probablement pas!".  
 
 "Bien!" répondit le vieux prof.  
 
-Il se pencha de nouveau et cette fois, sortit de sous la table une chaudière de sable. Avec  attention, il versa le sable dans le pot. Le sable alla remplir les espaces entre les gros cailloux et le gravier. Encore une fois, il demanda : "Est-ce que ce pot est plein?".  
+Il se pencha de nouveau et cette fois, sortit de sous la table une chaudière de sable. Avec  attention, il versa le sable dans le pot. Le sable alla remplir les espaces entre les gros cailloux et le gravier. Encore une fois, il demanda : 
+
+"Est-ce que ce pot est plein?".  
+
 Cette fois, sans hésiter et en choeur, les brillants élèves répondirent : "Non!".  
 "Bien!" répondît le vieux prof.  
 
 Et comme s'y attendaient ses prestigieux élèves, il prit le pichet d'eau qui était sur la table et remplit le pot jusqu'a ras bord. Le vieux prof leva alors les yeux vers son groupe et demanda : "Quelle grande vérité nous démontre cette expérience? "  
+
 Pas fou, le plus audacieux des élèves, songeant au sujet de ce cours, répondît : "Cela démontre que même lorsque l'on croit que notre agenda est complètement rempli, si on le veut vraiment, on peut y ajouter plus de rendez-vous, plus de choses à faire ".  
+
 "Non" répondit le vieux prof. "Ce n'est pas cela. La grande vérité que nous démontre cette expérience est la suivante: si on ne met pas les gros cailloux en premier dans le pot, on ne pourra jamais les faire entrer tous ensuite". Il y eut un profond silence, chacun prenant
 conscience de l'évidence de ces propos.  
 
 Le vieux prof leur dit alors : "Quels sont les gros cailloux dans votre vie?" "Votre santé?" "Votre famille?" "Vos ami(e)s?" "Réaliser vos rêves?" "Faire ce que vous aimez?" "Apprendre?" "Défendre une cause?" "Relaxer?" "Prendre le temps...?" "Ou... toute autre chose?"    
+
 "Ce qu'il faut retenir, c'est l'importance de mettre ses GROS CAILLOUX en premier dans sa vie, sinon on risque de ne pas réussir...sa vie. Si on donne priorité aux peccadilles (le gravier, le sable), on remplira sa vie de peccadilles et on n'aura plus suffisamment de temps précieux
 à consacrer aux éléments importants de sa vie. 
  
@@ -1504,19 +1666,30 @@ Type: Texte
 Tags: Sens, Essentiel
 ---
 Le plus grand handicap: la peur 
-Le plus beau jour: aujourd'hui 
-La chose la plus facile: se tromper 
-La plus grande erreur: abandonner 
-Le plus grand défaut: l'égoïsme 
-La plus grande distraction: le travail 
-La pire banqueroute: le découragement 
-Les meilleurs professeurs: les enfants 
-Le plus grand besoin: le bon sens 
-Le plus bas sentiment: la jalousie 
-Le plus beau présent: le pardon 
-La plus grande connaissance: Dieu 
-La plus belle chose au monde: l'amour 
 
+Le plus beau jour: aujourd'hui 
+
+La chose la plus facile: se tromper 
+
+La plus grande erreur: abandonner 
+
+Le plus grand défaut: l'égoïsme 
+
+La plus grande distraction: le travail 
+
+La pire banqueroute: le découragement 
+
+Les meilleurs professeurs: les enfants 
+
+Le plus grand besoin: le bon sens 
+
+Le plus bas sentiment: la jalousie 
+
+Le plus beau présent: le pardon 
+
+La plus grande connaissance: Dieu 
+
+La plus belle chose au monde: l'amour 	
 ---
 MDVersion: 1
 Titre: Lettre d’anniversaire
@@ -1545,7 +1718,7 @@ Tous les ans ça empire. Les gens se rappellent seulement de ce qu'ils boivent e
 
 J'aurai souhaité que vous vous rappeliez qu'il y a plus de 2000 ans de cela, je suis venu au monde dans le but de donner ma vie pour vous. Car je ne vous ai pas oublié, je vous aime très fort !
 
-– Jésus –
+*Jésus*
 
 ---
 MDVersion: 1
@@ -1573,20 +1746,20 @@ Titre: Mon père, je m’abandonne à toi
 Type: Texte
 Tags: Dieu, Prière
 ---
-Je m'abandonne à Toi, fais de moi ce qu'il te plaira.
-Quoi que tu fasses de moi, je te remercie. *
-Je suis prêt à tout, j'accepte tout.
-Pourvu que ta volonté se fasse en moi, et en toutes tes créatures.
-Je ne désire rien d'autre, mon Dieu.
-Je remets mon âme entre tes mains, je te la donne, mon Dieu,
-avec tout l'amour de mon coeur, parce que je t'aime,
-et que c'est un besoin d'amour de me donner,
-de me remettre entre tes mains,
-sans mesure,
-avec une infinie confiance,
-car tu es mon Père.
-. 
-<br><br>
+Je m'abandonne à Toi, fais de moi ce qu'il te plaira.  
+Quoi que tu fasses de moi, je te remercie.  
+Je suis prêt à tout, j'accepte tout.  
+Pourvu que ta volonté se fasse en moi, et en toutes tes créatures.  
+Je ne désire rien d'autre, mon Dieu.  
+Je remets mon âme entre tes mains, je te la donne, mon Dieu,  
+avec tout l'amour de mon coeur, parce que je t'aime,  
+et que c'est un besoin d'amour de me donner,  
+de me remettre entre tes mains,  
+sans mesure,  
+avec une infinie confiance,  
+car tu es mon Père.  
+<br><br> 
+
 <i>Charles de Foucauld</i>
 
 
@@ -1596,105 +1769,103 @@ Titre: Ne t’inquiète pas
 Type: Texte
 Tags: Sobriété, Sens
 ---
-Ne t’inquiète pas, tout se dérègle, les eaux montent et l’air se réchauffe
-Chaque jour, des espèces disparaissent
-Mais bon, demain sort le dernier Smartphone, alors ne t’inquiète pas
-Ne t’inquiète pas, non ne t’inquiète pas...
-Ne t’inquiète pas...
+Ne t’inquiète pas, tout se dérègle, les eaux montent et l’air se réchauffe  
+Chaque jour, des espèces disparaissent  
+Mais bon, demain sort le dernier Smartphone, alors ne t’inquiète pas  
+Ne t’inquiète pas, non ne t’inquiète pas...  
+Ne t’inquiète pas...  
 
-Non, ne t’inquiète pas, on gère les choses, tu peux continuer à dormir
-Du sang et des larmes sur la terre des hommes, 'faut bien vendre des missiles et de la torpille
-Oui, ça fait un bail que la paix est morte, on manie les mots et les projets sordides
-Nous sommes à la fois les pyromanes, les pompiers et on te vendra la porte de sortie
-Oui, mais ne t’inquiète pas, si les armes se propagent à toute vitesse
-Si la drogue assassine, c’est bon pour le business
-Le gain ça se mesure, et pas la tristesse
-Alors laisse, et ne t’inquiète pas... Lundi sort la nouvelle série 7
-Tu vois, ne t’inquiète pas... et si tu as peur, il y a le 17
-Alors ne t’inquiète pas, si la détresse enflamme la Terre
-Jusqu’à voir des jeunes commettre l’impardonnable
-Des familles innocentes sous les feux de la guerre
-Et le nom de ton village ne sera même pas nommable
-Des séreux en kalash' qui se cachent derrière Dieu contre la foi de l’autre
+Non, ne t’inquiète pas, on gère les choses, tu peux continuer à dormir  
+Du sang et des larmes sur la terre des hommes, 'faut bien vendre des missiles et de la torpille  
+Oui, ça fait un bail que la paix est morte, on manie les mots et les projets sordides  
+Nous sommes à la fois les pyromanes, les pompiers et on te vendra la porte de sortie  
+Oui, mais ne t’inquiète pas, si les armes se propagent à toute vitesse  
+Si la drogue assassine, c’est bon pour le business  
+Le gain ça se mesure, et pas la tristesse  
+Alors laisse, et ne t’inquiète pas... Lundi sort la nouvelle série 7  
+Tu vois, ne t’inquiète pas... et si tu as peur, il y a le 17  
+Alors ne t’inquiète pas, si la détresse enflamme la Terre  
+Jusqu’à voir des jeunes commettre l’impardonnable    
+Et le nom de ton village ne sera même pas nommable  
+Des séreux en kalash' qui se cachent derrière Dieu contre la foi de l’autre  
 
-Des forces impérialistes qui bombardent des enfants, des vieux au nom des Droits de l’Homme
-Mais ne t’inquiète pas…
+Des forces impérialistes qui bombardent des enfants, des vieux au nom des Droits de l’Homme  
+Mais ne t’inquiète pas…  
 
-Laisse-nous te bercer à voix basse
-Laisse-nous te raconter des histoires
-Laisse-nous réfléchir à ta place
-Pendant que tu te divertiras...
-Laisse-nous faire à huis clos, la tendance qui concerne ta planète
-T’inquiète pas, demain sort le dernier Smartphone et tu pourras dormir avec…
+Laisse-nous te bercer à voix basse  
+Laisse-nous te raconter des histoires  
+Laisse-nous réfléchir à ta place  
+Pendant que tu te divertiras...  
+Laisse-nous faire à huis clos, la tendance qui concerne ta planète  
+T’inquiète pas, demain sort le dernier Smartphone et tu pourras dormir avec…  
 
-Ne t’inquiète pas, si le ciel devient rouge, si les cœurs deviennent braises
-Si pour des guerres d’égo, le sang coule, et si aucunes paroles ne se pèsent
-Si partout sur le globe, l’injustice béante fait croître l’esprit de vengeance
-L’amour est la lumière de l’âme, mais qui a conscience de ce que le manque d’amour engendre ?
-Mais ne t’inquiète pas, le business est bon, on compte le monde en dix chiffres
-Jouer à la guerre, c’est bon pour les comptes, et en temps de crises les riches s’enrichissent
-Peu importe les cris de détresse, qu’on étouffe à coup de matraque, à coup de machette
-Des femmes, des enfants, des dictat', des paramilitaires, des organes, ici-bas tout s’achète
-Mais ne t’inquiète pas, si l’âme du monde crie de douleur
-Le monde changera quand 51% de l’humanité incarnera l’amour de tout cœur
-Pas un hasard, si hommes de pouvoir incitent implicitement à la haine de l’autre
-Plus le mensonge est gros, plus il passe, mais qu’est ce qu’on inventerait pas pour dissimuler sa soif d’or noir ?
-La culture de la violence se propage, elle fait des dégâts
-De cause à effet, à quoi s’attend-on quand les armes et le sang inspirent l’art d’un peuple en général ?
-Si tout ce qui est vénéré est tout sauf vénérable
-Tout ce que ça peut générer dans un monde exécrable
-Frustrés et excédés, facile de perdre l'éclat
-De péter des câbles et d’un jour de rejoindre les cœurs de glace
+Ne t’inquiète pas, si le ciel devient rouge, si les cœurs deviennent braises  
+Si pour des guerres d’égo, le sang coule, et si aucunes paroles ne se pèsent  
+Si partout sur le globe, l’injustice béante fait croître l’esprit de vengeance  
+L’amour est la lumière de l’âme, mais qui a conscience de ce que le manque d’amour engendre ?  
+Mais ne t’inquiète pas, le business est bon, on compte le monde en dix chiffres  
+Jouer à la guerre, c’est bon pour les comptes, et en temps de crises les riches s’enrichissent  
+Peu importe les cris de détresse, qu’on étouffe à coup de matraque, à coup de machette  
+Des femmes, des enfants, des dictat', des paramilitaires, des organes, ici-bas tout s’achète  
+Mais ne t’inquiète pas, si l’âme du monde crie de douleur  
+Le monde changera quand 51% de l’humanité incarnera l’amour de tout cœur  
+Pas un hasard, si hommes de pouvoir incitent implicitement à la haine de l’autre  
+Plus le mensonge est gros, plus il passe, mais qu’est ce qu’on inventerait pas pour dissimuler sa soif d’or noir ?  
+La culture de la violence se propage, elle fait des dégâts  
+De cause à effet, à quoi s’attend-on quand les armes et le sang inspirent l’art d’un peuple en général ?  
+Si tout ce qui est vénéré est tout sauf vénérable  
+Tout ce que ça peut générer dans un monde exécrable  
+Frustrés et excédés, facile de perdre l'éclat  
+De péter des câbles et d’un jour de rejoindre les cœurs de glace  
 
-Te demande pas pourquoi, on réfléchit pour toi...
-Consomme sans voir que l’on fonce vers un trou noir...
-L’âme du monde crie de douleur, personne ne veut voir...
-Baisser la tête c’est un jour s’en mordre les doigts
+Te demande pas pourquoi, on réfléchit pour toi...  
+Consomme sans voir que l’on fonce vers un trou noir...  
+L’âme du monde crie de douleur, personne ne veut voir...  
+Baisser la tête c’est un jour s’en mordre les doigts  
 
-Ne t’inquiète pas, si la plaie a le visage de l’indifférence
-Si on crée des barreaux juste en légiférant
-Aucune humanité, jusqu’à l’indigestion
-Divertir rime avec diversion
-La haine engendre la haine, le sang engendre le sang
-Sécurité musclée pour instaurer la paix : difficile d’en comprendre le sens
-Mais ne t’inquiète pas, si des monstres de verre s’érigent vers le ciel, comme pour surveiller nos vies
-Nous cachent en plein jour l’horizon et l’soleil et nous lèvent les étoiles de nos nuits
-Somnambules rigides, on se renferme sur nous-même, on se bloque, paradis des momies
-Handicapés émotionnels, on s’brûle dans la colère, on s’brûle dans l’euphorie
-
-Laisse-nous te bercer à voix basse
-Laisse-nous te raconter des histoires
-Laisse-nous réfléchir à ta place
-Pendant que tu te divertiras...
-Laisse-nous faire à huis clos, la tendance qui concerne ta planète
-T’inquiète pas, demain sort le dernier Smartphone et tu pourras dormir avec…
+Ne t’inquiète pas, si la plaie a le visage de l’indifférence  
+Si on crée des barreaux juste en légiférant  
+Aucune humanité, jusqu’à l’indigestion  
+Divertir rime avec diversion  
+La haine engendre la haine, le sang engendre le sang  
+Sécurité musclée pour instaurer la paix : difficile d’en comprendre le sens  
+Mais ne t’inquiète pas, si des monstres de verre s’érigent vers le ciel, comme pour surveiller nos vies  
+Nous cachent en plein jour l’horizon et l’soleil et nous lèvent les étoiles de nos nuits  
+Somnambules rigides, on se renferme sur nous-même, on se bloque, paradis des momies  
+Handicapés émotionnels, on s’brûle dans la colère, on s’brûle dans l’euphorie  
+  
+Laisse-nous te bercer à voix basse  
+Laisse-nous te raconter des histoires  
+Laisse-nous réfléchir à ta place  
+Pendant que tu te divertiras...  
+Laisse-nous faire à huis clos, la tendance qui concerne ta planète  
+T’inquiète pas, demain sort le dernier Smartphone et tu pourras dormir avec…  
 <br><br>
+
 <i>Keny Arkana</i>
-
-
 ---
 MDVersion: 1
 Titre: Nous avons tout dans le Christ
 Type: Texte
 Tags: Prière
 ---
-Nous avons tout dans le Christ
-Si tu brûles de fièvre,
-Il est la Source qui rafraîchit ;
-Si tu es oppressé par tes fautes,
-Il est la Délivrance ;
-Si tu as besoin d'aide,
-Il est la Force ;
-Si tu as peur de la mort,
-Il est la Vie ;
-Si tu désires le ciel,
-Il est la Voie ;
-Si tu fuis les ténèbres,
-Il est la Lumière ;
-Si tu as besoin de nourriture,
-Il est l'Aliment.
-
+Nous avons tout dans le Christ  
+Si tu brûles de fièvre,  
+Il est la Source qui rafraîchit  
+Si tu es oppressé par tes fautes,  
+Il est la Délivrance  
+Si tu as besoin d'aide,  
+Il est la Force  
+Si tu as peur de la mort,  
+Il est la Vie  
+Si tu désires le ciel,  
+Il est la Voie  
+Si tu fuis les ténèbres,  
+Il est la Lumière  
+Si tu as besoin de nourriture,  
+Il est l'Aliment.  
 <br><br>
+
 <i>Saint Ambroise de Milan (340-397)</i>
 
 
@@ -1719,7 +1890,7 @@ Partir ce n’est pas dévorer des kilomètres et atteindre des vitesses superso
 C’est trouver quelqu’un qui marche avec moi, sur la même route, non pas pour me suivre comme mon ombre, mais pour remarquer d’autres choses que moi et me les faire voir.
  
 <br> 
-Dom Helder Câmara, évêque de Recife, Brésil
+*Dom Helder Câmara, évêque de Recife, Brésil*
 
 
 ---
@@ -1728,32 +1899,33 @@ Titre: Petites béatitudes
 Type: Texte
 Tags: Sens
 ---
-Heureux ceux qui savent rire d’eux-même :
+Heureux ceux qui savent rire d’eux-même :  
 Ils n’ont pas fini de s’amuser.
-<br> 
-Heureux ceux qui savent distinguer une montagne d’une taupinière :
+ 
+Heureux ceux qui savent distinguer une montagne d’une taupinière :  
 il leur sera épargné bien des tracas.
-<br>  
-Heureux ceux qui sont capables de se reposer, et de dormir sans chercher d’excuses :
+  
+Heureux ceux qui sont capables de se reposer, et de dormir sans chercher d’excuses :  
 Ils deviendront sages.
- <br> 
-Heureux ceux qui savent se taire et écouter :
+ 
+Heureux ceux qui savent se taire et écouter :  
 Ils en apprendront des choses nouvelles !
- <br> 
-Heureux ceux qui sont assez intelligents pour ne pas se prendre au sérieux :
+ 
+Heureux ceux qui sont assez intelligents pour ne pas se prendre au sérieux :  
 Ils seront appréciés de leur entourage.
- <br> 
-Heureux êtes-vous si vous savez regarder sérieusement les petites choses et paisiblement les  choses sérieuses : Vous irez loin dans la vie
- <br> 
-Heureux êtes- vous si vous savez admirez un sourire et oublier une grimace :
+ 
+Heureux êtes-vous si vous savez regarder sérieusement les petites choses et paisiblement les  choses sérieuses :  
+Vous irez loin dans la vie
+ 
+Heureux êtes- vous si vous savez admirez un sourire et oublier une grimace :  
 Votre route sera ensoleillée.
- <br> 
-Heureux êtes-vous si vous savez vous taire et sourire même lorsqu’on vous coupe la parole, lorsqu’on vous contredit ou qu’on vous marche sur les pieds : L’Evangile commence à pénétrer votre cœur.
- <br> 
-Heureux surtout vous qui savez reconnaitre le Seigneur, en tous ceux que vous rencontrerez : Vous avez trouvé la vraie lumière, vous avez trouvé la véritable sagesse. 
-<br> 
-
-
+ 
+Heureux êtes-vous si vous savez vous taire et sourire même lorsqu’on vous coupe la parole, lorsqu’on vous contredit ou qu’on vous marche sur les pieds :  
+L’Evangile commence à pénétrer votre cœur.
+ 
+Heureux surtout vous qui savez reconnaitre le Seigneur, en tous ceux que vous rencontrerez :  
+Vous avez trouvé la vraie lumière, vous avez trouvé la véritable sagesse. 
+ 
 
 ---
 MDVersion: 1
@@ -1761,79 +1933,73 @@ Titre: Peut-être que oui, peut-être que non
 Type: Texte
 Tags: Sens, Essentiel
 ---
-Peut-être que oui, peut-être que non
 Il était une fois un modeste paysan de la vieille Russie. Il était veuf et n'avait qu'un fils.
+
 Un jour, son cheval disparut. Tous ses voisins le plaignirent, en disant qu'une bien triste chose était arrivée.
 "Peut-être que oui, peut-être que non", répondit-il.
+
 Trois jours plus tard, son cheval revint accompagné de trois chevaux sauvages. Les voisins l'envièrent et lui affirmèrent: "Quelle chance tu as !". A quoi il répondit : "Peut-être que oui, peut-être que non".
+
 Son fils tenta de monter l'un des chevaux sauvages, tomba et se cassa une jambe. Les voisins dirent : "Quelle guigne !" - "Peut-être que oui, peut-être que non", répondit une nouvelle fois le paysan.
+
 Trois jours plus tard, les huissiers du tsar vinrent chercher tous les jeunes hommes valides pour les enrôler dans l'armée, et le fils du paysan ne fut pas enrôlé. "Quelle chance tu as !" déclarèrent les voisins au vieux paysan.
+
 Nous ne voyons qu'un tout petit bout de notre réalité. Qui sait à quoi peuvent être utiles les expériences que nous vivons !
-
-
 <br><br>
-<i>Sagesse de LAO-TSEU</i>
-
 ---
 MDVersion: 1
 Titre: Pourquoi la lampe s'est-elle éteinte ?
 Type: Texte
 Tags: Sobriété
 ---
-Pourquoi la lampe s'est-elle éteinte ?
-Je l'entourai de mon manteau pour la mettre à l'abri du vent :
+Pourquoi la lampe s'est-elle éteinte ?  
+Je l'entourai de mon manteau pour la mettre à l'abri du vent :  
 c'est pour cela que la lampe s'est éteinte.
-<br>
-Pourquoi la fleur s'est-elle fanée ?
-Je la pressai contre mon coeur avec inquiétude :
+ 
+Pourquoi la fleur s'est-elle fanée ?  
+Je la pressai contre mon coeur avec inquiétude :  
 voilà pourquoi la fleur s'est fanée.
-<br>
-Pourquoi la rivière s'est-elle tarie ?
-Je mis une digue en travers d'elle afin qu'elle me servit à moi seul :
+ 
+Pourquoi la rivière s'est-elle tarie ?  
+Je mis une digue en travers d'elle afin qu'elle me servit à moi seul :  
 voilà pourquoi la rivière s'est tarie.
-
-
 <br><br>
+
 <i>Tagore</i>
-
-
 ---
 MDVersion: 1
 Titre: Prière de celui qui soigne
 Type: Texte
 Tags: Prière, Servir
 ---
-Je t'offre, mon Dieu, mon regard et mes bras.
-Je t'offre mes mains pour soigner la souffrance.
-Je t'offre mon expérience et quel qu'en soit le prix
-je t'offre mes efforts et ma persévérance.
-<br><br>
-Donne-moi d'écouter celui qui vient me voir,
-celui qui me demande de le réconforter.
-Donne-moi d'écouter sans relâche.
-Donne-moi de soigner celui qui dit : « J'ai mal »,
-celui qui me demande encore de l'apaiser.
-Donne-moi de soigner sans relâche.
-Donne-moi de donner mes instants
-à tous ceux qui demandent le soulagement.
-Donne-moi de me donner sans cesse.
-Donne-moi de ne pas oublier que si j'ai le pouvoir de soigner,
-je suis fait avant tout pour servir.
-Donne-moi de ne pas m'affaiblir.
-Garde-moi de la peur et de l'indifférence,
-garde-moi de l'oubli.
-Donne-moi de voir l'ami, le frère, dans la main tendue.
-Aide-moi à marcher avec lui.
-<br><br>
-Je t'offre, mon Dieu,
-ma joie pour accueillir, mon coeur pour soulager,
-ma force pour tenir, et ma vie pour soigner.
-
+Je t'offre, mon Dieu, mon regard et mes bras.  
+Je t'offre mes mains pour soigner la souffrance.  
+Je t'offre mon expérience et quel qu'en soit le prix  
+je t'offre mes efforts et ma persévérance.  
  
+Donne-moi d'écouter celui qui vient me voir,  
+celui qui me demande de le réconforter.  
+Donne-moi d'écouter sans relâche.  
+Donne-moi de soigner celui qui dit : « J'ai mal »,  
+celui qui me demande encore de l'apaiser.  
+Donne-moi de soigner sans relâche.  
+Donne-moi de donner mes instants  
+à tous ceux qui demandent le soulagement.  
+Donne-moi de me donner sans cesse.  
+Donne-moi de ne pas oublier que si j'ai le pouvoir de soigner,  
+je suis fait avant tout pour servir.  
+Donne-moi de ne pas m'affaiblir.  
+Garde-moi de la peur et de l'indifférence,  
+garde-moi de l'oubli.  
+Donne-moi de voir l'ami, le frère, dans la main tendue.  
+Aide-moi à marcher avec lui.  
+
+Je t'offre, mon Dieu,  
+ma joie pour accueillir, mon coeur pour soulager,  
+ma force pour tenir, et ma vie pour soigner.  
 <br><br>
+ 
 <i>Anonyme</i>
-
-
 ---
 MDVersion: 1
 Titre: Prière du parachustiste
@@ -1952,42 +2118,41 @@ Titre: Problèmes de communication
 Type: Texte
 Tags: Fratérnité, Amitié
 ---
-Entre ce que je pense,
-ce que je veux dire,
-ce que je crois dire,
-ce que je dis,
-ce que vous voulez entendre,
-ce que vous entendez,
-ce que vous croyez en comprendre,
-ce que vous voulez comprendre, et
-ce que vous comprenez,
-<br><br>
-Il y a au moins neuf possibilités de ne pas se comprendre.
-<br><br>
+Entre ce que je pense,  
+ce que je veux dire,  
+ce que je crois dire,  
+ce que je dis,  
+ce que vous voulez entendre,  
+ce que vous entendez,  
+ce que vous croyez en comprendre,  
+ce que vous voulez comprendre,  
+et ce que vous comprenez,  
+ 
+Il y a au moins neuf possibilités de ne pas se comprendre.  
+ 
 Mais, s'il vous plaît, essayons quand même.
-
 <br><br>
-<i>Anonyme</i>
 
+<i>Anonyme</i>
 ---
 MDVersion: 1
 Titre: Qu’aimes tu ?
 Type: Texte
 Tags: Sens, Essentiel, Amour
 ---
-Aimes tu la beauté,
-alors ne m'aime pas !
-car il y a plus beau que moi.
-<br>
-Aimes tu la richesse,
-alors ne m'aime pas !
+Aimes tu la beauté,  
+alors ne m'aime pas !  
+car il y a plus beau que moi. 
+ 
+Aimes tu la richesse,  
+alors ne m'aime pas !  
 car il y a plus riche que moi.
-<br>
-Mais si tu aimes l'amour,
-alors aime moi !
+ 
+Mais si tu aimes l'amour,  
+alors aime moi !  
 car personne ne t'aime autant que moi !
-
 <br><br>
+
 <i>Anonyme</i>
 ---
 MDVersion: 1
@@ -2050,13 +2215,14 @@ Titre: Rappelle toi
 Type: Texte
 Tags: Sens, Humanité, Fraternité
 ---
-Que si un rien fait souffrir un rien aussi fait plaisir... 
-Que tu peux être semeur d'optimisme, de courage, de confiance…
-Que ta bonne humeur peut égayer la vie des autres... 
-Que tu peux, en tout temps, dire un mot aimable... 
-Que ton sourire non seulement t'enjolive, mais qu'il embellit l'existence de ceux qui t'approchent... 
-Que tu as des mains pour donner et un coeur pour pardonner... 
-<br>
+Que si un rien fait souffrir un rien aussi fait plaisir...   
+Que tu peux être semeur d'optimisme, de courage, de confiance…  
+Que ta bonne humeur peut égayer la vie des autres...   
+Que tu peux, en tout temps, dire un mot aimable...   
+Que ton sourire non seulement t'enjolive, mais qu'il embellit l'existence de ceux qui t'approchent...   
+Que tu as des mains pour donner et un coeur pour pardonner...   
+<br><br>
+
 *Thomas MERTON*
 
 ---
@@ -2065,133 +2231,129 @@ Titre: Répands la joie
 Type: Texte
 Tags: Joie, Livre de Lézard
 ---
-Répands la joie... 
-Répands la joie sur ton chemin, sur nos chemins. 
-Dis, ne veux-tu pas répandre la joie? 
-Oh ! oui, je le veux bien, mais d'où prendre la -joie ? 
-Je connais un pays; il se nomme la Loi. 
-Dans ce pays habitent la Vérité, la Volonté, l'Intelligence, la Beauté, la Bonté et la Joie. 
-Commence par la Vérité. 
-Elle vogue sur un lac bleu, et la voile blanche de sa barque se détache sur un ciel bleu. 
-Attends patiemment; la Vérité ne se hâte pas toujours, mais elle vient toujours. 
-Lorsqu'elle t'aura vue et reconnue, elle te dira: 
-<br>
-Sois vraie. 
-<br>
-Que jamais un mensonge n'effleure tes lèvres, ni médisance, ni flatterie, ni inexactitude aucune. 
-Que ton oui, soit oui; que ton non, soit non; que ta promesse soit une promesse; ton témoignage, un témoignage; ton verdict, un verdict. 
-Obéis à cet ordre, et tu auras conquis ta première gerbe de joie. 
-Ensuite pars à la recherche de la Volonté. 
-Elle habite la forêt de chênes. 
-Elle est grande comme les chênes et forte comme les chênes. 
-Autour d'elle, tu verras toutes les énergies du monde ligotées par elle; bâillonnées par elle ; dominées par elle qui s'en sert. 
-A son service. 
-Ne crains pas sa rude apparence; elle est bonne ; elle te dira simplement:
-<br>
-Domine-toi.
-<br>
-Quand la colère te secoue, quand un mot va s'échapper de ta bouche, et souiller de son odeur infecte le sillon d'air qu'il parcourra, domine-toi. 
-Quand la colère te secoue, quand ton bras se lève pour frapper, quand ton pied tremble sur le sol, domine-toi. 
-Quand la folie te grise, quand le délire te pousse de sottise en sottise, domine-toi. 
-Quand la tristesse t'enveloppe de ses linges mouillés, quand tu veux pleurer, domine-toi. 
-Quand tu veux crier, domine-toi. 
-Obéis à cet ordre, et tu auras conquis la seconde gerbe de joie. 
-Puis prend le chemin de la roche dite la «Grise». 
-C'est là que rêve l'Intelligence. 
-Son front est soucieux; son regard semble scruter l'Infini. 
-Elle est belle; elle est bonne aussi. 
-Ne crains pas de l'importuner; elle te dira doucement:
-<br>
-Comprends. Respecte.
-<br>
-C'est-à-dire regarde; 
-C'est-a-dire observe; sonde et fouille; tourne et retourne l'objet trouvé. 
-Médite la parole entendue. 
-Cherche à saisir ce quelque chose qui te semble étrange. 
-Cherche à l'assimiler, à le faire tien. 
-Si tu ne peux pas, reconnais modestement ton impuissance, et respecte au moins; 
-Ne condamne pas tout de suite; 
-Ne rejette pas tout de suite; 
-Ne te détourne pas tout de suite. 
-Obéis à cet ordre et tu auras conquis la troisième gerbe de joie. 
-Le chemin qui te reste à faire n'est point pénible: il conduit à la prairie verte, la radieuse, où vivent ensemble la Beauté et la Bonté. 
-Dans les hautes graminées, elles cheminent et les semences de pissenlit s'envolent à leur passage; et les bardanes s'accrochent à leurs robes et les pavots s'effeuillent dans leurs cheveux flottants. 
-Elles chantent; et leur voix est pleine d'éclat et de douceur. 
-Assieds-toi. 
-Attends qu'elles approchent. 
-Elles se pencheront sur toi et tu n'entendras qu'un murmure:
-<br>
-Recherche le beau.
-<br>
-Aide sans te lasser. 
-Obéis à cet ordre en apparence si simple et pourtant compliqué. 
-Il faut un effort pour toute chose: c'est une vérité vieille comme le monde. 
-Obéis à cet ordre, et tu auras conquis deux gerbes encore de joie. 
-Et riche de cette richesse, tu t'en iras enfin trouver la Joie sur le sommet lumineux. 
-Tu la verras, la rieuse gamine dansant dans un rayon de soleil. 
-Elle rira en te voyant chargée comme un baudet. 
-Elle te prendra par la main et te dira :
-Maintenant va et répands la joie. 
-Que ton regard soit un regard de joie. 
-Que ton sourire soit un sourire de joie. 
-Que ta parole soit une parole de joie. 
-Que ton geste soit un geste de joie. 
-Inonde ceux qui t'entourent de joie; on en manque tellement dans le monde... 
-Ne crains pas d'en donner trop; 
-Ne crains pas d'en manquer surtout. 
-Obéis à cet ordre et tu auras 'conquis la Joie même, rieuse gamine qui cheminera toujours à tes côtés. 
-<br>
-Dis, ne veux-tu pas répandre la joie? 
-Oh ! oui, je le veux bien.
-<br>
+Répands la joie...  
+Répands la joie sur ton chemin, sur nos chemins.  
+Dis, ne veux-tu pas répandre la joie?  
+Oh ! oui, je le veux bien, mais d'où prendre la -joie ?  
+Je connais un pays; il se nomme la Loi.  
+Dans ce pays habitent la Vérité, la Volonté, l'Intelligence, la Beauté, la Bonté et la Joie.  
+Commence par la Vérité.  
+Elle vogue sur un lac bleu, et la voile blanche de sa barque se détache sur un ciel bleu.  
+Attends patiemment; la Vérité ne se hâte pas toujours, mais elle vient toujours.  
+Lorsqu'elle t'aura vue et reconnue, elle te dira:  
+ 
+**Sois vraie.**
+
+Que jamais un mensonge n'effleure tes lèvres, ni médisance, ni flatterie, ni inexactitude aucune.  
+Que ton oui, soit oui; que ton non, soit non; que ta promesse soit une promesse; ton témoignage, un témoignage; ton verdict, un verdict.  
+Obéis à cet ordre, et tu auras conquis ta première gerbe de joie.  
+Ensuite pars à la recherche de la Volonté.  
+Elle habite la forêt de chênes.  
+Elle est grande comme les chênes et forte comme les chênes.  
+Autour d'elle, tu verras toutes les énergies du monde ligotées par elle; bâillonnées par elle ; dominées par elle qui s'en sert.  
+A son service.  
+Ne crains pas sa rude apparence; elle est bonne ; elle te dira simplement:  
+
+**Domine-toi.**
+
+Quand la colère te secoue, quand un mot va s'échapper de ta bouche, et souiller de son odeur infecte le sillon d'air qu'il parcourra, domine-toi.  
+Quand la colère te secoue, quand ton bras se lève pour frapper, quand ton pied tremble sur le sol, domine-toi.  
+Quand la folie te grise, quand le délire te pousse de sottise en sottise, domine-toi.  
+Quand la tristesse t'enveloppe de ses linges mouillés, quand tu veux pleurer, domine-toi.  
+Quand tu veux crier, domine-toi.  
+Obéis à cet ordre, et tu auras conquis la seconde gerbe de joie.  
+Puis prend le chemin de la roche dite la «Grise».  
+C'est là que rêve l'Intelligence.  
+Son front est soucieux; son regard semble scruter l'Infini.  
+Elle est belle; elle est bonne aussi.  
+Ne crains pas de l'importuner; elle te dira doucement: 
+ 
+**Comprends. Respecte.**
+ 
+C'est-à-dire regarde;  
+C'est-a-dire observe; sonde et fouille; tourne et retourne l'objet trouvé.  
+Médite la parole entendue.  
+Cherche à saisir ce quelque chose qui te semble étrange.  
+Cherche à l'assimiler, à le faire tien.  
+Si tu ne peux pas, reconnais modestement ton impuissance, et respecte au moins;  
+Ne condamne pas tout de suite;  
+Ne rejette pas tout de suite;  
+Ne te détourne pas tout de suite.  
+Obéis à cet ordre et tu auras conquis la troisième gerbe de joie.  
+Le chemin qui te reste à faire n'est point pénible: il conduit à la prairie verte, la radieuse, où vivent ensemble la Beauté et la Bonté.  
+Dans les hautes graminées, elles cheminent et les semences de pissenlit s'envolent à leur passage; et les bardanes s'accrochent à leurs robes et les pavots s'effeuillent dans leurs cheveux flottants.  
+Elles chantent; et leur voix est pleine d'éclat et de douceur.  
+Assieds-toi.  
+Attends qu'elles approchent.  
+Elles se pencheront sur toi et tu n'entendras qu'un murmure: 
+ 
+**Recherche le beau.**
+ 
+Aide sans te lasser.  
+Obéis à cet ordre en apparence si simple et pourtant compliqué.  
+Il faut un effort pour toute chose: c'est une vérité vieille comme le monde.  
+Obéis à cet ordre, et tu auras conquis deux gerbes encore de joie.  
+Et riche de cette richesse, tu t'en iras enfin trouver la Joie sur le sommet lumineux.  
+Tu la verras, la rieuse gamine dansant dans un rayon de soleil.  
+Elle rira en te voyant chargée comme un baudet.  
+Elle te prendra par la main et te dira : 
+Maintenant va et répands la joie.  
+Que ton regard soit un regard de joie.  
+Que ton sourire soit un sourire de joie.  
+Que ta parole soit une parole de joie.  
+Que ton geste soit un geste de joie.  
+Inonde ceux qui t'entourent de joie; on en manque tellement dans le monde...  
+Ne crains pas d'en donner trop;  
+Ne crains pas d'en manquer surtout.  
+Obéis à cet ordre et tu auras 'conquis la Joie même, rieuse gamine qui cheminera toujours à tes côtés.  
+ 
+Dis, ne veux-tu pas répandre la joie?  
+Oh ! oui, je le veux bien. 
+ 
 *Aimée Degallier-Martin (totem Lézard) *
-
-
 ---
 MDVersion: 1
 Titre: Risquer
 Type: Texte
 Tags: Oser, Courage
 ---
-Rire, c'est risquer d'avoir l'air ridicule. 
-Pleurer, c'est risquer de paraître sentimental.
-Vouloir rejoindre l'autre, c'est prendre le risque de s'impliquer.
-Exprimer ses sentiments, c'est risquer de révéler sa véritable façon d'être, d'affirmer à la face du monde ses idées et ses rêves, c'est risquer de perdre.
-Aimer, c'est prendre le risque de ne pas être aimé en retour.
-Vivre, c'est risquer de mourir.
-Espérer, c'est risquer le désespoir.
-Essayer, c'est risquer d'échouer.
+Rire, c'est risquer d'avoir l'air ridicule.   
+Pleurer, c'est risquer de paraître sentimental.  
+Vouloir rejoindre l'autre, c'est prendre le risque de s'impliquer.  
+Exprimer ses sentiments, c'est risquer de révéler sa véritable façon d'être, d'affirmer à la face du monde ses idées et ses rêves, c'est risquer de perdre.  
+Aimer, c'est prendre le risque de ne pas être aimé en retour.  
+Vivre, c'est risquer de mourir.  
+Espérer, c'est risquer le désespoir.  
+Essayer, c'est risquer d'échouer.  
 Mais on se doit de risquer parce que la plus sérieuse menace à la vie elle-même se trouve dans l'absence du risque...
-
 <br><br>
+
 <i>Anonyme</i>
-
-
 ---
 MDVersion: 1
-Titre: Seigneur, fais de moi un instrument de ta paix
+Titre: Prière de St François d'Assise
 Type: Texte
 Tags: Prière, Servir, Paix
 ---
-Seigneur, fais de moi un instrument de ta paix,
-Là où est la haine, que je mette l’amour.
-Là où est l’offense, que je mette le pardon.
-Là où est la discorde, que je mette l’union.
-Là où est l’erreur, que je mette la vérité.
-Là où est le doute, que je mette la foi.
-Là où est le désespoir, que je mette l’espérance.
-Là où sont les ténèbres, que je mette la lumière.
-Là où est la tristesse, que je mette la joie.
-O Seigneur, que je ne cherche pas tant à
-être consolé qu’à consoler,
-à être compris qu’à comprendre,
-à être aimé qu’à aimer.
-Car c’est en se donnant qu’on reçoit,
-c’est en s’oubliant qu’on se retrouve,
-c’est en pardonnant qu’on est pardonné,
-c’est en mourant qu’on ressuscite à l’éternelle vie.
-<br>
-Saint François d’Assise
+Seigneur, fais de moi un instrument de ta paix,  
+Là où est la haine, que je mette l’amour.  
+Là où est l’offense, que je mette le pardon.  
+Là où est la discorde, que je mette l’union.  
+Là où est l’erreur, que je mette la vérité.  
+Là où est le doute, que je mette la foi.  
+Là où est le désespoir, que je mette l’espérance.  
+Là où sont les ténèbres, que je mette la lumière.  
+Là où est la tristesse, que je mette la joie.  
+O Seigneur, que je ne cherche pas tant à être consolé qu’à consoler,  
+à être compris qu’à comprendre,  
+à être aimé qu’à aimer.  
+Car c’est en se donnant qu’on reçoit,  
+c’est en s’oubliant qu’on se retrouve,  
+c’est en pardonnant qu’on est pardonné,  
+c’est en mourant qu’on ressuscite à l’éternelle vie.  
+<br><br>
+
+*Texte atttribué à Saint François d’Assise*
 
 note: selon https://fr.wikipedia.org/wiki/Pri%C3%A8re_de_saint_Fran%C3%A7ois, cette prière a été écrite en 1910
 
@@ -2202,7 +2364,8 @@ Type: Texte
 Tags: Sens, Humanité
 ---
 Si tu veux construire un bateau, ne rassemble pas tes hommes et femmes pour leur donner des ordres, pour expliquer chaque détail, pour leur dire où trouver chaque chose… Si tu veux construire un bateau, fais naître dans le cœur de tes hommes et femmes le désir de la mer."
-<br>
+<br><br>
+
 *Antoine de Saint-Exupéry*
 
 ---
@@ -2211,15 +2374,15 @@ Titre: Si vous êtes malheureux
 Type: Texte
 Tags: Dieu
 ---
-Je Suis la LUMIÈRE... et vous ne Me voyez pas
-Je Suis la ROUTE... et vous ne Me suivez pas
-Je Suis la VÉRITÉ... et vous ne Me croyez pas
-Je Suis la VIE... et vous ne Me cherchez pas
-Je Suis votre CHEF... et vous ne M'obéissez pas
-Je Suis votre DIEU... et vous ne Me priez pas.
-Si vous êtes malheureux, ne Me le reprochez pas !
-
+Je Suis la LUMIÈRE... et vous ne Me voyez pas  
+Je Suis la ROUTE... et vous ne Me suivez pas  
+Je Suis la VÉRITÉ... et vous ne Me croyez pas  
+Je Suis la VIE... et vous ne Me cherchez pas  
+Je Suis votre CHEF... et vous ne M'obéissez pas  
+Je Suis votre DIEU... et vous ne Me priez pas.  
+Si vous êtes malheureux, ne Me le reprochez pas !  
 <br><br>
+
 <i>Anonyme</i>
 
 
@@ -2230,67 +2393,60 @@ Type: Texte
 Tags: Livre de Lézard, Essentiel
 ---
 <i>« Que je fasse seulement de ma vie une chose simple et droite, semblable à une flûte de roseau, que tu puisses emplir de musique.» Tagore.</i>
-<br>
-
-Faire de sa vie une chose simple et droite. 
-Etre soi-même simple et droit.
-Je ne veux pas faire de culte, ce matin. 
+ 
+Faire de sa vie une chose simple et droite.   
+Etre soi-même simple et droit.  
+Je ne veux pas faire de culte, ce matin.   
 Le plus beau culte que nous puissions offrir à Dieu, c'est notre joie, et puis ce grand effort qui nous pousse, jour après jour, à vivre mieux. 
-Montez vers les sapins; et lorsque vous serez seules et tranquilles, offrez à Dieu l'adoration qui chante en vous et la joie bondissante qui rend vos jours légers. · 
+Montez vers les sapins; et lorsque vous serez seules et tranquilles, offrez à Dieu l'adoration qui chante en vous et la joie bondissante qui rend vos jours légers. ·   
 Le plus beau culte que nous puissions offrir à Dieu, c'est notre joie, et puis ce grand effort qui nous pousse, jour après jour, à vivre mieux. 
-Mais puisque nous sommes ensemble et puisque c'est dimanche, oublions un instant ce que nous avons à faire, tous nos travaux et tous nos jeux, et pensons à notre vie. 
-Cette vie que nous avons reçue, dont une partie est déjà vécue, dont une autre nous reste à vivre encore, et qui s'écoule, heure après heure, si doucement, que parfois nous oublions qu'elle doit finir. 
-<br>
-Ta vie ... 
-Dis-moi, que veux-tu faire de ta vie?
-Le poète répond: « Que je fasse seulement de ma vie une chose simple et droite, semblable à une flûte de roseau que tu puisses emplir de musique. » 
-Faire de sa vie une chose simple et droite. 
-<br>
+Mais puisque nous sommes ensemble et puisque c'est dimanche, oublions un instant ce que nous avons à faire, tous nos travaux et tous nos jeux, et pensons à notre vie.   
+Cette vie que nous avons reçue, dont une partie est déjà vécue, dont une autre nous reste à vivre encore, et qui s'écoule, heure après heure, si doucement, que parfois nous oublions qu'elle doit finir.   
+ 
+Ta vie ...   
+Dis-moi, que veux-tu faire de ta vie?  
+Le poète répond: « Que je fasse seulement de ma vie une chose simple et droite, semblable à une flûte de roseau que tu puisses emplir de musique. »   
+Faire de sa vie une chose simple et droite.   
 
-Etre soi-même simple et droit. 
-Simple, comme les fleurs des champs et comme les herbes. 
-Elles poussent les unes à côté des autres. Leurs corolles et leurs tiges se confondent, mais elles ne changent pas de type, ni de couleur, ni de parfum: le trèfle rouge reste rouge; et la sauge bleue reste bleue; et le barbadian jaune reste jaune; et les petits cœurs de brises tremblent toujours, tandis que les avoines plus ,hautes s'inclinent; tandis que les dactyles, plus fermes se dressent.
-Et depuis le jour où elles sont sorties de graine et de terre, jusqu'au jour où elles s'effeuillent et se fanent, les fleurs et les herbes restent fidèles à elles-mêmes, au type qu'elles ont reçu.
-Et si vous les cueillez, ou si quelqu'un d'autre passe pour les prendre, c'est toujours la même chose. Les fleurs ne changent pas, ni les herbes. Elles offrent leurs corolles épanouies à la main sale qui se tend pour les prendre, et à la main propre. Elles gardent la même couleur et le même parfum devant un pauvre et devant un riche; devant un enfant et devant un adulte.
-Les fleurs ne changent pas; ni les herbes. 
+Etre soi-même simple et droit.   
+Simple, comme les fleurs des champs et comme les herbes.   
+Elles poussent les unes à côté des autres. Leurs corolles et leurs tiges se confondent, mais elles ne changent pas de type, ni de couleur, ni de parfum: le trèfle rouge reste rouge; et la sauge bleue reste bleue; et le barbadian jaune reste jaune; et les petits cœurs de brises tremblent toujours, tandis que les avoines plus ,hautes s'inclinent; tandis que les dactyles, plus fermes se dressent.  
+Et depuis le jour où elles sont sorties de graine et de terre, jusqu'au jour où elles s'effeuillent et se fanent, les fleurs et les herbes restent fidèles à elles-mêmes, au type qu'elles ont reçu.  
+Et si vous les cueillez, ou si quelqu'un d'autre passe pour les prendre, c'est toujours la même chose. Les fleurs ne changent pas, ni les herbes. Elles offrent leurs corolles épanouies à la main sale qui se tend pour les prendre, et à la main propre. Elles gardent la même couleur et le même parfum devant un pauvre et devant un riche; devant un enfant et devant un adulte.  
+Les fleurs ne changent pas; ni les herbes.   
 Elles sont ce qu'elles sont: trèfle rouge ou scabieuse mauve; sainfoin rose ou genêt jaune; clochette bleue ou marguerite blanche. 
-Et vous aussi soyez simples connue les fleurs des champs et comme les herbes. 
+Et vous aussi soyez simples connue les fleurs des champs et comme les herbes.  
 
-<br>
-Restez fidèles à vous-mêmes. 
-N'ayez qu'une couleur à travers la vie; un seul et même parfum. 
-Ne changez pas chaque jour. 
-Ne soyez pas rouges dans votre famille; bleues avec vos amis et jaunes à votre travail. 
+Restez fidèles à vous-mêmes.   
+N'ayez qu'une couleur à travers la vie; un seul et même parfum.   
+Ne changez pas chaque jour.  
+Ne soyez pas rouges dans votre famille; bleues avec vos amis et jaunes à votre travail.  
 
-<br>
-Soyez simples... . 
-Toujours la même chose; partout la même chose.
-Ne venez pas à moi, souriantes et gracieuses si une heure auparavant vous avez été détestables avec quelqu'un d'autre. 
-Ne soyez pas actives et travailleuses ici, au camp, et puis, molles et paresseuses chez vous, à la maison. 
-Ne soyez pas bonnes avec les uns; mauvaises, avec les autres. Polies, ici - grossières, là. Douces aujourd'hui et violentes demain. Propres le dimanche - et sales les autres jours.
-Regardez les fleurs des champs. 
+**Soyez simples...**  
+Toujours la même chose; partout la même chose.  
+Ne venez pas à moi, souriantes et gracieuses si une heure auparavant vous avez été détestables avec quelqu'un d'autre.   
+Ne soyez pas actives et travailleuses ici, au camp, et puis, molles et paresseuses chez vous, à la maison.  
+Ne soyez pas bonnes avec les uns; mauvaises, avec les autres. Polies, ici - grossières, là. Douces aujourd'hui et violentes demain. Propres le dimanche - et sales les autres jours.  
+Regardez les fleurs des champs.   
 Elles n'ont qu'une couleur à travers toute leur vie ; un seul et même parfum.
-<br>
 
-Soyez simples. 
-Toujours la même chose ; partout la même chose. 
-Qu'on ne vous rencontre par un jour avec deux tresses, une petite robe et des sandales, et le lendemain, avec une coiffure compliquée, des frisons et des frisottons; des souliers à hauts talons et une robe étrangement serrée.
-<br>
+**Soyez simples.**  
+Toujours la même chose ; partout la même chose.  
+Qu'on ne vous rencontre par un jour avec deux tresses, une petite robe et des sandales, et le lendemain, avec une coiffure compliquée, des frisons et des frisottons; des souliers à hauts talons et une robe étrangement serrée.  
 
-Soyez simples. 
-N'ayez pas deux vies.
-Ce que tu ne peux faire devant tes camarades et devant tes chefs, il ne faut pas non plus que tu le fasses derrière leur dos. 
-Et ce que tu ne peux dire à haute voix, il ne faut pas non plus le chuchoter en cachette.
-<br>
+**Soyez simples.**  
+N'ayez pas deux vies.  
+Ce que tu ne peux faire devant tes camarades et devant tes chefs, il ne faut pas non plus que tu le fasses derrière leur dos.   
+Et ce que tu ne peux dire à haute voix, il ne faut pas non plus le chuchoter en cachette.  
 
-Soyez simples. 
-Ne soyez pas doubles. 
-Ne changez pas selon le lieu où vous vous trouvez et suivant les personnes avec lesquelles vous êtes.
-Regardez les fleurs des champs et les herbes. 
-Qu'elles soient seules ou qu'elles soient plusieurs, qu'on les regarde ou qu'on ne les regarde pas, c'est toujours la même chose. 
-Elles n'ont qu'une couleur à travers toute la vie; un seul et même parfum.
-Etre toujours la même chose, et faire de sa vie une chose simple et droite semblable à une flûte de roseau où passent les sons les plus doux et les notes les plus graves. 
-Il n'y a là, ni contours, ni détours, ni secrets: rien qu'une ligne droite et le souffle qui passe...
+**Soyez simples.**  
+Ne soyez pas doubles.  
+Ne changez pas selon le lieu où vous vous trouvez et suivant les personnes avec lesquelles vous êtes.  
+Regardez les fleurs des champs et les herbes.   
+Qu'elles soient seules ou qu'elles soient plusieurs, qu'on les regarde ou qu'on ne les regarde pas, c'est toujours la même chose.  
+Elles n'ont qu'une couleur à travers toute la vie; un seul et même parfum.  
+Etre toujours la même chose, et faire de sa vie une chose simple et droite semblable à une flûte de roseau où passent les sons les plus doux et les notes les plus graves.  
+Il n'y a là, ni contours, ni détours, ni secrets: rien qu'une ligne droite et le souffle qui passe...  
 <br>
 
 <i>« Que seulement je fasse de ma vie, une chose simple et droite, semblable à une flûte de roseau que tu puisses emplir de musique. »</i>
@@ -2306,58 +2462,54 @@ Titre: Tâchez d’être heureux
 Type: Texte
 Tags: Bonheur, Essentiel, Sens
 ---
-Allez tranquillement parmi le vacarme et la hâte, et souvenez-vous de la paix qui peut exister dans le silence.
-Sans aliénation, vivez autant que possible en bons termes avec toutes personnes. Dites doucement  et clairement votre vérité, et écoutez les autres, même le simple d’esprit et l’ignorant ; ils ont eux aussi leur histoire. Évitez les individus bruyants et agressifs, ils sont une vexation pour l’esprit.
-<br> 
+Allez tranquillement parmi le vacarme et la hâte, et souvenez-vous de la paix qui peut exister dans le silence.  
+Sans aliénation, vivez autant que possible en bons termes avec toutes personnes. Dites doucement  et clairement votre vérité, et écoutez les autres, même le simple d’esprit et l’ignorant ; ils ont eux aussi leur histoire. Évitez les individus bruyants et agressifs, ils sont une vexation pour l’esprit.  
+ 
 Ne vous comparez avec personne : vous risqueriez de devenir vain ou vaniteux. Il y a toujours plus grands et plus petits que vous. Jouissez de vos projets aussi bien que de vos accomplissements. Soyez toujours intéressé à votre carrière, si modeste soit-elle ; c’est une véritable possession dans les prospérités changeantes du temps. Soyez prudent dans vos affaires ; car le monde est plein de fourberies. Mais ne soyez pas aveugle en ce qui concerne la vertu qui existe ; plusieurs individus recherchent les grands idéaux ; et partout la vie est remplie d’héroïsme.
-<br>  
+  
 Soyez vous-même. Surtout n’affectez pas l’amitié. Non plus ne soyez cynique en amour, car il est en face de toute stérilité et de tout désenchantement aussi éternel que l’herbe.
-<br>  
+ 
 Prenez avec bonté le conseil des années, en renonçant avec grâce à votre jeunesse. Fortifiez une puissance d’esprit pour vous protéger en cas de malheur soudain. Mais ne vous chagrinez pas avec vos chimères. De nombreuses peurs naissent de la fatigue et de la solitude.
- <br> 
+ 
 Au-delà d’une discipline saine, soyez doux avec vous-même. Vous êtes un enfant de l’univers, pas moins que les arbres et les étoiles ; vous avez le droit d’être ici. Et qu’il vous soit clair ou non, l’univers se déroule sans doute comme il le devrait.
- <br> 
-Soyez en paix avec Dieu, quelle que soit votre conception d’elle ou de lui, et quelles que soient vos peines et vos rêves, gardez dans le désarroi bruyant de la vie, la paix dans votre âme. Avec toutes ses perfidies, ses besognes fastidieuses et ses rêves brisés, le monde est pourtant beau. Soyez positif et attentif aux autres.
- <br> 
+ 
+Soyez en paix avec Dieu, quelle que soit votre conception d’elle ou de lui, et quelles que soient vos peines et vos rêves, gardez dans le désarroi bruyant de la vie, la paix dans votre âme. Avec toutes ses perfidies, ses besognes fastidieuses et ses rêves brisés, le monde est  
 Tâchez d’être heureux.
-<br> 
- 
- 
- 
+<br> <br> 
+  
 *Anonyme. Ce texte a été trouvé en 1692*
 *dans la cathédrale de Baltimore.*
-
 ---
 MDVersion: 1
 Titre: Tout de même
 Type: Texte
 Tags: Aimer, Sens, Essentiel, Servir
 ---
-Les gens sont déraisonnables, illogiques et égocentriques
+Les gens sont déraisonnables, illogiques et égocentriques  
 Aimez-les tout de même !
 <br><br>
-Si vous faites le bien, les gens vous prêtent des motifs égoïstes ou calculateurs
+Si vous faites le bien, les gens vous prêtent des motifs égoïstes ou calculateurs  
 Faites le bien tout de même !
 <br><br>
-Si vous réussissez, vous gagnerez de faux amis et de vrais ennemis
+Si vous réussissez, vous gagnerez de faux amis et de vrais ennemis  
 Réussissez tout de même !
 <br><br>
-Le bien que vous faites sera oublié demain
+Le bien que vous faites sera oublié demain  
 Faites le bien tout de même !
 <br><br>
-L'honnêteté et la franchise vous rendent vulnérable
+L'honnêteté et la franchise vous rendent vulnérable  
 Soyez honnête et franc tout de même !
 <br><br>
-Ce que vous avez mis des années à construire peut être détruit du jour au lendemain
+Ce que vous avez mis des années à construire peut être détruit du jour au lendemain  
 Construisez tout de même !
 <br><br>
-Les pauvres ont vraiment besoin de votre secours mais certains peuvent vous attaquer si vous les aidez
+Les pauvres ont vraiment besoin de votre secours mais certains peuvent vous attaquer si vous les aidez  
 Aidez-les tout de même !
 <br><br>
-Si vous donnez au monde le meilleur de vous-même vous risquez d'y laisser des plumes
+Si vous donnez au monde le meilleur de vous-même vous risquez d'y laisser des plumes  
 Donnez ce que vous avez de mieux tout de même !
- 
-<br><br>
+ <br><br>
+
 <i>Texte placardé sur le mur de Shishu Bhavan, le foyer des enfants de Mère Teresa, à Calcutta</i>
 
 
@@ -2368,81 +2520,62 @@ Type: Texte
 Tags: Dieu, Epreuve
 ---
 Une nuit, j’ai eu un songe.
- <br>
-J’ai rêvé que je marchais le long d’une plage, en 
-compagnie du Seigneur.
-  <br>
-
-Dans le ciel apparaissent, les unes après les autres, 
-toutes les scènes de ma vie.
- <br> 
-J’ai regardé en arrière et j’ai vu qu’à chaque 
-scène de ma vie, il y avait deux paires de traces sur le sable:
+ 
+J’ai rêvé que je marchais le long d’une plage, en compagnie du Seigneur.
+ 
+Dans le ciel apparaissent, les unes après les autres, toutes les scènes de ma vie.
+ 
+J’ai regardé en arrière et j’ai vu qu’à chaque scène de ma vie, il y avait deux paires de traces sur le sable:  
 L’une était la mienne, l’autre était celle du Seigneur.
-  <br>
-Ainsi nous continuions à marcher, jusqu’à ce que tous
-les jours de ma vie aient défilé devant moi.
-  <br>
-Alors je me suis arrêté et j’ai regardé en arrière. 
-J’ai remarqué qu’en certains endroits, il n’y avait 
-qu’une seule paire d’empreintes, et cela correspondait
-exactement avec les jours les plus difficiles de ma vie,
-les jours de plus grande angoisse, de plus grande peur
-et aussi de plus grande douleur.
-  <br>
-Je l’ai donc interrogé : " Seigneur… tu m’as dit que tu
-étais avec moi tous les jours de ma vie et j’ai accepté
-de vivre avec Toi. Mais j’ai remarqué que dans les pires
-moments de ma vie, il n’y avait qu’une seule trace de pas.
-Je ne peux pas comprendre que tu m’aies laissé seul
-aux moments où j’avais le plus besoin de Toi. "
-  <br>
-Et le Seigneur répondit : " Mon fils, tu m’es tellement 
-précieux ! Je t’aime ! Je ne t’aurais jamais abandonné,
-pas même une seule minute !
-  <br>
-Les jours où tu n’as vu qu’une seule trace de pas sur le
-sable, ces jours d’épreuves et de souffrances, eh bien:
-c’était moi qui te portais. "
 
+Ainsi nous continuions à marcher, jusqu’à ce que tous les jours de ma vie aient défilé devant moi.
 
+Alors je me suis arrêté et j’ai regardé en arrière.  
+J’ai remarqué qu’en certains endroits, il n’y avait qu’une seule paire d’empreintes, et cela correspondait exactement avec les jours les plus difficiles de ma vie, les jours de plus grande angoisse, de plus grande peur et aussi de plus grande douleur.
+
+Je l’ai donc interrogé : " Seigneur… tu m’as dit que tu étais avec moi tous les jours de ma vie et j’ai accepté de vivre avec Toi. Mais j’ai remarqué que dans les pires moments de ma vie, il n’y avait qu’une seule trace de pas.  
+Je ne peux pas comprendre que tu m’aies laissé seul aux moments où j’avais le plus besoin de Toi. "
+
+Et le Seigneur répondit : " Mon fils, tu m’es tellement précieux ! Je t’aime ! Je ne t’aurais jamais abandonné, pas même une seule minute !
+
+Les jours où tu n’as vu qu’une seule trace de pas sur le sable, ces jours d’épreuves et de souffrances, eh bien: c’était moi qui te portais. "
 ---
 MDVersion: 1
 Titre: Tu es irremplaçable
 Type: Texte
 Tags: Sens, Humanité
 ---
-Si la note disait : ce n'est pas une note qui fait une musique...
+Si la note disait : ce n'est pas une note qui fait une musique...  
 il n'y aurait pas de symphonie.
-<br>
-Si le mot disait : ce n'est pas un mot qui fait une page...
+ 
+Si le mot disait : ce n'est pas un mot qui fait une page...  
 il n'y aurait pas de livre.
-<br>
-Si la pierre disait : ce n'est pas une pierre qui peut monter un mur...
+ 
+Si la pierre disait : ce n'est pas une pierre qui peut monter un mur...  
 il n'y aurait ni maison, ni église ni cathédrale.
-<br>
-Si la goutte disait : ce n'est pas une goutte d'eau qui peut faire une rivière...
+ 
+Si la goutte disait : ce n'est pas une goutte d'eau qui peut faire une rivière...  
 il n'y aurait pas d'océan.
-<br>
-Si le grain de blé disait : ce n'est pas un grain de blé qui peut ensemencer un champ...
+ 
+Si le grain de blé disait : ce n'est pas un grain de blé qui peut ensemencer un champ...  
 il n'y aurait pas de moisson.
-<br>
-Si l'homme disait : ce n'est pas un geste d'amour qui peut sauver l'humanité...
+ 
+Si l'homme disait : ce n'est pas un geste d'amour qui peut sauver l'humanité...  
 il n'y aurait jamais de justice et de paix, de dignité et de bonheur sur la terre des hommes.
-<br>
-Comme la symphonie a besoin de chaque note,
-Comme le livre a besoin de chaque mot,
-Comme la maison a besoin de chaque pierre,
-Comme l'océan a besoin de chaque goutte d'eau,
-Comme le moissoneur a besoin de chaque grain de blé,
-l'humanité tout entière a besoin de toi, là où tu es.
-<br>
-Et on pourrait ajouter : là comme tu es,
-avec ta joie, ton espérance, ta souffrance, ta misère, ta vieillesse.
-L’humanité toute entière a besoin de toi, car tu es unique.
+ 
+Comme la symphonie a besoin de chaque note,  
+Comme le livre a besoin de chaque mot,  
+Comme la maison a besoin de chaque pierre,  
+Comme l'océan a besoin de chaque goutte d'eau,  
+Comme le moissoneur a besoin de chaque grain de blé,  
+l'humanité tout entière a besoin de toi, là où tu es.  
+ 
+Et on pourrait ajouter : là comme tu es,  
+avec ta joie, ton espérance, ta souffrance, ta misère, ta vieillesse.  
+L’humanité toute entière a besoin de toi, car tu es unique.  
 Aimé de Dieu et donc irremplaçable.
-
 <br><br>
+
 <i>Michel Quoist</i>
 
 ---
@@ -2484,9 +2617,9 @@ Prends le temps de rêver aux étoiles.
 Et n'oublie jamais...
 même l'espace d'un jour...
 que tu es unique.
+<br><br>
 
-
-Collin Mc Carty
+*Collin Mc Carty*
 
 ---
 MDVersion: 1
@@ -2494,128 +2627,117 @@ Titre: Tu seras Chef
 Type: Texte
 Tags: Scout, Chef, Livre de Lézard
 ---
-Tu seras Chef, veux tu ? 
-Non pas aujourd'hui ni demain peut-être ; 
-Mais lorsque l'heure sera venue: 
-Lorsque ta vie sera droite comme une tige de roseau
-et simple comme un chant d'alouette
-<br>
-Un chef ce n'est pas celui qui veut commande, diriger,
-s'imposer, celui qui donne des ordres pour se faire obéir;
-Celui qui défend ou qui permet; qui blame et qui loue;
-qui récompense et qui punit.
-Un chef, c'est autre chose.
-C'est davantage.
-<br>
-Un chef, c'est celui qui , sans le vouloir et sans le savoir,
-attire les autres à lui; celui auprès duquel on vient s'asseoir;
-celui qu'on écoute et qu'on suit parce qu'on a découvert
-qu'il y avait une force en lui que rien ne peut détruire;
-que sa vie est droite, et simple son action; chaque jour la même
-simple comme le regard tranquille
-qui semble venir de loin et s'en aller plus loin encore
-jusqu'au fond des conscience et par delà l'horizon.
-<br>
-Un chef...
-Comme il serait bon d'avoir un chef, lorsqu'on est fatigué !
-Quelqu'un qui penserait pour nous,
-qui déciderait pour nous et qu'on n'aurait qu'à suivre
-Mais les chefs sont rares;
-Ceux là du moins en qui l'on se confie.
-<br>
-Tu seras Chef, veux tu ? 
-Non pas aujourd'hui ni demain peut-être ; 
-Mais lorsque l'heure sera venue: 
-Lorsque ta vie sera droite comme une tige de roseau
-et simple comme un chant d'alouette
-<br>
-Etre chef ce n'est pas transformer les autres
-pour en faire ce qu'on est soi-même,
-en leur imposant ses idées et son action;
-en les poursuivant de recommandations
-de défenses et de préceptes.
-<br>
-Etre chef c'est vivre une vie très pure
-dans une maison ouverte.
-Que ceux qui veulent venir viennent;
-et jamais la porte ne se ferme, ni les fenêtres
-car le chef vit aux yeux de tous, pour tous, avec tous.
-<br>
-Un chef exige beaucoup de lui-même; presque rien des autres
-Il est sévère pour lui même ;
-indulgent pour les autres.
-Il sait bien qu'il n'est pas facile de faire les choses
-et que presque tout demande un effort
-<br>
-Un chef, c'est un camarade que tu as reconnu meilleur que toi
-et auprès duquel tu te sens devenir meilleur que toi -même.
-Voilà pourquoi tu l'as choisi.
-Voilà pourquoi tu lui dis : " mon Chef"
-<br>
-Tu seras Chef, veux tu ? 
-Non pas aujourd'hui ni demain peut-être ; 
-Mais lorsque l'heure sera venue: 
-Lorsque ta vie sera droite comme une tige de roseau
-et simple comme un chant d'alouette
-<br>
+Tu seras Chef, veux tu ?  
+Non pas aujourd'hui ni demain peut-être ;  
+Mais lorsque l'heure sera venue:  
+Lorsque ta vie sera droite comme une tige de roseau  
+et simple comme un chant d'alouette  
+
+Un chef ce n'est pas celui qui veut commande, diriger,  
+s'imposer, celui qui donne des ordres pour se faire obéir;  
+Celui qui défend ou qui permet; qui blame et qui loue;  
+qui récompense et qui punit.  
+Un chef, c'est autre chose.  
+C'est davantage.  
+ 
+Un chef, c'est celui qui , sans le vouloir et sans le savoir,  
+attire les autres à lui; celui auprès duquel on vient s'asseoir;  
+celui qu'on écoute et qu'on suit parce qu'on a découvert  
+qu'il y avait une force en lui que rien ne peut détruire;  
+que sa vie est droite, et simple son action; chaque jour la même  
+simple comme le regard tranquille  
+qui semble venir de loin et s'en aller plus loin encore  
+jusqu'au fond des conscience et par delà l'horizon.  
+ 
+Un chef...  
+Comme il serait bon d'avoir un chef, lorsqu'on est fatigué !  
+Quelqu'un qui penserait pour nous,  
+qui déciderait pour nous et qu'on n'aurait qu'à suivre  
+Mais les chefs sont rares;  
+Ceux là du moins en qui l'on se confie.  
+ 
+Tu seras Chef, veux tu ?  
+Non pas aujourd'hui ni demain peut-être ;  
+Mais lorsque l'heure sera venue:  
+Lorsque ta vie sera droite comme une tige de roseau  
+et simple comme un chant d'alouette  
+ 
+Etre chef ce n'est pas transformer les autres  
+pour en faire ce qu'on est soi-même,  
+en leur imposant ses idées et son action;  
+en les poursuivant de recommandations  
+de défenses et de préceptes.  
+ 
+Etre chef c'est vivre une vie très pure  
+dans une maison ouverte.  
+Que ceux qui veulent venir viennent;  
+et jamais la porte ne se ferme, ni les fenêtres  
+car le chef vit aux yeux de tous, pour tous, avec tous.  
+ 
+Un chef exige beaucoup de lui-même; presque rien des autres  
+Il est sévère pour lui même ;  
+indulgent pour les autres.  
+Il sait bien qu'il n'est pas facile de faire les choses  
+et que presque tout demande un effort  
+ 
+Un chef, c'est un camarade que tu as reconnu meilleur que toi  
+et auprès duquel tu te sens devenir meilleur que toi -même.  
+Voilà pourquoi tu l'as choisi.  
+Voilà pourquoi tu lui dis : " mon Chef"  
+ 
+Tu seras Chef, veux tu ?  
+Non pas aujourd'hui ni demain peut-être ;  
+Mais lorsque l'heure sera venue:  
+Lorsque ta vie sera droite comme une tige de roseau  
+et simple comme un chant d'alouette  
+ 
 *Aimée Degallier-Martin (totem Lézard) *
-
-
-
 ---
 MDVersion: 1
 Titre: Tu seras un homme mon fils
 Type: Texte
-Tags: Educateur, sens
+Tags: Educateur, Sens, Grandir 
 ---
-Si tu peux voir détruit l'ouvrage de ta vie
-Et sans dire un seul mot te remettre à rebâtir,
-Ou perdre d'un seul coup le gain de cent parties
-Sans un geste et sans un soupir ;
+Si tu peux voir détruit l'ouvrage de ta vie  
+Et sans dire un seul mot te remettre à rebâtir,  
+Ou perdre d'un seul coup le gain de cent parties  
+Sans un geste et sans un soupir ;  
 
-<br>
-Si tu peux être amant sans être fou d'amour,
-Si tu peux être fort sans cesser d'être tendre
-Et, te sentant haï, sans haïr à ton tour,
-Pourtant lutter et te défendre ;
+Si tu peux être amant sans être fou d'amour,  
+Si tu peux être fort sans cesser d'être tendre  
+Et, te sentant haï, sans haïr à ton tour,  
+Pourtant lutter et te défendre ;  
 
-<br>
-Si tu peux supporter d'entendre tes paroles
-Travesties par des gueux pour exciter des sots,
-Et d'entendre mentir sur toi leurs bouches folles
-Sans mentir toi-même d'un seul mot ;
+Si tu peux supporter d'entendre tes paroles  
+Travesties par des gueux pour exciter des sots,  
+Et d'entendre mentir sur toi leurs bouches folles  
+Sans mentir toi-même d'un seul mot ;  
 
-<br>
-Si tu peux rester digne en étant populaire,
-Si tu peux rester peuple en conseillant les rois
-Et si tu peux aimer tous tes amis en frère
-sans qu'aucun d'eux soit tout pour toi ;
+Si tu peux rester digne en étant populaire,  
+Si tu peux rester peuple en conseillant les rois  
+Et si tu peux aimer tous tes amis en frère  
+sans qu'aucun d'eux soit tout pour toi ;  
 
-<br>
-Si tu sais méditer, observer et connaître
-Sans jamais devenir sceptique ou destructeur ;
-Rêver, mais sans laisser ton rêve être ton maître,
-Penser sans n'être qu'un penseur;
+Si tu sais méditer, observer et connaître  
+Sans jamais devenir sceptique ou destructeur ;  
+Rêver, mais sans laisser ton rêve être ton maître,  
+Penser sans n'être qu'un penseur;  
 
-<br>
-Si tu peux être dur sans jamais être en rage,
-Si tu peux être brave et jamais imprudent,
-Si tu sais être bon, si tu sais être sage
-Sans être moral ni pédant ;
+Si tu peux être dur sans jamais être en rage,  
+Si tu peux être brave et jamais imprudent,  
+Si tu sais être bon, si tu sais être sage  
+Sans être moral ni pédant ;  
 
-<br>
-Si tu peux rencontrer Triomphe après Défaite
-Et recevoir ces deux menteurs d'un même front,
-Si tu peux conserver ton courage et ta tête
-Quand tous les autres les perdront,
+Si tu peux rencontrer Triomphe après Défaite  
+Et recevoir ces deux menteurs d'un même front,  
+Si tu peux conserver ton courage et ta tête  
+Quand tous les autres les perdront,  
 
-<br>
-Alors les Rois, les Dieux, la Chance et la Victoire
-Seront à tout jamais tes esclaves soumis
-Et, ce qui vaut mieux que les Rois et la Gloire,
-Tu seras un homme, mon fils
+Alors les Rois, les Dieux, la Chance et la Victoire  
+Seront à tout jamais tes esclaves soumis  
+Et, ce qui vaut mieux que les Rois et la Gloire,  
+Tu seras un homme, mon fils  
 <br><br>
-
 
 *Rudyard Kipling*
 
@@ -2627,16 +2749,10 @@ Titre: Un jour
 Type: Texte
 Tags: Amour
 ---
-Un jour,
-quand nous aurons maîtrisé les vents,
-les vagues, les marées et la pesanteur,
-nous exploiterons l'énergie de l'amour.
-Alors, pour la seconde fois
-dans l'histoire du monde,
-l'homme aura
-découvert le feu.
-
+Un jour, quand nous aurons maîtrisé les vents, les vagues, les marées et la pesanteur, nous exploiterons l'énergie de l'amour.   
+Alors, pour la seconde fois dans l'histoire du monde, l'homme aura découvert le feu.
 <br><br>
+
 <i>Pierre Teilhard de Chardin</i>
 
 ---
@@ -2646,16 +2762,20 @@ Type: Texte
 Tags: Lumière, Courage
 ---
 Vous m’avez allumée et vous me regardez, rêveur. Vous êtes peut-être heureux de m’avoir. Moi, en tout cas, je me réjouis d’être allumée. Si je ne brûle pas, je serai comme les autres, dans une boîte, où je n’ai pas de signification. Ma raison d’être, je l’ai seulement, lorsque je suis allumée, car alors j’existe. Bien sûr, depuis que je suis allumée, j’ai rapetissé et bientôt je ne serai plus qu’une pâle lueur. Mais il en est ainsi : ou bien je reste entière, rangée dans une boîte et dans ce cas, je ne sais pas vraiment ce que je fais sur terre... ou bien je répands lumière et rêveries et alors je sais pourquoi je suis là, pourquoi j’existe. Pour cela, je dois donner quelque chose de moi, me donner moi-même. C’est mieux que d’être dans une boîte en carton.
+
 Il en est de même pour vous. Ou bien vous vivez pour vous, vous ne perdez rien, mais aussi, vous ne savez pas au juste pourquoi... ou bien, vous donnez lumière et chaleur, alors les gens se réjouissent de votre présence. Vous n’êtes pas pour rien sur terre mais vous devez aussi donner quelque chose de vous. N’ayez pas peur si, ce faisant, vous devenez plus petit, c’est seulement de l’extérieur...
-### Je suis une bougie unique.  
+
+**Je suis une bougie unique**  
 Lorsque je suis allumée la lumière et la chaleur qui se dégagent de moi ne sont pas fortes mais avec d’autres bougies, toutes ensemble, grande est notre clarté et forte est notre chaleur.
-### Il en est de même pour vous.  
-La lumière que vous donnez n’est pas grand chose, mais avec celle des autres, c’est énorme.
-Il y a parfois des pannes de courant à la maison, il fait noir d’un seul coup.
+
+**Il en est de même pour vous**
+La lumière que vous donnez n’est pas grand chose, mais avec celle des autres, c’est énorme.  
+Il y a parfois des pannes de courant à la maison, il fait noir d’un seul coup.  
 Alors tout le monde pense : « Vite, une bougie ! » et l’obscurité est ainsi vaincue grâce à une seule flamme.
-### Il en est de même pour vous.  
- Tout n’est pas idéal dans ce monde. Beaucoup se plaignent, certains n’arrêtent pas de se lamenter. N’oubliez pas qu’une seule flamme est encore plus que l’obscurité.
-Prenez courage et n’attendez pas les autres. Soyez allumés et brûlez.
+
+**Il en est de même pour vous**
+ Tout n’est pas idéal dans ce monde. Beaucoup se plaignent, certains n’arrêtent pas de se lamenter. N’oubliez pas qu’une seule flamme est encore plus que l’obscurité.  
+Prenez courage et n’attendez pas les autres. Soyez allumés et brûlez.  	
 Et si vous avez des doutes, alors prenez une bougie et allumez la. Regardez cette flamme et comprenez.
 
 
@@ -2695,11 +2815,14 @@ Type: Texte
 Tags: Vivre, Sens
 ---
 J'ai pardonné des erreurs presque impardonnables, j'ai essayé de remplacer des personnes irremplaçables et oublier des personnes inoubliables. J'ai agi par impulsion, j'ai été déçu par des gens que j'en croyais incapables, mais j'ai déçu des gens aussi. J'ai tenu quelqu'un dans mes bras pour le protéger. J'ai ri quand il ne fallait pas. Je me suis fait des amis éternels. J'ai aimé et l'ai été en retour, mais j'ai aussi été repoussé. J'ai été aimé et je n'ai pas su aimer. J'ai crié et sauté de tant de joies, j'ai vécu d'amour et fait des promesses éternelles, mais je me suis brisé le coeur, tant de fois ! J'ai pleuré en écoutant de la musique ou en regardant des photos. J'ai téléphoné juste pour entendre une voix, je suis déjà tombé amoureux d'un sourire. J'ai déjà cru mourir par tant de nostalgie et j'ai eu peur de perdre quelqu'un de très spécial (que j'ai fini par perdre)... Mais j'ai survécu ! Et je vis encore !
-Et la vie, je ne m'en passe pas...
-Et toi non plus tu ne devrais pas t'en passer. Vis !!!
-Ce qui est vraiment bon, c'est de se battre avec persuasion, embrasser la vie et vivre avec passion, perdre avec classe et vaincre en osant, parce que le monde appartient à celui qui ose et que LA VIE C'EST BEAUCOUP TROP pour être insignifiante !
 
+Et la vie, je ne m'en passe pas...
+
+Et toi non plus tu ne devrais pas t'en passer. Vis !!!
+
+Ce qui est vraiment bon, c'est de se battre avec persuasion, embrasser la vie et vivre avec passion, perdre avec classe et vaincre en osant, parce que le monde appartient à celui qui ose et que LA VIE C'EST BEAUCOUP TROP pour être insignifiante !
 <br><br>
+
 <i>Charlie Chaplin</i>
 
 
@@ -2709,15 +2832,20 @@ Titre: Vivre l’instant
 Type: Texte
 Tags: Vivre, Sens, Présent
 ---
-Il était une fois un vieux roi qui venait de mourir. Mais il était mort trop tôt, son fils n’était pas assez mûr pour lui succéder. Il dût tout de même monter sur le trône, même s’il était inquiet d’être aussi peu formé pour la charge qui lui incombait dorénavant. Devenu roi, il avait toujours cette pénible impression que la couronne lui glissait de la tête, qu’elle était trop large et trop pesante. N’y tenant plus, il osa le dire autour de lui à la cour. Ses conseillers, au lieu de s’inquiéter étaient rassurés tout au contraire. Ils pensaient : « Sa conscience de ne peut pas savoir, de ne pas être prêt le prédispose à être un grand roi, car il sera capable de prendre conseil, d’écouter les suggestions, ainsi prendre des décisions sans précipitation. Il sera capable de reconnaître ses erreurs et d’accepter de la corriger. C’est positif. Réjouissons-nous pour le royaume. » <br>
+Il était une fois un vieux roi qui venait de mourir. Mais il était mort trop tôt, son fils n’était pas assez mûr pour lui succéder. Il dût tout de même monter sur le trône, même s’il était inquiet d’être aussi peu formé pour la charge qui lui incombait dorénavant. Devenu roi, il avait toujours cette pénible impression que la couronne lui glissait de la tête, qu’elle était trop large et trop pesante. N’y tenant plus, il osa le dire autour de lui à la cour. Ses conseillers, au lieu de s’inquiéter étaient rassurés tout au contraire. Ils pensaient : « Sa conscience de ne peut pas savoir, de ne pas être prêt le prédispose à être un grand roi, car il sera capable de prendre conseil, d’écouter les suggestions, ainsi prendre des décisions sans précipitation. Il sera capable de reconnaître ses erreurs et d’accepter de la corriger. C’est positif. Réjouissons-nous pour le royaume. » 
+
 Mais le roi, lui, toujours aussi peut confiant en lui était soucieux d’apprendre, de s’instruire. C’est pourquoi il fit venir tous les hommes les plus savants du royaume : les érudits, les moines et les sages avérés. Il prit certain de ces hommes pour conseillers et demanda aux autres de voyager à travers le monde pour quérir et rapporter toute la science connue à son époque afin d’en retirer la connaissance, voire la sagesse. Certains partirent aussi loin que la terre pouvait les porter, tandis que d’autres écumèrent les océans jusqu’aux confins de l’horizon. Tous revinrent seize ans plus tard, chargés de rouleaux, de livres, de sceaux et de symboles. Le palais était vaste, mais il ne put pourtant pas contenir une aussi prodigieuse abondance de science. Ainsi par exemple, le savant revenu de Chine, à lui seul, avait rapporté, sur d’innombrables dromadaires, les vingt-trois mille volumes de l’encyclopédie Cang-Xi, ainsi que les œuvres de Lao-Tseu, Confucius, Mencius et bien d’autres, tant renommés que méconnus !. <br>
 Le monarque décida alors de faire construire une cité destinée à recevoir cette profusion de connaissance. Un jour le roi parcourut à cheval la cité du savoir, telle qu’il l’avait fait construire. Il était dans l’ensemble satisfait de ses messagers, mais ce jour là il comprit qu’une seule vie n’aurait pu lui suffire pour tout lire, tout apprendre, tout comprendre. Il demanda donc aux lettrés, aux érudits de lire ces livres à sa place puis d’en tirer la "substantifique moelle", l’essentiel, et de rédiger pour chaque science un ouvrage compréhensible. Huit années passèrent encore avant que les savants puissent remettre au roi une bibliothèque constituée des seuls résumés de toute la science humaine. Le roi n’était plus tout jeune à cette époque là, mais il parcourut à pied l’immense bibliothèque ainsi constituée. <br>
 Voyant la vieillesse arriver à grands pas, il comprit qu’il n’aurait pas le temps, en cette vie, de lire et d'assimiler tout cela. Il demanda donc à nouveau aux érudits qui avaient étudié ses textes, de rédiger un article par science, en allant droit à l’essentiel. 
-Encore huit années passèrent avant que la volonté du roi soit exaucée, car beaucoup des savants partis au bout du monde collecter toute cette connaissance étaient morts désormais, et les jeunes instruits qui reprenaient l’ouvrage en cours devaient préalablement tout relire avant de produire un article. Enfin un livre en plusieurs volumes fut remis au vieux roi, à présent alité et malade. Ce dernier pria instamment chacun de résumer rapidement son article en une phrase. Résumer une science en peu de mots, n’est certes pas chose aisée. Huit autres années furent donc encore nécessaires pour cela. <br>
-A la fin, un seul livre fut conçu qui contenait une phrase et une seule sur chacune des sciences et des sagesses étudiées. Au vieux conseiller qui lui apportait l’ouvrage, le roi alors mourant murmura : <br>
-- Donnez-moi une seule phrase qui résume tout ce savoir, toute cette sagesse. Juste une seule phrase avant ma mort ! <br>
-- Sire, dit le conseiller, toute la sagesse du monde tient en deux mots « Vivre l’instant » 
-<br>
+Encore huit années passèrent avant que la volonté du roi soit exaucée, car beaucoup des savants partis au bout du monde collecter toute cette connaissance étaient morts désormais, et les jeunes instruits qui reprenaient l’ouvrage en cours devaient préalablement tout relire avant de produire un article. Enfin un livre en plusieurs volumes fut remis au vieux roi, à présent alité et malade. Ce dernier pria instamment chacun de résumer rapidement son article en une phrase. Résumer une science en peu de mots, n’est certes pas chose aisée. Huit autres années furent donc encore nécessaires pour cela. 
+
+A la fin, un seul livre fut conçu qui contenait une phrase et une seule sur chacune des sciences et des sagesses étudiées. Au vieux conseiller qui lui apportait l’ouvrage, le roi alors mourant murmura : 
+
+"Donnez-moi une seule phrase qui résume tout ce savoir, toute cette sagesse. Juste une seule phrase avant ma mort !" 
+
+"Sire, dit le conseiller, toute la sagesse du monde tient en deux mots « Vivre l’instant »"
+<br><br>
+
 *Conte Indien*
 
 ---
@@ -2878,7 +3006,7 @@ Seigneur,
 apprends-moi chaque jour à faire passer
 l'essentiel avant l'urgent.
 
-Jean-Marie Petitclerc, prêtre salésien
+*Jean-Marie Petitclerc, prêtre salésien*
 ---
 MDVersion: 1
 Titre: S'il te plait... apprivoise-moi
@@ -2888,88 +3016,88 @@ Tags: Petit Prince
 Le Petit Prince - chapitre XXI
 
 
-C'est alors qu'apparut le renard:
-- Bonjour, dit le renard.
-- Bonjour, répondit poliment le petit prince, qui se retourna mais ne vit rien.
-- Je suis là, dit la voix, sous le pommier.
-- Qui es-tu ? dit le petit prince. Tu es bien joli...
-- Je suis un renard, dit le renard.
-- Viens jouer avec moi, lui proposa le petit prince. Je suis tellement triste...
-- Je ne puis pas jouer avec toi, dit le renard. Je ne suis pas apprivoisé.
-- Ah! pardon, fit le petit prince.
+C'est alors qu'apparut le renard:  
+"Bonjour, dit le renard."  
+"Bonjour", répondit poliment le petit prince, qui se retourna mais ne vit rien.  
+"Je suis là", dit la voix, sous le pommier.  
+"Qui es-tu ?" dit le petit prince. Tu es bien joli...  
+"Je suis un renard", dit le renard.  
+"Viens jouer avec moi, lui proposa le petit prince. Je suis tellement triste..."  
+"Je ne puis pas jouer avec toi, dit le renard. Je ne suis pas apprivoisé."  
+"Ah! pardon", fit le petit prince.
 
-Mais, après réflexion, il ajouta:
-- Qu'est-ce que signifie "apprivoiser" ?
+Mais, après réflexion, il ajouta:  
+"Qu'est-ce que signifie "apprivoiser" ?"
 
-- Tu n'es pas d'ici, dit le renard, que cherches-tu ?
-- Je cherche les hommes, dit le petit prince. Qu'est-ce que signifie "apprivoiser" ?
-- Les hommes, dit le renard, ils ont des fusils et ils chassent. C'est bien gênant ! Ils élèvent aussi des poules. C'est leur seul intérêt. Tu cherches des poules ?
-- Non, dit le petit prince. Je cherche des amis. Qu'est-ce que signifie "apprivoiser" ?
-- C'est une chose trop oubliée, dit le renard. Ça signifie "créer des liens..."
+"Tu n'es pas d'ici, dit le renard, que cherches-tu ?"  
+"Je cherche les hommes", dit le petit prince. "Qu'est-ce que signifie "apprivoiser" ?"  
+"Les hommes", dit le renard, "ils ont des fusils et ils chassent. C'est bien gênant ! Ils élèvent aussi des poules. C'est leur seul intérêt. Tu cherches des poules ?"  
+"Non", dit le petit prince. "Je cherche des amis. Qu'est-ce que signifie "apprivoiser" ?"  
+"C'est une chose trop oubliée", dit le renard. "Ça signifie "créer des liens...""  
 
-- Créer des liens ?
+"Créer des liens ?"  
 
-- Bien sûr, dit le renard. Tu n'es encore pour moi qu'un petit garçon tout semblable à cent mille petits garçons. Et je n'ai pas besoin de toi. Et tu n'as pas besoin de moi non plus. Je ne suis pour toi qu'un renard semblable à cent mille renards. Mais, si tu m'apprivoises, nous aurons besoin l'un de l'autre. Tu seras pour moi unique au monde. Je serai pour toi unique au monde...
-- Je commence à comprendre, dit le petit prince. Il y a une fleur... je crois qu'elle m'a apprivoisé...
-- C'est possible, dit le renard. On voit sur la Terre toutes sortes de choses...
-- Oh! ce n'est pas sur la Terre, dit le petit prince.
+"Bien sûr, dit le renard. Tu n'es encore pour moi qu'un petit garçon tout semblable à cent mille petits garçons. Et je n'ai pas besoin de toi. Et tu n'as pas besoin de moi non plus. Je ne suis pour toi qu'un renard semblable à cent mille renards. Mais, si tu m'apprivoises, nous aurons besoin l'un de l'autre. Tu seras pour moi unique au monde. Je serai pour toi unique au monde..."  
+"Je commence à comprendre, dit le petit prince. Il y a une fleur... je crois qu'elle m'a apprivoisé..."  
+"C'est possible, dit le renard. On voit sur la Terre toutes sortes de choses..."  
+"Oh! ce n'est pas sur la Terre, dit le petit prince."
 
-Le renard parut très intrigué :
-- Sur une autre planète ?
-- Oui.
-- Il y a des chasseurs, sur cette planète-là ?
-- Non.
-- Ça, c'est intéressant ! Et des poules ?
-- Non.
-- Rien n'est parfait, soupira le renard.
+Le renard parut très intrigué :  
+"Sur une autre planète ?"  
+"Oui."  
+"Il y a des chasseurs, sur cette planète-là ?"  
+"Non."  
+"Ça, c'est intéressant ! Et des poules ?"  
+"Non."  
+"Rien n'est parfait", soupira le renard.
 
-Mais le renard revint à son idée:
-- Ma vie est monotone. Je chasse les poules, les hommes me chassent. Toutes les poules se ressemblent, et tous les hommes se ressemblent. Je m'ennuie donc un peu. Mais, si tu m'apprivoises, ma vie sera comme ensoleillée. Je connaîtrai un bruit de pas qui sera différent de tous les autres. Les autres pas me font rentrer sous terre. Le tien m'appellera hors du terrier, comme une musique. Et puis regarde ! Tu vois, là-bas, les champs de blé ? Je ne mange pas de pain. Le blé pour moi est inutile. Les champs de blé ne me rappellent rien. Et ça, c'est triste ! Mais tu as des cheveux couleur d'or. Alors ce sera merveilleux quand tu m'auras apprivoisé ! Le blé, qui est doré, me fera souvenir de toi. Et j'aimerai le bruit du vent dans le blé...
+Mais le renard revint à son idée:  
+"Ma vie est monotone. Je chasse les poules, les hommes me chassent. Toutes les poules se ressemblent, et tous les hommes se ressemblent. Je m'ennuie donc un peu. Mais, si tu m'apprivoises, ma vie sera comme ensoleillée. Je connaîtrai un bruit de pas qui sera différent de tous les autres. Les autres pas me font rentrer sous terre. Le tien m'appellera hors du terrier, comme une musique. Et puis regarde ! Tu vois, là-bas, les champs de blé ? Je ne mange pas de pain. Le blé pour moi est inutile. Les champs de blé ne me rappellent rien. Et ça, c'est triste ! Mais tu as des cheveux couleur d'or. Alors ce sera merveilleux quand tu m'auras apprivoisé ! Le blé, qui est doré, me fera souvenir de toi. Et j'aimerai le bruit du vent dans le blé..."
 
-Le renard se tut et regarda longtemps le petit prince:
+Le renard se tut et regarda longtemps le petit prince:  
 
-- S'il te plaît... apprivoise-moi ! dit-il.
+"S'il te plaît... apprivoise-moi !" dit-il.  
 
-- Je veux bien, répondit le petit prince, mais je n'ai pas beaucoup de temps. J'ai des amis à découvrir et beaucoup de choses à connaître.
-- On ne connaît que les choses que l'on apprivoise, dit le renard. Les hommes n'ont plus le temps de rien connaître. Ils achètent des choses toutes faites chez les marchands. Mais comme il n'existe point de marchands d'amis, les hommes n'ont plus d'amis. Si tu veux un ami, apprivoise-moi !
-- Que faut-il faire? dit le petit prince.
-- Il faut être très patient, répondit le renard. Tu t'assoiras d'abord un peu loin de moi, comme ça, dans l'herbe. Je te regarderai du coin de l'œil et tu ne diras rien. Le langage est source de malentendus. Mais, chaque jour, tu pourras t'asseoir un peu plus près...
+"Je veux bien , répondit le petit prince," mais je n'ai pas beaucoup de temps. J'ai des amis à découvrir et beaucoup de choses à connaître."  
+"On ne connaît que les choses que l'on apprivoise", dit le renard. "Les hommes n'ont plus le temps de rien connaître. Ils achètent des choses toutes faites chez les marchands. Mais comme il n'existe point de marchands d'amis, les hommes n'ont plus d'amis. Si tu veux un ami, apprivoise-moi !"  
+"Que faut-il faire?" dit le petit prince.  
+"Il faut être très patient", répondit le renard. "Tu t'assoiras d'abord un peu loin de moi, comme ça, dans l'herbe. Je te regarderai du coin de l'œil et tu ne diras rien. Le langage est source de malentendus. Mais, chaque jour, tu pourras t'asseoir un peu plus près..."  
+  
+Le lendemain revint le petit prince.  
+"Il eût mieux valu revenir à la même heure, dit le renard. Si tu viens, par exemple, à quatre heures de l'après-midi, dès trois heures je commencerai d'être heureux. Plus l'heure avancera, plus je me sentirai heureux. A quatre heures, déjà, je m'agiterai et m'inquiéterai; je découvrirai le prix du bonheur ! Mais si tu viens n'importe quand, je ne saurai jamais à quelle heure m'habiller le cœur... Il faut des rites."  
+"Qu'est-ce qu'un rite ?" dit le petit prince.  
+"C'est aussi quelque chose de trop oublié, dit le renard. C'est ce qui fait qu'un jour est différent des autres jours, une heure, des autres heures. Il y a un rite, par exemple, chez mes chasseurs. Ils dansent le jeudi avec les filles du village. Alors le jeudi est jour merveilleux ! Je vais me promener jusqu'à la vigne. Si les chasseurs dansaient n'importe quand, les jours se ressembleraient tous, et je n'aurais point de vacances."  
 
-Le lendemain revint le petit prince.
-- Il eût mieux valu revenir à la même heure, dit le renard. Si tu viens, par exemple, à quatre heures de l'après-midi, dès trois heures je commencerai d'être heureux. Plus l'heure avancera, plus je me sentirai heureux. A quatre heures, déjà, je m'agiterai et m'inquiéterai; je découvrirai le prix du bonheur ! Mais si tu viens n'importe quand, je ne saurai jamais à quelle heure m'habiller le cœur... Il faut des rites.
-- Qu'est-ce qu'un rite ? dit le petit prince.
-- C'est aussi quelque chose de trop oublié, dit le renard. C'est ce qui fait qu'un jour est différent des autres jours, une heure, des autres heures. Il y a un rite, par exemple, chez mes chasseurs. Ils dansent le jeudi avec les filles du village. Alors le jeudi est jour merveilleux ! Je vais me promener jusqu'à la vigne. Si les chasseurs dansaient n'importe quand, les jours se ressembleraient tous, et je n'aurais point de vacances.
+Ainsi le petit prince apprivoisa le renard. Et quand l'heure du départ fut proche:  
+"Ah!" dit le renard... "Je pleurerai."  
+"C'est ta faute", dit le petit prince, "je ne te souhaitais point de mal, mais tu as voulu que je t'apprivoise..."  
+"Bien sûr", dit le renard.  
+"Mais tu vas pleurer !" dit le petit prince.  
+"Bien sûr", dit le renard.  
+"Alors tu n'y gagnes rien !"  
+"J'y gagne", dit le renard, "à cause de la couleur du blé."   
 
-Ainsi le petit prince apprivoisa le renard. Et quand l'heure du départ fut proche:
-- Ah! dit le renard... Je pleurerai.
-- C'est ta faute, dit le petit prince, je ne te souhaitais point de mal, mais tu as voulu que je t'apprivoise...
-- Bien sûr, dit le renard.
-- Mais tu vas pleurer ! dit le petit prince.
-- Bien sûr, dit le renard.
-- Alors tu n'y gagnes rien !
-- J'y gagne, dit le renard, à cause de la couleur du blé.
+Puis il ajouta:  
+"Va revoir les roses. Tu comprendras que la tienne est unique au monde. Tu reviendras me dire adieu, et je te ferai cadeau d'un secret."
 
-Puis il ajouta:
-- Va revoir les roses. Tu comprendras que la tienne est unique au monde. Tu reviendras me dire adieu, et je te ferai cadeau d'un secret.
+Le petit prince s'en fut revoir les roses:  
+"Vous n'êtes pas du tout semblables à ma rose, vous n'êtes rien encore", leur dit-il. "Personne ne vous a apprivoisé et vous n'avez apprivoisé personne. Vous êtes comme était mon renard. Ce n'était qu'un renard semblable à cent mille autres. Mais j'en ai fait mon ami, et il est maintenant unique au monde."  
 
-Le petit prince s'en fut revoir les roses:
-- Vous n'êtes pas du tout semblables à ma rose, vous n'êtes rien encore, leur dit-il. Personne ne vous a apprivoisé et vous n'avez apprivoisé personne. Vous êtes comme était mon renard. Ce n'était qu'un renard semblable à cent mille autres. Mais j'en ai fait mon ami, et il est maintenant unique au monde.
+Et les roses étaient bien gênées.  
+"Vous êtes belles, mais vous êtes vides", leur dit-il encore. "On ne peut pas mourir pour vous. Bien sûr, ma rose à moi, un passant ordinaire croirait qu'elle vous ressemble. Mais à elle seule elle est plus importante que vous toutes, puisque c'est elle que j'ai arrosée. Puisque c'est elle que j'ai mise sous globe. Puisque c'est elle que j'ai abritée par le paravent. Puisque c'est elle dont j'ai tué les chenilles (sauf les deux ou trois pour les papillons). Puisque c'est elle que j'ai écoutée se plaindre, ou se vanter, ou même quelquefois se taire. Puisque c'est ma rose."
 
-Et les roses étaient bien gênées.
-- Vous êtes belles, mais vous êtes vides, leur dit-il encore. On ne peut pas mourir pour vous. Bien sûr, ma rose à moi, un passant ordinaire croirait qu'elle vous ressemble. Mais à elle seule elle est plus importante que vous toutes, puisque c'est elle que j'ai arrosée. Puisque c'est elle que j'ai mise sous globe. Puisque c'est elle que j'ai abritée par le paravent. Puisque c'est elle dont j'ai tué les chenilles (sauf les deux ou trois pour les papillons). Puisque c'est elle que j'ai écoutée se plaindre, ou se vanter, ou même quelquefois se taire. Puisque c'est ma rose.
+Et il revint vers le renard:  
+"Adieu, dit-il..."
+"Adieu", dit le renard. "Voici mon secret. Il est très simple: on ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux."  
+"L'essentiel est invisible pour les yeux", répéta le petit prince, afin de se souvenir.  
+"C'est le temps que tu as perdu pour ta rose qui fait ta rose si importante."  
+"C'est le temps que j'ai perdu pour ma rose..." fit le petit prince, afin de se souvenir.  
+"Les hommes ont oublié cette vérité", dit le renard. "Mais tu ne dois pas l'oublier. Tu deviens responsable pour toujours de ce que tu as apprivoisé. Tu es responsable de ta rose..."  
 
-Et il revint vers le renard:
-- Adieu, dit-il...
-- Adieu, dit le renard. Voici mon secret. Il est très simple: on ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.
-- L'essentiel est invisible pour les yeux, répéta le petit prince, afin de se souvenir.
-- C'est le temps que tu as perdu pour ta rose qui fait ta rose si importante.
-- C'est le temps que j'ai perdu pour ma rose... fit le petit prince, afin de se souvenir.
-- Les hommes ont oublié cette vérité, dit le renard. Mais tu ne dois pas l'oublier. Tu deviens responsable pour toujours de ce que tu as apprivoisé. Tu es responsable de ta rose...
+"Je suis responsable de ma rose..." répéta le petit prince, afin de se souvenir.
 
-- Je suis responsable de ma rose... répéta le petit prince, afin de se souvenir.
-
-Le Petit Prince - Antoine de St Exupéry
-NRF Gallimard 1940
+*Le Petit Prince - Antoine de St Exupéry
+NRF Gallimard 1940*
 ---
 MDVersion: 1
 Titre: Risquer
@@ -3085,13 +3213,13 @@ Titre: Les choses
 Type: Texte
 Tags: Essentiel, Sobriété
 ---
-Le Bouddha disait :
-On ne possède pas les choses :
-On les tient seulement un instant entre les mains.
+Le Bouddha disait :  
+On ne possède pas les choses :  
+On les tient seulement un instant entre les mains.  
 Dès qu'on veut les posséder, elles nous possèdent.
 
-Quand on veut s'approprier les choses, on les gâche.
-Quand on les libère, on en est maître pour toujours.
-Si tu veux être heureux, ne t'attache pas aux choses.
+Quand on veut s'approprier les choses, on les gâche.  
+Quand on les libère, on en est maître pour toujours.  
+Si tu veux être heureux, ne t'attache pas aux choses.  
 Alors, tu les posséderas.
 ---
