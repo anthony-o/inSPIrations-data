@@ -18,6 +18,7 @@ Une autre vague lui répondit : « Ne sois pas triste. Ton chagrin n'existe que 
 
 Avoir à l'esprit que l'humanité fait partie d'un ensemble est important. Car l'être humain se considère souvent comme le centre des choses en s'arrogeant des droits particuliers qui n'ont pas de raison d'être. Ainsi il ne voit que chez son prochain ce qu'il n'a pas, sans voir ce qu'il a déjà, et se cause les plus inutiles soucis.
 <br>
+
 <i>Zen</i>
 
 ---
@@ -57,81 +58,60 @@ Titre: Béatitudes
 Type: Texte
 Tags: Bonheur
 ---
->Heureux les pauvres de coeur : le Royaume des cieux est à eux.
->
->Heureux les doux : ils auront la terre en partage.
->
->Heureux ceux qui pleurent : ils seront consolés.
->
->Heureux ceux qui ont faim et soif de la justice : ils seront rassasiés.
->
->Heureux les miséricordieux : il leur sera fait miséricorde.
->
->Heureux les coeurs purs : ils verront Dieu.
->
->Heureux ceux qui font oeuvre de paix : ils seront appelés fils de Dieu.
->
->Heureux ceux qui sont persécutés pour la justice : le royaume des cieux est à eux.
->
->Heureux êtes-vous lorsque l'on vous insulte, que l'on vous persécute et que l'on dit faussement contre vous toute sorte de mal à cause de moi.
->
->Soyez dans la joie et l'allégresse, car votre récompense est grande dans les cieux ; c'est ainsi en effet que l'on a persécuté les prophètes qui vous ont précédés.
+Heureux les pauvres de coeur : le Royaume des cieux est à eux.
+
+Heureux les doux : ils auront la terre en partage.
+
+Heureux ceux qui pleurent : ils seront consolés.
+
+Heureux ceux qui ont faim et soif de la justice : ils seront rassasiés.
+
+Heureux les miséricordieux : il leur sera fait miséricorde.
+
+Heureux les coeurs purs : ils verront Dieu.
+
+Heureux ceux qui font oeuvre de paix : ils seront appelés fils de Dieu.
+
+Heureux ceux qui sont persécutés pour la justice : le royaume des cieux est à eux.
+
+Heureux êtes-vous lorsque l'on vous insulte, que l'on vous persécute et que l'on dit faussement contre vous toute sorte de mal à cause de moi.
+
+Soyez dans la joie et l'allégresse, car votre récompense est grande dans les cieux ; c'est ainsi en effet que l'on a persécuté les prophètes qui vous ont précédés.
 <br><br>
 <i>Jésus-Christ, Bonne Nouvelle (Evangile) selon Saint Matthieu, 5, 3-12</i>
 ---
 MDVersion: 1
-Titre: Ce qui est important
-Type: Texte
-Tags: Essentiel
----
->« Je me sens triste ! » dit une vague de l'océan en constatant que les autres vagues étaient plus grandes qu'elle. « Les vagues sont si grandes, si vigoureuses, et moi je suis si petite, si chétive. »
->
->Une autre vague lui répondit : « Ne sois pas triste. Ton chagrin n'existe que parce que tu t'attaches à l'apparent, tu ne conçois pas ta véritable nature. »
->
->« Ne suis-je donc pas une vague ? »
->
->« La vague n'est qu'une manifestation transitoire de ta nature. En vérité tu es l'eau. »
->
-« L'eau ? »
->
->« Oui. Si tu comprends clairement que ta nature est l'eau, tu n'accorderas plus d'importance à ta forme de vague et ton chagrin disparaîtra. »
->
->Avoir à l'esprit que l'humanité fait partie d'un ensemble est important. Car l'être humain se considère souvent comme le centre des choses en s'arrogeant des droits particuliers qui n'ont pas de raison d'être. Ainsi il ne voit que chez son prochain ce qu'il n'a pas, sans voir ce qu'il a déjà, et se cause les plus inutiles soucis.
-<br>
-<i>Zen</i>
----
-MDVersion: 1
 Titre: Comment sont les gens
 Type: Texte
-Tags: Oser
+Tags: Sagesse, Discernement
 ---
->Il était une fois un vieil homme assis à l'entrée d'une ville du Moyen-Orient.
->
->Un jeune homme s'approcha et lui dit :
->"Je ne suis jamais venu ici ; comment sont les gens qui vivent dans cette ville ?"
->
->Le vieil homme lui répondit par une question :
->"Comment étaient les gens dans la ville d'où tu viens ?"
->
->"Egoïstes et méchants. C'est d'ailleurs la raison pour laquelle j'étais bien content de partir, dit le jeune homme."
->
->Le vieillard répondit:
->"Tu trouveras les mêmes gens ici."
->
->Un peu plus tard, un autre jeune homme s'approcha et lui posa exactement la même question. 
->"Je viens d'arriver dans la région ; comment sont les gens qui vivent dans cette ville ?"
->
->Le vieille homme répondit de même :
->"Dis-moi, mon garçon, comment étaient les gens dans la ville d'où tu viens ?"
->
->"Ils étaient bons et accueillants, honnêtes; j'y avais de bons amis; j'ai eu beaucoup de mal à la quitter, répondit le jeune homme."
->
->"Tu trouveras les mêmes ici, répondit le vieil homme."
->
->Un marchand qui faisait boire ses chameaux non loin de là avait entendu les deux conversations. Dès que le deuxième jeune homme se >fut éloigné, il s'adressa au vieillard sur un ton de reproche :
->"Comment peux-tu donner deux réponses complètement différentes à la même question posée par deux personnes ?"
->
->"Celui qui ouvre son coeur change aussi son regard sur les autres, répondit le vieillard. Chacun porte son univers dans son coeur."
+Il était une fois un vieil homme assis à l'entrée d'une ville du Moyen-Orient.
+
+Un jeune homme s'approcha et lui dit :
+"Je ne suis jamais venu ici ; comment sont les gens qui vivent dans cette ville ?"
+
+Le vieil homme lui répondit par une question :
+"Comment étaient les gens dans la ville d'où tu viens ?"
+
+"Egoïstes et méchants. C'est d'ailleurs la raison pour laquelle j'étais bien content de partir, dit le jeune homme."
+
+Le vieillard répondit:
+"Tu trouveras les mêmes gens ici."
+
+Un peu plus tard, un autre jeune homme s'approcha et lui posa exactement la même question. 
+"Je viens d'arriver dans la région ; comment sont les gens qui vivent dans cette ville ?"
+
+Le vieil homme répondit de même :
+"Dis-moi, mon garçon, comment étaient les gens dans la ville d'où tu viens ?"
+
+"Ils étaient bons et accueillants, honnêtes; j'y avais de bons amis; j'ai eu beaucoup de mal à la quitter, répondit le jeune homme."
+
+"Tu trouveras les mêmes ici, répondit le vieil homme."
+
+Un marchand qui faisait boire ses chameaux non loin de là avait entendu les deux conversations. Dès que le deuxième jeune homme se >fut éloigné, il s'adressa au vieillard sur un ton de reproche :
+"Comment peux-tu donner deux réponses complètement différentes à la même question posée par deux personnes ?"
+
+"Celui qui ouvre son coeur change aussi son regard sur les autres, répondit le vieillard. Chacun porte son univers dans son coeur."
 
 <br><br>
 <i>Anonyme</i>
@@ -142,27 +122,27 @@ Titre: Décalogue de la sérérenité
 Type: Texte
 Tags: Sérénité
 ---
->1. Rien qu'aujourd'hui, j'essaierai de vivre ma journée sans chercher à résoudre le problème de toute ma vie.
->
->2. Rien qu'aujourd'hui, je prendrai le plus grand soin de me comporter et d'agir de manière courtoise ; je ne critiquerai personne et je ne prétendrai corriger ou régenter qui que ce soit, excepté moi-même.
->
->3. Aujourd'hui je serai heureux, rien qu'aujourd'hui, sur la certitude d'avoir été créé pour le bonheur, non seulement dans l'autre monde, mais également dans celui-ci.
->
->4. Rien qu'aujourd'hui je consacrerai dix minutes à une bonne lecture en me rappelant que, comme la nourriture est nécessaire à la vie du corps , de même la bonne lecture est nécessaire à la vie de l'âme.
->
->5. Rien qu'aujourd'hui, je ferai une bonne action et je n'en parlerai à personne.
->
->6. Rien qu'aujourd'hui, j'accomplirai au moins une chose que je n'ai pas du tout envie de faire, et si on m'offense, je ne le manifesterai pas.
->
->7. Rien qu'aujourd'hui, je me plierai aux circonstances, sans prétendre que celles-ci cèdent à tous mes désirs 
->
->8. Rien qu'aujourd'hui, j'établirai un programme détaillé de ma journée. Je ne m'en acquitterai peut-être pas entièrement, mais je le rédigerai. Et je me garderai de deux calamités: la hâte et l'indécision.
->
->9. Rien qu'aujourd'hui, je croirai fermement - même si les circonstances attestent le contraire - que la Providence de Dieu s'occupe de moi comme si rien d'autre n'existait au monde.
->
->10. Rien qu'aujourd'hui, je n'aurai aucune crainte. Et tout particulièrement, je n'aurai pas peur d'apprécier ce qui est beau et de croire à la bonté.
->
->Je suis en mesure de faire le bien pendant douze heures, ce qui ne saurait me décourager, comme si je me croyais obligé de le faire toute ma vie durant.
+1. Rien qu'aujourd'hui, j'essaierai de vivre ma journée sans chercher à résoudre le problème de toute ma vie.
+
+2. Rien qu'aujourd'hui, je prendrai le plus grand soin de me comporter et d'agir de manière courtoise ; je ne critiquerai personne et je ne prétendrai corriger ou régenter qui que ce soit, excepté moi-même.
+
+3. Aujourd'hui je serai heureux, rien qu'aujourd'hui, sur la certitude d'avoir été créé pour le bonheur, non seulement dans l'autre monde, mais également dans celui-ci.
+
+4. Rien qu'aujourd'hui je consacrerai dix minutes à une bonne lecture en me rappelant que, comme la nourriture est nécessaire à la vie du corps , de même la bonne lecture est nécessaire à la vie de l'âme.
+
+5. Rien qu'aujourd'hui, je ferai une bonne action et je n'en parlerai à personne.
+
+6. Rien qu'aujourd'hui, j'accomplirai au moins une chose que je n'ai pas du tout envie de faire, et si on m'offense, je ne le manifesterai pas.
+
+7. Rien qu'aujourd'hui, je me plierai aux circonstances, sans prétendre que celles-ci cèdent à tous mes désirs 
+
+8. Rien qu'aujourd'hui, j'établirai un programme détaillé de ma journée. Je ne m'en acquitterai peut-être pas entièrement, mais je le rédigerai. Et je me garderai de deux calamités: la hâte et l'indécision.
+
+9. Rien qu'aujourd'hui, je croirai fermement - même si les circonstances attestent le contraire - que la Providence de Dieu s'occupe de moi comme si rien d'autre n'existait au monde.
+
+10. Rien qu'aujourd'hui, je n'aurai aucune crainte. Et tout particulièrement, je n'aurai pas peur d'apprécier ce qui est beau et de croire à la bonté.
+
+Je suis en mesure de faire le bien pendant douze heures, ce qui ne saurait me décourager, comme si je me croyais obligé de le faire toute ma vie durant.
 
 <br><br>
 <i>Pape Jean XXIII</i>
@@ -249,46 +229,6 @@ Article 29. L'individu a des devoirs envers la communauté dans laquelle seul le
 Article 30. Aucune disposition de la présente Déclaration ne peut être interprétée comme impliquant pour un Etat, un groupement ou un individu un droit quelconque de se livrer à une activité ou d'accomplir un acte visant à la destruction des droits et libertés qui y sont énoncés.
 <br><br>
 <i>Adoptée par l'assemblée générale des Nations Unies, le 10 décembre 1948</i>
-
-
-
----
-MDVersion: 1
-Titre: Dernière lettre
-Type: Texte
-Tags: Foi en l'homme, Essentiel, Scout
----
-Chers éclaireurs,
-
-
-Si par hasard, vous avez assisté à la représentation de Peter Pan, vous vous souviendrez que le chef des pirates était toujours en train de préparer son dernier discours, car il craignait fort que l’heure de sa mort venue, il n’eût plus le temps de le prononcer. C’est à peu près la situation dans laquelle je me trouve, et bien que je ne sois pas sur le point de mourir, je sais que cela m’arrivera un de ces prochains jours et je désire vous envoyer un mot d’adieu.
-
-
-Rappelez-vous que c’est le dernier message que vous recevrez de moi ; aussi méditez-le.
-J’ai eu une vie très heureuse et je voudrais qu’on puisse en dire autant de chacun de vous.
-Je crois que Dieu nous a placés dans ce monde pour y être heureux et pour y jouir de la vie. 
-
-
-Ce n’est ni la richesse, ni le succès, ni la satisfaction égoïste de nos appétits qui créent le bonheur. Vous y arriverez tout d’abord en faisant de vous, dès l’enfance, des êtres sains et forts qui pourront plus tard se rendre utiles et jouir ainsi de la vie lorsqu’ils seront des hommes.
-
-
-L’étude de la nature vous apprendra que Dieu a créé des choses belles et merveilleuses afin que vous en jouissiez. Contentez-vous de ce que vous avez et faites-en le meilleur usage possible. Regardez le beau côté des choses plutôt que le côté sombre.
-
-
-Mais le véritable chemin du bonheur est de donner celui-ci aux autres. Essayez de quitter la terre en la laissant un peu meilleure que vous ne l’avez trouvée et quand l’heure de la mort approchera, vous pourrez mourir heureux en pensant que vous n’avez pas perdu votre temps et que vous avez fait « de votre mieux ». 
-
-
-Soyez toujours prêts à vivre heureux et à mourir heureux. 
-
-
-Soyez toujours fidèles à votre Promesse scoute même quand vous aurez cessé d’être un enfant - et que Dieu vous aide à y parvenir !
-
-
-Votre ami,
-<br>
-*Robert Baden-Powell*
-
-
 ---
 MDVersion: 1
 Titre: Dernière lettre
@@ -372,46 +312,46 @@ Titre: Envoie-nous des fous
 Type: Texte
 Tags: Engagement
 ---
->O Dieu, envoie-nous des fous, 
->qui s'engagent à fond,
->qui oublient,
->qui aiment autrement qu'en paroles,
->qui se donnent pour de vrai et jusqu'au bout.
->
->Il nous faut des fous,
->des déraisonnables,
->des passionnés,
->capables de sauter dans l'insécurité:
->l'inconnu toujours plus béant de la pauvreté.
->
->Il nous faut des fous du présent,
->épris de vie simple,
->amants de la paix,
->purs de compromission,
->décidés à ne jamais trahir,
->méprisant leur propre vie,
->capable d'accepter n'importe quelle tâche,
->de partir n'importe où:
->à la fois obéissants,
->spontanés et tenaces,
->doux et forts.
->
->O Dieu, envoie-nous des fous.
->
-> 
->*Louis-Joseph Lebret*
+O Dieu, envoie-nous des fous,  
+qui s'engagent à fond,  
+qui oublient,  
+qui aiment autrement qu'en paroles,  
+qui se donnent pour de vrai et jusqu'au bout.  
+
+Il nous faut des fous,  
+des déraisonnables,  
+des passionnés,  
+capables de sauter dans l'insécurité:  
+l'inconnu toujours plus béant de la pauvreté.  
+
+Il nous faut des fous du présent,  
+épris de vie simple,  
+amants de la paix,  
+purs de compromission,  
+décidés à ne jamais trahir,  
+méprisant leur propre vie,  
+capable d'accepter n'importe quelle tâche,  
+de partir n'importe où:  
+à la fois obéissants,  
+spontanés et tenaces,  
+doux et forts.  
+
+O Dieu, envoie-nous des fous.  
+<br><br>
+ 
+*Louis-Joseph Lebret*
 ---
 MDVersion: 1
 Titre: Au delà
 Type: Texte
 Tags: Foi en l'homme, Courage
 ---
-Au-delà des mots et des dires Il y a des silences complices 
-Au-delà des mers démontées Il y a des terres nouvelles 
-Au-delà des cris et des larmes Il y a des tendresses infinies 
-Au-delà des vents contraires Il y a des brises parfumées 
-Au-delà des violences du temps Il y a l’homme, toujours l’homme 
-Que Dieu te donne de voir au-delà des évidences son visage en tout homme. 
+Au-delà des mots et des dires Il y a des silences complices  
+Au-delà des mers démontées Il y a des terres nouvelles  
+Au-delà des cris et des larmes Il y a des tendresses infinies  
+Au-delà des vents contraires Il y a des brises parfumées  
+Au-delà des violences du temps Il y a l’homme, toujours l’homme  
+Que Dieu te donne de voir au-delà des évidences son visage en tout homme.   
 <br><br>
 <i>Anonyme</i>
 
@@ -423,9 +363,9 @@ Tags: Confiance, Dieu, Fraternité
 ---
 Philosophie Hindouiste
 
-L’homme est semblable à une taie d’oreiller. 
-Une taie peut être rouge, une autre noire et ainsi de suite, mais toutes contiennent le même coton. 
-Il en va de même pour les hommes : l’un est beau, l’autre est laid, un troisième pieux, un quatrième méchant, mais c’est le même Dieu qui réside en tous. 
+L’homme est semblable à une taie d’oreiller.  
+Une taie peut être rouge, une autre noire et ainsi de suite, mais toutes contiennent le même coton.  
+Il en va de même pour les hommes : l’un est beau, l’autre est laid, un troisième pieux, un quatrième méchant, mais c’est le même Dieu qui réside en tous.  
 <br>
 *Ramakrishna*
 ---
@@ -436,14 +376,17 @@ Tags: Confiance, Epreuve
 ---
 Une jeune femme rendit visite à sa mère et lui dit que sa vie était tellement difficile qu'elle ne savait pas si elle pouvait continuer. Elle voulait abandonner car elle était fatiguée de se battre tout le temps.
 Sa mère l'entraîna à la cuisine où elle remplit trois casseroles d'eau qu'elle mit à chauffer à feu vif. Lorsque l'eau commença à bouillir, la mère plaça des carottes dans la première casserole, des oeufs dans la seconde et des grains de café moulu dans la troisième. Elle les laissa bouillir sur le feu sans dire un mot.
-Après 20 minutes, elle retourna à la cuisine, sortit les carottes et les posa sur un plat. Elle sortit les oeufs et les plaça dans un bol. Puis elle versa le café dans une carafe. Se tournant vers sa fille, elle dit :
+Après 20 minutes, elle retourna à la cuisine, sortit les carottes et les posa sur un plat. Elle sortit les oeufs et les plaça dans un bol. Puis elle versa le café dans une carafe. Se tournant vers sa fille, elle dit :  
+
 - Dis moi, que vois-tu ?
-- Des carottes, des oeufs et du café, répondit sa fille.
+- Des carottes, des oeufs et du café, répondit sa fille.  
+
 La femme l'amena plus près et lui demanda de toucher les carottes. La fille les toucha et nota qu'elles étaient molles et souples. La mère lui demanda alors de prendre un oeuf et de le briser. La fille enleva la coquille d'un oeuf et observa qu'il était cuit dur. Finalement, la mère lui demanda de goûter au café. La fille sourit quand elle goûta son arôme riche.
-La fille demanda alors :
+
+La fille demanda alors :  
 - Quel est ton message maman ?
 
-La mère expliqua :
+La mère expliqua :  
 - Les carottes, les oeufs et les grains de café ont affronté la même situation, l'eau bouillante. Alors pourquoi le résultat produit est-il différent ? Ce qui est important n'est pas la situation, mais la façon dont elle est interprétée et abordée. Les carottes sont entrées fortes, dures et solides. Mais, après l'épreuve de l'eau bouillante, elles sont devenues molles et faibles. L'oeuf était fragile avec l'intérieur liquide. Mais, après être passé dans l'eau bouillante, son intérieur est devenu dur. Quant aux grains de café, ils ont, grâce à l'épreuve, exprimé toute la richesse de leur potentiel et ont réussi à changer l'eau. 
 Que révèleront les épreuves que tu affrontes ? Seras-tu carotte, oeuf ou café ?
 
@@ -455,48 +398,21 @@ Titre: Combien pèse un flocon de neige ?
 Type: Texte
 Tags: Paix, Foi en l'Homme, Espérance, Colibri
 ---
-Combien pèse un flocon de neige ?
+"Dis-moi, combien pèse un flocon de neige ?" demanda la mésange à la colombe.
 
-Combien pèse un flocon de neige ?
-"Dis-moi, combien pèse un flocon de neige ?", demanda la mésange à la colombe.
 "Rien d'autre que rien", fut la réponse.
+
 Et la mésange raconta alors à la colombe :
+
 "J'étais sur une branche d'un sapin quand il se mit à neiger. Pas une tempête, non, juste comme un rêve, doucement, sans violence. Comme je n'avais rien de mieux à faire, je commençais à compter les flocons qui tombaient sur la branche où je me tenais. Il en tomba 3.751.952. Lorsque le 3.751.953ème tomba sur la branche - rien d'autre que rien comme tu l'as dit - celle-ci cassa."
+
 Sur ce, la mésange s'envola.
+
 La colombe, une autorité en matière de paix depuis l'époque d'un certain Noé, réfléchit un moment et se dit finalement :
+
 "Peut-être ne manque-t-il qu'une personne pour que tout bascule et que le monde vive en paix !"
-
-
 <br><br>
 <i>Anonyme</i>
----
-MDVersion: 1
-Titre: Comment sont les gens
-Type: Texte
-Tags: Ouverture, Humanité, Choix
----
-Il était une fois un vieil homme assis à l'entrée d'une ville du Moyen-Orient.
-Un jeune homme s'approcha et lui dit :
-- Je ne suis jamais venu ici ; comment sont les gens qui vivent dans cette ville ?
-Le vieil homme lui répondit par une question :
-- Comment étaient les gens dans la ville d'où tu viens ?
-- Egoïstes et méchants. C'est d'ailleurs la raison pour laquelle j'étais bien content de partir, dit le jeune homme.
-Le vieillard répondit:
-- Tu trouveras les mêmes gens ici.
-Un peu plus tard, un autre jeune homme s'approcha et lui posa exactement la même question. - Je viens d'arriver dans la région ; comment sont les gens qui vivent dans cette ville ?
-Le vieille homme répondit de même :
-- Dis-moi, mon garçon, comment étaient les gens dans la ville d'où tu viens ?
-- Ils étaient bons et accueillants, honnêtes; j'y avais de bons amis; j'ai eu beaucoup de mal à la quitter, répondit le jeune homme.
-
-- Tu trouveras les mêmes ici, répondit le vieil homme.
-Un marchand qui faisait boire ses chameaux non loin de là avait entendu les deux conversations. Dès que le deuxième jeune homme se fut éloigné, il s'adressa au vieillard sur un ton de reproche :
-- Comment peux-tu donner deux réponses complètement différentes à la même question posée par deux personnes ?
-- Celui qui ouvre son coeur change aussi son regard sur les autres, répondit le vieillard. Chacun porte son univers dans son coeur.
-
-<br><br>
-<i>Anonyme</i>
-
-
 ---
 MDVersion: 1
 Titre: Dieu seul peut donner la Foi
@@ -504,15 +420,24 @@ Type: Texte
 Tags: Dieu, Foi
 ---
 
-Dieu seul peut donner la FOI, mais vous pouvez DONNER  votre TEMOIGNAGE.
-Dieu seul peut donner l’ESPERANCE, mais vous pouvez RENDRE CONFIANCE à vos frères.
-Dieu seul peut donner l’AMOUR,  mais vous pouvez apprendre à l’autre à AIMER.
-Dieu seul peut donner la PAIX, mais vous pouvez semer l’UNION.
-Dieu seul peut donner la FORCE, mais vous pouvez soutenir un DECOURAGE.
-Dieu seul est le CHEMIN, mais vous pouvez l’indiquez aux AUTRES.
-Dieu seul est la LUMIERE, mais vous pouvez la faire briller aux yeux de TOUS.
-Dieu seul est la VIE, mais vous pouvez rendre aux autres le désir de VIVRE.
+Dieu seul peut donner la FOI, mais vous pouvez DONNER  votre TEMOIGNAGE.  
+
+Dieu seul peut donner l’ESPERANCE, mais vous pouvez RENDRE CONFIANCE à vos frères.  
+
+Dieu seul peut donner l’AMOUR,  mais vous pouvez apprendre à l’autre à AIMER.  
+
+Dieu seul peut donner la PAIX, mais vous pouvez semer l’UNION.  
+
+Dieu seul peut donner la FORCE, mais vous pouvez soutenir un DECOURAGE.  
+
+Dieu seul est le CHEMIN, mais vous pouvez l’indiquez aux AUTRES.  
+
+Dieu seul est la LUMIERE, mais vous pouvez la faire briller aux yeux de TOUS.  
+
+Dieu seul est la VIE, mais vous pouvez rendre aux autres le désir de VIVRE.  
+
 Dieu seul peut faire ce qui parait IMPOSSIBLE, mais vous pouvez faire le POSSIBLE.
+
 Dieu seul se suffit à LUI MEME, mais il préfère compter sur VOUS.
 
 ---
@@ -522,20 +447,22 @@ Type: Texte
 Tags: Fraternité, Confiance, Pardon, Epreuve
 ---
 C'est l'histoire de deux amis qui marchaient dans le désert. A un moment donné, ils se disputèrent et l'un d'eux gifla l'autre. Ce dernier, endolori mais sans rien dire, écrivit dans le sable :
-<br>
+
 AUJOURD'HUI, MON MEILLEUR AMI M'A DONNÉ UNE GIFLE.
-<br>
+
 Ils continuèrent à marcher puis trouvèrent un oasis, dans lequel ils décidèrent de se baigner. Mais celui qui avait été giflé manqua de se noyer et son ami le sauva.
 Quand il se fut repris, il écrivit sur une pierre :
-<br>
+
 AUJOURD'HUI, MON MEILLEUR AMI M'A SAUVÉ LA VIE.
-<br>
+
 Celui qui avait donné la gifle et avait sauvé son ami lui demanda :
-- Quand je t'ai blessé tu as écrit sur le sable, et maintenant tu écris sur la pierre. Pourquoi ?
+"Quand je t'ai blessé tu as écrit sur le sable, et maintenant tu écris sur la pierre. Pourquoi ?"
+
 L'autre ami répondit :
-- Quand quelqu'un nous blesse, nous devons l'écrire dans le sable, où les vents du pardon peuvent l'effacer.
-Mais quand quelqu'un fait quelque chose de bien pour nous, nous devons le graver dans la pierre, où aucun vent ne peut l'effacer.
-<br>
+
+"Quand quelqu'un nous blesse, nous devons l'écrire dans le sable, où les vents du pardon peuvent l'effacer.
+Mais quand quelqu'un fait quelque chose de bien pour nous, nous devons le graver dans la pierre, où aucun vent ne peut l'effacer."
+
 APPRENDS A ÉCRIRE TES BLESSURES DANS LE SABLE ET A GRAVER TES JOIES DANS LA PIERRE.
 
 <br><br>
@@ -547,16 +474,16 @@ Titre: Etre chef
 Type: Texte
 Tags: Chef, Scout, Educateur
 ---
-Si tu veux être chef un jour,
-Pense à ceux qui te seront confiés, et dis toi bien que,
-Si tu ralentis, ils s’arrêtent,
-Si tu faiblis, ils flanchent,
-Si tu t’assieds, ils se couchent,
-Si tu doutes, ils désespèrent,
-Si tu critiques, ils démolissent,
-Si tu marches devant, ils te dépasseront,
-Si tu donnes la main, ils donneront leur peau,
-Si tu pries... alors ils seront des saints.
+Si tu veux être chef un jour,  
+Pense à ceux qui te seront confiés, et dis toi bien que,  
+Si tu ralentis, ils s’arrêtent,  
+Si tu faiblis, ils flanchent,  
+Si tu t’assieds, ils se couchent,  
+Si tu doutes, ils désespèrent,  
+Si tu critiques, ils démolissent,  
+Si tu marches devant, ils te dépasseront,  
+Si tu donnes la main, ils donneront leur peau,  
+Si tu pries... alors ils seront des saints.  
 
 <br>
 *Michel MENU*
@@ -613,14 +540,21 @@ Titre: Fais le quand même
 Type: Texte
 Tags: Confiance, Courage, Humanité
 ---
-Les gens sont souvent déraisonnables, illogiques et centrés sur eux-mêmes, Pardonnes les quand même... 
-Si tu es gentil, les gens peuvent t'accuser d'être égoïste et d'avoir des arrières pensées, Sois gentil quand même... Si tu réussis, tu trouveras des faux amis et des vrais ennemis, Réussis quand même... 
-Si tu es honnête et franc, il se peut que les gens abusent de toi, Sois honnête et franc quand même... 
-Ce que tu as mis des années à construire, quelqu'un pourrait le détruire en une nuit, Construis quand même... 
-Si tu trouves la sérénité et la joie, ils pourraient être jaloux, Sois heureux quand même... Le bien que tu fais aujourd'hui, les gens l'auront souvent oublié demain, Fais le bien quand même... 
-Donnes au monde le meilleur que tu as, et il se pourrait que cela ne soit jamais assez, Donnes au monde le meilleur que tu as quand même... 
+Les gens sont souvent déraisonnables, illogiques et centrés sur eux-mêmes, **Pardonnes les quand même...** 
+
+Si tu es gentil, les gens peuvent t'accuser d'être égoïste et d'avoir des arrières pensées, Sois gentil quand même... Si tu réussis, tu trouveras des faux amis et des vrais ennemis, **Réussis quand même...** 
+
+Si tu es honnête et franc, il se peut que les gens abusent de toi, **Sois honnête et franc quand même...**  
+
+Ce que tu as mis des années à construire, quelqu'un pourrait le détruire en une nuit, **Construis quand même...**   
+
+Si tu trouves la sérénité et la joie, ils pourraient être jaloux, Sois heureux quand même... Le bien que tu fais aujourd'hui, les gens l'auront souvent oublié demain, **Fais le bien quand même...**   
+
+Donnes au monde le meilleur que tu as, et il se pourrait que cela ne soit jamais assez, **Donnes au monde le meilleur que tu as quand même...**   
+
 Tu vois, en faisant une analyse finale, c'est une histoire entre toi et Dieu, cela n'a jamais été entre eux et toi.
-<br>
+<br><br>
+
 *Mère Térésa*
 
 
@@ -2809,7 +2743,7 @@ Abbé Pierre
 
 ---
 MDVersion: 1
-Titre: Comment osez vous ?
+Titre: Comment osez vous ? (de Greta T. à l'ONU)
 Type: Texte
 Tags: Laudato Si, HALP
 ---
@@ -2843,15 +2777,14 @@ Titre: Alors, la paix viendra
 Type: Texte
 Tags: Paix, Espérance
 ---
-# Alors, la paix viendra
 Si tu crois qu’un sourire est plus fort qu’une arme,  
 Si tu crois à la puissance d’une main offerte,  
 Si tu crois que ce qui rassemble les hommes est plus important que ce qui les divise,  
 Si tu crois qu’être différent est une richesse et non pas un danger,  
 Si tu sais regarder l’autre avec un brin d’amour.  
 Si tu sais préférer l’espérance au soupçon...
+### Alors, la paix viendra <br><br>
 
-### Alors, la paix viendra
 Si tu estimes que c’est à toi de faire le premier pas plutôt qu’à l’autre,  
 Si le regard d’un enfant parvient encore à désarmer ton cœur,  
 Si tu peux te réjouir de la joie de ton voisin.  
@@ -2860,15 +2793,16 @@ Si pour toi l’étranger est un frère qui t’es proposé,
 Si tu sais donner gratuitement un peu de ton temps par amour.  
 Si tu sais accepter qu’un autre te rende service,  
 Si tu partages ton pain et que tu saches y joindre un morceau de ton cœur  
-Si tu crois qu’un pardon va plus loin qu’une vengeance...  
+Si tu crois qu’un pardon va plus loin qu’une vengeance...
 
-### Alors, la paix viendra
+### Alors, la paix viendra<br><br>
+
 Si tu sais chanter le bonheur des autres et danser leur allégresse,  
 Si tu peux écouter le malheureux que te fait perdre ton temps et lui garder ton sourire,  
 Si tu sais accepter la critique et en faire ton profit sans la renvoyer et te défendre.  
-Si tu sais accueillir et adopter un avis différent du tien...  
+Si tu sais accueillir et adopter un avis différent du tien...
+### Alors, la paix viendra<br><br>
 
-### Alors, la paix viendra
 Si tu refuses de battre ta coulpe sur la poitrine des autres,  
 Si pour toi l’autre est d’abord un frère,  
 Si la colère est pour toi une faiblesse, non une preuve de force,  
@@ -2877,8 +2811,7 @@ Si tu refuses qu’après toi ce soit le déluge,
 Si tu te ranges du côté du pauvre et de l’opprimé sans te prendre pour un héros,   
 Si tu crois que l’amour est la seule force de persuasion,  
 Si tu crois que la paix est possible
-
-### ALORS LA PAIX VIENDRA
+### ALORS LA PAIX VIENDRA<br><br>
 
 
 ---
@@ -2887,11 +2820,11 @@ Titre: Cantique des créatures
 Type: Texte
 Tags: Louange, Prière, Laudato Si
 ---
-Très-Haut, Tout-Puissant et bon Seigneur, 
-A toi les louanges, la gloire, l'honneur et toutes bénédictions! 
-Loué sois-tu, mon Seigneur, dans toutes tes créatures!  
-Et spécialement pour notre frère le soleil, qui nous donne le jour et par qui tu nous éclaires; 
-il est beau et rayonnant. 
+Très-Haut, Tout-Puissant et bon Seigneur,  
+A toi les louanges, la gloire, l'honneur et toutes bénédictions!  
+Loué sois-tu, mon Seigneur, dans toutes tes créatures!   
+Et spécialement pour notre frère le soleil, qui nous donne le jour et par qui tu nous éclaires;  
+il est beau et rayonnant.  
  
 Loué sois-tu, mon Seigneur, pour notre sur la lune et pour les étoiles;  
 dans le ciel, tu les as formées, claires, précieuses et belles. 
@@ -2909,9 +2842,10 @@ Loué sois-tu, mon Seigneur, pour notre mère la terre, qui nous porte et nous n
 elle nous donne ses plantes et ses fruits colorés. 
  
 Loué sois-tu, mon Seigneur, pour tout ceux qui pardonnent à cause de ton amour.  
+
 Louez et bénissez mon Seigneur, rendez lui grâce et servez-le avec beaucoup de simplicité.
 
-Saint François d'Assise
+*Saint François d'Assise*
 
 ---
 MDVersion: 1
@@ -3101,7 +3035,7 @@ mais il a préféré compter sur toi !
 Guy Gilbert
 ---
 MDVersion: 1
-Titre: Donner.
+Titre: Donner
 Type: Texte
 Tags: Amour, Don, Partager
 ---
