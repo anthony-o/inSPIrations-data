@@ -1,5 +1,6 @@
 ---
 MDVersion: 1
+Titre: Si tu as de nombreuses ...
 Type: Citation
 Tags: Vérité, Essentiel, Sobriété, Désert, Partage
 ---
@@ -7,6 +8,7 @@ Si tu as de nombreuses richesses, donne de ton bien ; si tu possèdes peu, donne
 Proverbe Berbère, Bernard Werber
 ---
 MDVersion: 1
+Titre: Celui qui partage ...
 Type: Citation
 Tags: Partage, Amour
 ---
@@ -14,6 +16,7 @@ Tags: Partage, Amour
 Joanna De Angelis
 ---
 MDVersion: 1
+Titre: Il faut des défricheurs  ...
 Type: Citation
 Tags: Aventure
 ---
@@ -21,6 +24,7 @@ Tags: Aventure
 François Denis
 ---
 MDVersion: 1
+Titre: Je voudrais être ...
 Type: Citation
 Tags: Lumière
 ---
@@ -28,6 +32,7 @@ Tags: Lumière
 Dom Helder Camara
 ---
 MDVersion: 1
+Titre: Celui qui fait entrer ...
 Type: Citation
 Tags: Espérance
 ---
@@ -35,6 +40,7 @@ Tags: Espérance
 Benoit XVI
 ---
 MDVersion: 1
+Titre: Le bonheur est ...
 Type: Citation
 Tags: Bonheur, Joie
 ---
@@ -42,6 +48,7 @@ Tags: Bonheur, Joie
 Paul Fort
 ---
 MDVersion: 1
+Titre: Un sourire coûte moins ...
 Type: Citation
 Tags: Sourire, Essentiel, Sobriété, Lumière
 ---
@@ -49,6 +56,7 @@ Tags: Sourire, Essentiel, Sobriété, Lumière
 Abbé Pierre
 ---
 MDVersion: 1
+Titre: Ecoute, écoute l'autre ...
 Type: Citation
 Tags: Ecouter, Fraternité
 ---
@@ -56,6 +64,7 @@ Tags: Ecouter, Fraternité
 Groupe Nomade
 ---
 MDVersion: 1
+Titre: Tout est important ...
 Type: Citation
 Tags: Essentiel, Croissance, Sobriété
 ---
@@ -63,6 +72,7 @@ Tags: Essentiel, Croissance, Sobriété
 François Denis
 ---
 MDVersion: 1
+Titre: Heureux ceux qui ...
 Type: Citation
 Tags: Bonheur, Joie, Justice
 ---
@@ -70,6 +80,7 @@ Tags: Bonheur, Joie, Justice
 Matthieu 5,6
 ---
 MDVersion: 1
+Titre: Je trouve la vie belle ...
 Type: Citation
 Tags: Liberté, Bonheur, Vivre
 ---
@@ -77,6 +88,7 @@ Tags: Liberté, Bonheur, Vivre
 Etty Hillesum
 ---
 MDVersion: 1
+Titre: Dieu veut ...
 Type: Citation
 Tags: Espérance, Liberté, Joie, Bonheur
 ---
@@ -84,6 +96,7 @@ Tags: Espérance, Liberté, Joie, Bonheur
 Maurice Zundel
 ---
 MDVersion: 1
+Titre: Si tu ne le fais pas ...
 Type: Citation
 Tags: Fraternité, Humanité, Altruisme
 ---
@@ -91,6 +104,7 @@ Tags: Fraternité, Humanité, Altruisme
 Anonyme
 ---
 MDVersion: 1
+Titre: Si les autres ont tort ...
 Type: Citation
 Tags: Confiance, Justice
 ---
@@ -98,6 +112,7 @@ Tags: Confiance, Justice
 Anonyme
 ---
 MDVersion: 1
+Titre: Le meilleur moyen ...
 Type: Citation
 Tags: Comprendre, Liberté
 ---
@@ -105,6 +120,7 @@ Tags: Comprendre, Liberté
 Bernard Werber
 ---
 MDVersion: 1
+Titre: Naître, vivre, mourir ...
 Type: Citation
 Tags: Loi, Progresser, Croissance
 ---
@@ -112,6 +128,7 @@ Tags: Loi, Progresser, Croissance
 Hippolyte Léon Denizard Rivail
 ---
 MDVersion: 1
+Titre: La vie ne nous donne ...
 Type: Citation
 Tags: Vivre, Justice
 ---
@@ -119,6 +136,7 @@ Tags: Vivre, Justice
 Anonyme
 ---
 MDVersion: 1
+Titre: La lumière existe ...
 Type: Citation
 Tags: Lumière
 ---
@@ -126,6 +144,7 @@ Tags: Lumière
 Koan zen (n. 98)
 ---
 MDVersion: 1
+Titre: L’amour n’est pas seulement ...
 Type: Citation
 Tags: Amour
 ---
@@ -133,6 +152,7 @@ Tags: Amour
 Martin Gray, Ecrivain
 ---
 MDVersion: 1
+Titre: Si on ne change pas ...
 Type: Citation
 Tags: Vivre, Croissance, Oser
 ---
@@ -140,6 +160,7 @@ Tags: Vivre, Croissance, Oser
 Gail Sheehy
 ---
 MDVersion: 1
+Titre: La plus belle des choses ...
 Type: Citation
 Tags: Bonheur, Partager
 ---
@@ -147,6 +168,7 @@ Tags: Bonheur, Partager
 Marc Levy
 ---
 MDVersion: 1
+Titre: Identifier le bonheur ...
 Type: Citation
 Tags: Bonheur
 ---
@@ -154,6 +176,7 @@ Tags: Bonheur
 Marc Levy
 ---
 MDVersion: 1
+Titre: Les parents sont des ...
 Type: Citation
 Tags: Croissance, Grandir
 ---
@@ -161,6 +184,7 @@ Tags: Croissance, Grandir
 Marc Levy
 ---
 MDVersion: 1
+Titre: N'essayez pas de devenir ...
 Type: Citation
 Tags: Essentiel
 ---
@@ -168,6 +192,7 @@ Tags: Essentiel
 Albert Einstein
 ---
 MDVersion: 1
+Titre: L'imagination est plus importante ...
 Type: Citation
 Tags: Liberté, Imagination
 ---
@@ -175,6 +200,7 @@ Tags: Liberté, Imagination
 Albert Einstein
 ---
 MDVersion: 1
+Titre: L'une des plus grandes douleurs ...
 Type: Citation
 Tags: Ouverture, Ecoute
 ---
@@ -182,6 +208,7 @@ Tags: Ouverture, Ecoute
 Walter Bagehot
 ---
 MDVersion: 1
+Titre: Toute grande vérité ...
 Type: Citation
 Tags: Liberté, Ouverture
 ---
@@ -189,6 +216,7 @@ Tags: Liberté, Ouverture
 Schopenhauer
 ---
 MDVersion: 1
+Titre: Nous sommes comme ...
 Type: Citation
 Tags: Fraternité, Humanité
 ---
@@ -196,6 +224,7 @@ Tags: Fraternité, Humanité
 William James
 ---
 MDVersion: 1
+Titre: Ainsi la mort n'est rien ...
 Type: Citation
 Tags: Mort, Vivre
 ---
@@ -203,6 +232,7 @@ Tags: Mort, Vivre
 Epicure
 ---
 MDVersion: 1
+Titre: On peut éprouver ...
 Type: Citation
 Tags: Servir
 ---
@@ -210,6 +240,7 @@ Tags: Servir
 Henry de Montherlant
 ---
 MDVersion: 1
+Titre: La force ne réside pas ...
 Type: Citation
 Tags: Volonté, Confiance
 ---
@@ -217,6 +248,7 @@ Tags: Volonté, Confiance
 Gandhi
 <br>---
 MDVersion: 1
+Titre: Mais alors ...
 Type: Citation
 Tags: Essentiel, Sens
 ---
@@ -224,6 +256,7 @@ Tags: Essentiel, Sens
 Alice
 ---
 MDVersion: 1
+Titre: Le Maître dit ...
 Type: Citation
 Tags: Observer, Ecouter
 ---
@@ -231,6 +264,7 @@ Tags: Observer, Ecouter
 Confucius
 ---
 MDVersion: 1
+Titre: je n'aime pas votre doctrine ...
 Type: Citation
 Tags: Courage, Confiance
 ---
@@ -238,6 +272,7 @@ Tags: Courage, Confiance
 Confucius
 ---
 MDVersion: 1
+Titre: Dans les affaires du monde ...
 Type: Citation
 Tags: Justice, Courage
 ---
@@ -245,20 +280,23 @@ Tags: Justice, Courage
 Confucius
 ---
 MDVersion: 1
+Titre: Ne vous souciez pas ...
 Type: Citation
 Tags: Essentiel
 ---
-"Le Maître dit : "Ne vous souciez pas d'être sans emploi ; souciez-vous d'être digne d'un emploi. Ne vous souciez pas de n'être pas remarqué ; cherchez plutôt à faire quelque chose de remarquable.""
+"Le Maître dit : "Ne vous souciez pas d'être sans emploi ; souciez-vous d'être digne d'un emploi. Ne vous souciez pas de n'être pas remarqué ; cherchez plutôt à faire quelque chose de remarquable."
 Confucius
 ---
 MDVersion: 1
+Titre: Quand vous rencontrez ...
 Type: Citation
 Tags: Humilité
 ---
-"Le Maître dit : "Quand vous rencontrez un homme vertueux, cherchez à l'égaler. Quand vous rencontrez un homme dénué de vertu, examinez vos propres manquements.""
+"Le Maître dit : "Quand vous rencontrez un homme vertueux, cherchez à l'égaler. Quand vous rencontrez un homme dénué de vertu, examinez vos propres manquements."
 Confucius
 ---
 MDVersion: 1
+Titre: L'amour de Dieu doit aboutir ...
 Type: Citation
 Tags: Servir
 ---
@@ -266,6 +304,7 @@ Tags: Servir
 Mère Térésa
 ---
 MDVersion: 1
+Titre: Agissez avec bonté ...
 Type: Citation
 Tags: Servir, Amour
 ---
@@ -273,6 +312,7 @@ Tags: Servir, Amour
 Mère Térésa
 ---
 MDVersion: 1
+Titre: Les actions humaines ...
 Type: Citation
 Tags: Sagesse
 ---
@@ -280,6 +320,7 @@ Tags: Sagesse
 Yuanwu
 ---
 MDVersion: 1
+Titre: Les avantages du mensonge ...
 Type: Citation
 Tags: Vérité
 ---
@@ -287,6 +328,7 @@ Tags: Vérité
 Denis Diderot
 ---
 MDVersion: 1
+Titre: La vérité est une ligne ...
 Type: Citation
 Tags: Vérité, Courage, Echec
 ---
@@ -294,6 +336,7 @@ Tags: Vérité, Courage, Echec
 Franz Anton Mesmer
 ---
 MDVersion: 1
+Titre: L'important n'est pas ...
 Type: Citation
 Tags: Fraternité, Humanité, Vivre,Essentiel
 ---
@@ -301,6 +344,7 @@ Tags: Fraternité, Humanité, Vivre,Essentiel
 Daniel Tammet
 ---
 MDVersion: 1
+Titre: Le coeur du fou ...
 Type: Citation
 Tags: Amour, Sagesse
 ---
@@ -308,6 +352,7 @@ Tags: Amour, Sagesse
 Benjamin Franklin
 ---
 MDVersion: 1
+Titre: Rappelez-vous  ...
 Type: Citation
 Tags: Confiance
 ---
@@ -315,6 +360,7 @@ Tags: Confiance
 Anonyme
 ---
 MDVersion: 1
+Titre: Tout ce que tu feras ...
 Type: Citation
 Tags: Humilité
 ---
@@ -322,6 +368,7 @@ Tags: Humilité
 Gandhi
 ---
 MDVersion: 1
+Titre: Ignores-tu ...
 Type: Citation
 Tags: Servir
 ---
@@ -329,6 +376,7 @@ Tags: Servir
 Jean-Jacques Rousseau
 ---
 MDVersion: 1
+Titre: L'Humanité n'est pas ...
 Type: Citation
 Tags: Humanité
 ---
@@ -336,6 +384,7 @@ Tags: Humanité
 Vercors
 ---
 MDVersion: 1
+Titre: Lorsqu'un homme rêve ...
 Type: Citation
 Tags: Fraternité
 ---
@@ -343,6 +392,7 @@ Tags: Fraternité
 Fritz Hundertwasser
 ---
 MDVersion: 1
+Titre: L'avenir ...
 Type: Citation
 Tags: Avenir, Courage
 ---
@@ -350,6 +400,7 @@ Tags: Avenir, Courage
 Antoine de Saint-Exupéry
 ---
 MDVersion: 1
+Titre: Si tu veux construire un bateau ...
 Type: Citation
 Tags: Humanité, Sens
 ---
@@ -357,6 +408,7 @@ Si tu veux construire un bateau, ne rassemble pas tes hommes et femmes pour leur
 Antoine de Saint-Exupéry
 ---
 MDVersion: 1
+Titre: Le bonheur n'est pas ...
 Type: Citation
 Tags: Bonheur
 ---
@@ -364,6 +416,7 @@ Le bonheur n'est pas une destination à atteindre, mais une façon de voyager.
 Anonyme
 ---
 MDVersion: 1
+Titre: Vivre prudemment ...
 Type: Citation
 Tags: Humanité
 ---
@@ -371,6 +424,7 @@ Tags: Humanité
 Wladimir Wolf Gozin
 ---
 MDVersion: 1
+Titre: Il n'y a jamais eu ...
 Type: Citation
 Tags: Paix
 ---
@@ -378,6 +432,7 @@ Tags: Paix
 Benjamin Franklin.
 ---
 MDVersion: 1
+Titre: La plus grande gloire ...
 Type: Citation
 Tags: Courage, Echec
 ---
@@ -385,6 +440,7 @@ Tags: Courage, Echec
 Confucius, philosophe
 ---
 MDVersion: 1
+Titre: La plupart des choses  ...
 Type: Citation
 Tags: Espérance, Courage
 ---
