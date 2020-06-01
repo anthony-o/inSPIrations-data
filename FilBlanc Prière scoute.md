@@ -22,7 +22,7 @@ Titre: La Prière Scoute
 Type: TempsSpi
 TitreParole: Prière Scoute
 TitreGeste: Partager son vécu 
-Tags: Scoute, Progressions personnelle
+Tags: Scout, Progressions personnelle
 Tranches d'âges: 11-14,14-17,17-19
 CodeFilBlanc: Prière Scoute
 OrdreFilBlanc: 1
@@ -72,7 +72,7 @@ Titre: Apprenez nous à être généreux
 Type: TempsSpi
 TitreParole: S'il me manque l'amour
 TitreGeste: Identifier les richesses de ma vie
-Tags: Générosité, Scout, Amour
+Tags: Générosité, Scout, Aimer
 CodeFilBlanc: Prière Scoute
 OrdreFilBlanc: 2
 Tranches d'âges: 8-11,11-14,14-17,17-18

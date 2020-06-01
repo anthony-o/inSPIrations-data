@@ -22,7 +22,7 @@ Debout resplendis
 MDVersion: 1
 Titre: Des milliards de chemins
 Type: Chant
-Tags: Choix,Avenir
+Tags: Choisir, Avenir, Chemin
 ---
 Des milliards de chemins
 
@@ -32,7 +32,7 @@ Des milliards de chemins
 MDVersion: 1
 Titre: Ecoute, Ecoute
 Type: Chant
-Tags: Attente, Foi, Confiance,Ecoute
+Tags: Espérer, Foi, Confiance,Ecouter
 ---
 Ecoute, Ecoute
 
@@ -68,7 +68,7 @@ Heureux, bienheureux
 MDVersion: 1
 Titre: Humblement dans le silence de mon coeur
 Type: Chant
-Tags: Silence, Humilité, Don,Confiance
+Tags: Silence, Humilité, Donner, Confiance
 ---
 Humblement dans le silence de mon coeur
 
@@ -90,7 +90,7 @@ Je sais que tu veux mon bonheur
 MDVersion: 1
 Titre: Je vous ai choisis
 Type: Chant
-Tags: Choix, Confiance
+Tags: Choisir, Confiance
 ---
 Je vous ai choisis
 
@@ -123,7 +123,7 @@ La première en chemin
 MDVersion: 1
 Titre: Laisserons nous à notre table
 Type: Chant
-Tags: Générosité, Accueil
+Tags: Générosité, Acceuillir
 ---
 Laisserons nous à notre table
 
@@ -134,7 +134,7 @@ Laisserons nous à notre table
 MDVersion: 1
 Titre: Le monde m’appelle
 Type: Chant
-Tags: Appel, Avenir, Choix
+Tags: Appel, Avenir, Choisir
 ---
 Le monde m’appelle
 
@@ -193,7 +193,7 @@ Met ta joie dans le Seigneur
 MDVersion: 1
 Titre: Ne rentrez pas chez vous comme avant
 Type: Chant
-Tags: Avenir, Futur, Choix, Changement, Espérance
+Tags: Avenir, Futur, Choisir, Changement, Espérance
 ---
 Ne rentrez pas chez vous comme avant
 

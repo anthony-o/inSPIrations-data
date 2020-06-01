@@ -10,7 +10,7 @@ Proverbe Berbère, Bernard Werber
 MDVersion: 1
 Titre: Celui qui partage ...
 Type: Citation
-Tags: Partage, Amour
+Tags: Partager, Aimer
 ---
 "Celui qui partage et qui donne en se renouvelant toujours, réussit la plénitude de l'Amour et réalise Dieu dans son monde intérieur."
 Joanna De Angelis
@@ -18,7 +18,7 @@ Joanna De Angelis
 MDVersion: 1
 Titre: Il faut des défricheurs  ...
 Type: Citation
-Tags: Aventure
+Tags: Oser, Avenir
 ---
 "Il faut des défricheurs d'avenir et des ouvreurs de sentiers pour risquer la nouveauté."
 François Denis
@@ -98,7 +98,7 @@ Maurice Zundel
 MDVersion: 1
 Titre: Si tu ne le fais pas ...
 Type: Citation
-Tags: Fraternité, Humanité, Altruisme
+Tags: Fraternité, Humanité, Solidarité
 ---
 "Si tu ne le fais pas pour toi, fais le pour les autres."
 Anonyme
@@ -146,7 +146,7 @@ Koan zen (n. 98)
 MDVersion: 1
 Titre: L’amour n’est pas seulement ...
 Type: Citation
-Tags: Amour
+Tags: Aimer
 ---
 "L’amour n’est pas seulement un miracle né d’une rencontre. Il est, jour après jour, ce que l’on veut qu’il soit. Il faut se décider à le réussir. "
 Martin Gray, Ecrivain
@@ -306,7 +306,7 @@ Mère Térésa
 MDVersion: 1
 Titre: Agissez avec bonté ...
 Type: Citation
-Tags: Servir, Amour
+Tags: Servir, Aimer
 ---
 "Agissez avec bonté. N'imaginez pas que vous êtes le seul à pouvoir faire un travail efficace, un travail remarquable. Cela vous rend trop exigeant envers les autres qui n'ont pas forcément les mêmes talents. Faites de votre mieux et croyez que les autres font de leur mieux."
 Mère Térésa
@@ -346,7 +346,7 @@ Daniel Tammet
 MDVersion: 1
 Titre: Le coeur du fou ...
 Type: Citation
-Tags: Amour, Sagesse
+Tags: Aimer, Sagesse
 ---
 "Le coeur du fou est dans sa bouche, mais la bouche du sage se trouve dans son coeur."
 Benjamin Franklin

@@ -126,7 +126,7 @@ Titre: Ascension
 Type: TempsSpi
 CodeFilBlanc: Calendrier
 Modèle: document-simple
-Tags: Ascension
+Tags: Confiance
 Tranches d'âges: 8-11,11-14,14-17,17-18
 OrdreFilBlanc: 4
 ---
@@ -186,7 +186,7 @@ Titre: Assomption
 Type: TempsSpi
 CodeFilBlanc: Calendrier
 Modèle: document-simple
-Tags: Assomption
+Tags: Marie
 Tranches d'âges: 8-11,11-14,14-17,17-18
 OrdreFilBlanc: 6
 ---

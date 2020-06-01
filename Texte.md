@@ -25,7 +25,7 @@ Avoir à l'esprit que l'humanité fait partie d'un ensemble est important. Car l
 MDVersion: 1
 Titre: Apprends nous à éduquer
 Type: Texte
-Tags: Education, Autonomie
+Tags: Eduquer, Responsabiliser
 ---
 Seigneur, tu es le Bon Pasteur, prêt à risquer ta vie pour tes brebis.
 Elles sont enfermées dans l'univers un peu fusionnel de la bergerie,
@@ -83,7 +83,7 @@ Soyez dans la joie et l'allégresse, car votre récompense est grande dans les c
 MDVersion: 1
 Titre: Comment sont les gens
 Type: Texte
-Tags: Sagesse, Discernement
+Tags: Sagesse, Discerner
 ---
 Il était une fois un vieil homme assis à l'entrée d'une ville du Moyen-Orient.
 
@@ -233,7 +233,7 @@ Article 30. Aucune disposition de la présente Déclaration ne peut être interp
 MDVersion: 1
 Titre: Dernière lettre
 Type: Texte
-Tags: Foi en l'homme, Essentiel, Scout
+Tags: Foi en l'Homme, Essentiel, Scout
 ---
 Chers éclaireurs,
 
@@ -344,7 +344,7 @@ O Dieu, envoie-nous des fous.
 MDVersion: 1
 Titre: Au delà
 Type: Texte
-Tags: Foi en l'homme, Courage
+Tags: Foi en l'Homme, Courage
 ---
 Au-delà des mots et des dires Il y a des silences complices  
 Au-delà des mers démontées Il y a des terres nouvelles  
@@ -594,7 +594,7 @@ La valeur d'une personne ne tient pas à ce que l'on a fait ou pas, vous pourrez
 MDVersion: 1
 Titre: Heureux ceux qui...
 Type: Texte
-Tags: Vieillesse, Age
+Tags: Vieillir
 ---
 Heureux ceux qui respectent mes mains décharnées et mes pieds déformés.  
 
@@ -1035,7 +1035,7 @@ Elle enrichit celui qui la donne.
 MDVersion: 1
 Titre: L'amour change tout
 Type: Texte
-Tags: Amour
+Tags: Aimer
 ---
 Le devoir sans amour nous rend acharné
 
@@ -1100,7 +1100,7 @@ On peut acheter de la terre mais pas le Ciel...
 MDVersion: 1
 Titre: L’enfer et le paradis
 Type: Texte
-Tags: Sens, Bien, Solidarité
+Tags: Sens, Solidarité
 ---
 Un saint homme tenait un jour une conversation avec Dieu. Il lui dit :
 
@@ -2138,7 +2138,7 @@ Mais, s'il vous plaît, essayons quand même.
 MDVersion: 1
 Titre: Qu’aimes tu ?
 Type: Texte
-Tags: Sens, Essentiel, Amour
+Tags: Sens, Essentiel, Aimer
 ---
 Aimes tu la beauté,  
 alors ne m'aime pas !  
@@ -2747,7 +2747,7 @@ Tu seras un homme, mon fils
 MDVersion: 1
 Titre: Un jour
 Type: Texte
-Tags: Amour
+Tags: Aimer
 ---
 Un jour, quand nous aurons maîtrisé les vents, les vagues, les marées et la pesanteur, nous exploiterons l'énergie de l'amour.   
 Alors, pour la seconde fois dans l'histoire du monde, l'homme aura découvert le feu.
@@ -3165,7 +3165,7 @@ Guy Gilbert
 MDVersion: 1
 Titre: Donner
 Type: Texte
-Tags: Amour, Don, Partager
+Tags: Aimer, Donner, Partager
 ---
 Donner mon temps
 pour écouter et pour parler.
@@ -3239,3 +3239,165 @@ Une offense verbale est aussi néfaste qu’une offense physique.
 Les amis sont des joyaux précieux. Ils nous font rire et nous encouragent à réussir. Ils nous prêtent une oreille attentive, nous louangent et sont toujours prêts à nous ouvrir leur COEUR. »   
 Souvent on dit : ne fais pas aux autres ce que tu ne voudrais pas qu’ils te fassent.  
 ---
+MDVersion: 1
+Titre: Les tailleurs de pierre
+Type: Texte
+Tags: Choisir, Vivre 
+---
+Sur la place des lavandières  
+travaillaient trois tailleurs de pierre.  
+Un voyageur passant par là leur demanda :  
+« Que faites-vous là ? »  
+
+Le premier dit, furieux sans doute :  
+« vous ne voyez pas, je gagne ma croûte ! «   
+le second dit, frappant la pierre :  
+« bein vous voyez, j’taille des pierres ! ».  
+Quant au troisième, il dit jovial :  
+« moi… je bâtis des cathédrales ! ».  
+Ils taillaient les mêmes cailloux,  
+tous les trois pour les mêmes sous.  
+
+Le premier taillait sa misère,  
+et de loin préparait la guerre ;  
+le second taillait des pierres,  
+puisqu’il était tailleurs de pierres.  
+Le troisième taillait sa joie  
+et la paix du monde à la fois.  
+
+Le voyageur en s’en allant,  
+lui qui était tailleur de vent  
+se demanda sous le ciel blême ;  
+« lequel des trois suis-je moi-même ? ».  
+
+*André Steiger*
+---
+MDVersion: 1
+Titre: Repartir
+Type: Texte
+Tags: Départ
+---
+Repartir, ce n’est surtout pas revenir sur ses pas.  
+Repartir, ce n’est pas faire marche arrière, ce n’est pas revenir à son point de départ.  
+Repartir, ce n’est pas faire demi-tour en effaçant les traces de ses propres pas.  
+
+Jamais tu ne repars comme tu es arrivé.  
+Jamais tu ne reviens comme tu es parti.  
+Jamais tu ne rentres comme tu es sorti.  
+Le voyage te change  
+Le voyage n’a pas été seulement  
+celui du temps passé  
+il se remet en cause,  
+il se remet en histoire  
+et en route.  
+Il refuse d’être un arrivé ou un arriviste.  
+Il renonce à rentrer dans ses pantoufles,  
+dans ses souvenirs et dans ses habitudes.  
+
+Repartir, C’est affirmer que l’avenir existe  
+puisqu’on y va.  
+C’est croire qu’il existe un possible, puisqu’on y part.  
+Repartir, c’est prouver que tout n’a pas été dit  
+Repartir, c’est croire qu’il existe toujours un chemin il est celui du cœur  
+Repartir ce n’est pas rapporter des souvenirs, mais des projets.  
+Repartir ce n’est pas rentrer dans le monde, retrouver ses habitudes et remettre chaque chose à sa place.  
+  
+Repartir ce n’est pas déclarer que tout est fini et qu’il ne reste plus que les nostalgies.  
+Repartir c’est au contraire vouloir que tout recommence.  
+  
+Celui qui repart  
+a le cœur neuf.  
+Celui qui repart  
+suit le chemin d’un nouveau regard  
+Celui qui repart  
+ne sera jamais plus comme avant  
+Celui qui repart  
+se met en mouvement.  
+  
+
+*Jean Debruynne*
+ ---
+MDVersion: 1
+Titre: L'emploi du pronom indéfini...
+Type: Texte
+Tags: Responsable
+---
+Il était une fois quatre individus qu'on appelait  
+Tout le monde - Quelqu'un - Chacun - et Personne.  
+Il y avait un important travail à faire,   
+Et on a demandé à Tout le monde de le faire.  
+Tout le monde était persuadé que Quelqu'un le ferait.   
+Chacun pouvait l'avoir fait, mais en réalité Personne ne le fit.   
+Quelqu'un se fâcha car c'était le travail de Tout le monde !   
+Tout le monde pensa que Chacun pouvait le faire  
+Et Personne ne doutait que Quelqu'un le ferait…  
+En fin de compte, Tout le monde fit des reproches à Chacun   
+Parce que Personne n'avait fait ce que Quelqu'un aurait pu faire.  
+ 
+**MORALITÉ :**  
+Sans vouloir le reprocher à Tout le monde,  
+Il serait bon que Chacun  
+Fasse ce qu'il doit sans nourrir l'espoir
+Que Quelqu'un le fera à sa place…   
+Car l'expérience montre que  
+Là où on attend Quelqu'un,   
+Généralement on ne trouve Personne  
+---
+MDVersion: 1
+Titre: Quand je dis m’engager
+Type: Texte
+Tags: S'engager
+---
+Quand je dis s’engager, je dis la source et la racine, l’essor et le premier pas.  
+Je dis s’aventurer, se risquer, s’embarquer sur le même vaisseau.  
+
+Quand je dis s’engager, je dis l’événement pour celui qui s’engage et la joie de ses compagnons pour l’espérance d’un monde meilleur par un ouvrier de plus.  
+Je dis la solennité et la confiance, La simplicité et l’optimisme.  
+
+Quand je dis s’engager, je ne dis pas qu’il n’y aura pas de chutes ni d’enrayage, de passages à vide et de moments au goût de cendres ;   
+Je dis la flamme et la gerbe d’étincelles, la foi dans la vie, l’espérance dans l’amour, et l’amour des autres qui est amour de Dieu.   
+Je dis la confiance et l’optimisme de l’homme ressuscité derrière le Vivant, s’attaquant à la transformation de la Terre.   
+Je ne dis pas qu’il n’y aura plus de guerre, ni d’exactions, ni de torture, de pogroms de juifs et de chasse aux noirs.  
+
+Je ne dis pas qu’il n’y aura plus d’égoïsme, de mesquins calculs, pour profiter tant qu’on peut, posséder l’autre et faire semblant, même de ma part.   
+Je dis que je m’engage à servir mes frères pour être l’artisan d’un monde meilleur là où je suis par la grâce du Seigneur Jésus-Christ mort et ressuscité pour sauver les hommes.  
+
+Quand je dis s’engager   
+Je ne dis pas que c’est un voeu comme on rentre en religion.   
+Je ne dis pas plus que c’est un autre baptême ou un sacrement.   
+Voilà pourquoi c’est une parole de croisée des chemins, de fin de course ou de chantier plus que de choeurs de cathédrale.  
+
+Je dis promettre et donner sa parole, se lier d’honneur à mes compagnons d’engagement qui me cautionnent.   
+En m’engageant, je cautionne ce qu’ensemble nous réalisons.   
+En m’engageant, j’engage mon frère, mon équipe et deviens responsable ainsi qu’une cordée.  
+
+Quand je dis m’engager   
+Je dis la parole qui, sans la pratique, n’est qu’éloquence   
+Je dis prendre au sérieux ses conséquences  
+Je dis fidélité aux autres  
+Je dis le projet par lequel je choisis de me modifier   
+en servant ceux qui m’entourent dans l’amour.  
+---
+MDVersion: 1
+Titre: Je marcherai
+Type: Texte
+Tags: Choisir, S'engager, Pélerin
+---
+Je marcherai sous le soleil trop lourd,  
+sous la pluie à verse ou dans la tornade.  
+
+En marchant, le soleil réchauffera mon cœur de pierre ;  
+la pluie fera de mes déserts un jardin.  
+A force d’user mes chaussures,  
+
+j’userai mes habitudes.  
+Je marcherai et ma marche sera démarche.  
+J’irais moins au bout de la route  
+qu’au bout de moi-même.  
+
+Je serai pèlerin.  
+Je ne partirai pas seulement en voyage.  
+Je deviendrai moi-même un voyage, un pèlerinage.  
+
+*Jean Debruynne*  
+ ---

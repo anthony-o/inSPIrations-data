@@ -137,7 +137,7 @@ Si quelqu’un veut me servir, qu’il me suive ; et là où moi je suis, là au
 MDVersion: 1
 Titre: Etre efficace, moteur - Sel de la terre
 Type: ReferenceBiblique
-Tags: Agir, Lumière, 
+Tags: Agir, Lumière 
 Reference: Matthieu 5,13-16
 ---
 « Vous êtes le sel de la terre. Mais si le sel devient fade, comment lui rendre de la saveur ? Il ne vaut plus rien : on le jette dehors et il est piétiné par les gens.
@@ -346,7 +346,7 @@ Vous m’appelez “Maître” et “Seigneur”, et vous avez raison, car vraim
 MDVersion: 1
 Titre: Aimez-vous les uns les autres
 Type: ReferenceBiblique
-Tags: Amour
+Tags: Aimer
 Reference: Jean 15,12-17
 ---
 Mon commandement, le voici : Aimez-vous les uns les autres comme je vous ai aimés. 
@@ -357,9 +357,9 @@ Ce n’est pas vous qui m’avez choisi, c’est moi qui vous ai choisis et éta
 Voici ce que je vous commande : c’est de vous aimer les uns les autres.
 ---
 MDVersion: 1
-Titre: La charité
+Titre: S'il me manque l'amour
 Type: ReferenceBiblique
-Tags: Amour
+Tags: Aimer
 Reference: 1 lettres aux Corinthiens 13
 ---
 J’aurais beau parler toutes les langues des hommes et des anges, si je n’ai pas la charité, s’il me manque l’amour, je ne suis qu’un cuivre qui résonne, une cymbale retentissante.  
@@ -377,9 +377,9 @@ Nous voyons actuellement de manière confuse, comme dans un miroir ; ce jour-là
 Ce qui demeure aujourd’hui, c’est la foi, l’espérance et la charité ; mais la plus grande des trois, c’est la charité.  
 ---
 MDVersion: 1
-Titre: La charité
+Titre: Le bon samaritain
 Type: ReferenceBiblique
-Tags: Amour, Charité, Solidarité, Etranger
+Tags: Aimer, Charité, Solidarité, Etranger
 Reference: Luc 10,23-37
 ---
 Puis il se tourna vers ses disciples et leur dit en particulier : « Heureux les yeux qui voient ce que vous voyez !  
@@ -401,7 +401,7 @@ Le docteur de la Loi répondit : « Celui qui a fait preuve de pitié envers lui
 MDVersion: 1
 Titre: La charité
 Type: ReferenceBiblique
-Tags: Amour, Charité
+Tags: Aimer, Charité
 Reference: Isaïe 58,7-11
 ---
 N’est-ce pas partager ton pain avec celui qui a faim, accueillir chez toi les pauvres sans abri, couvrir celui que tu verras sans vêtement, ne pas te dérober à ton semblable ?  
@@ -411,7 +411,7 @@ si tu donnes à celui qui a faim ce que toi, tu désires, et si tu combles les d
 Le Seigneur sera toujours ton guide. En plein désert, il comblera tes désirs et te rendra vigueur. Tu seras comme un jardin bien irrigué, comme une source où les eaux ne manquent jamais.  
 ---
 MDVersion: 1
-Titre: La charité
+Titre: Je vous envoie
 Type: ReferenceBiblique
 Tags: Paix, Mission, Joie, Devoir
 Reference: Luc 10,1-9
@@ -579,7 +579,7 @@ Alors ils ramenèrent les barques au rivage et, laissant tout, ils le suivirent.
 MDVersion: 1
 Titre: Liberté de l'appel
 Type: ReferenceBiblique
-Tags: Mission, Appel, Liberté, Difficulté
+Tags: Mission, Appel, Liberté, Difficultés
 Reference: Matthieu 19,16-22
 ---
 Et voici que quelqu’un s’approcha de Jésus et lui dit : « Maître, que dois-je faire de bon pour avoir la vie éternelle ? »  
@@ -618,7 +618,7 @@ C’est la plus petite de toutes les semences, mais, quand elle a poussé, elle 
 MDVersion: 1
 Titre: Le figuier stérile
 Type: ReferenceBiblique
-Tags: Arbre, Fruits, Action
+Tags: Arbre, Fruits, Agir, Confiance
 Reference: Matthieu 7,17-20
 ---
 C’est ainsi que tout arbre bon donne de beaux fruits, et que l’arbre qui pourrit donne des fruits mauvais.  
@@ -708,7 +708,7 @@ De là, le Seigneur les dispersa sur toute la surface de la terre. Ils cessèren
 MDVersion: 1
 Titre: Avec patience et amour - Le potier
 Type: ReferenceBiblique
-Tags: Batir, Argile, Amour, Patience
+Tags: Batir, Aimer, Patience
 Reference: Jérémie 18,1-8
 ---
 Parole du Seigneur adressée à Jérémie :  
@@ -921,7 +921,7 @@ Et celui qui accueille un enfant comme celui-ci en mon nom, il m’accueille, mo
 MDVersion: 1
 Titre: Qui donc est le plus grand
 Type: ReferenceBiblique
-Tags: Amour, Justice, Pardon
+Tags: Aimer, Justice, Pardon
 Reference: Matthieu 5,38-48
 ---
 Vous avez appris qu’il a été dit : Œil pour œil, et dent pour dent.  
@@ -959,7 +959,7 @@ Celui qui a reçu la semence dans la bonne terre, c’est celui qui entend la Pa
 MDVersion: 1
 Titre: Parabole des talents
 Type: ReferenceBiblique
-Tags: Talents, Servir
+Tags: Talent, Servir
 Reference: Matthieu 25,24-30
 ---
 Celui qui avait reçu un seul talent s’approcha aussi et dit : “Seigneur, je savais que tu es un homme dur : tu moissonnes là où tu n’as pas semé, tu ramasses là où tu n’as pas répandu le grain.  
@@ -1135,7 +1135,7 @@ Et des cieux, une voix disait : « Celui-ci est mon Fils bien-aimé, en qui je t
 MDVersion: 1
 Titre: Que ceux qui ne voient pas puissent voir
 Type: ReferenceBiblique
-Tags: Eau, Aveugle, Péché
+Tags: Eau, Péché
 Reference: Jean 9,1-41
 ---
 En passant, Jésus vit un homme aveugle de naissance.  
@@ -1371,7 +1371,7 @@ En revanche, on va dire : « Toi, tu as la foi ; moi, j’ai les œuvres. Montre
 MDVersion: 1
 Titre: Pentecôte 
 Type: ReferenceBiblique
-Tags: Feu, Pentecête, Esprit, Baptême 
+Tags: Feu, Pentecôte, Esprit, Baptême 
 Reference: Actes des apôtres 2 et 3
 ---
 Quand arriva le jour de la Pentecôte, au terme des cinquante jours, ils se trouvaient réunis tous ensemble.  
@@ -1511,7 +1511,7 @@ Il relève Israël son serviteur, il se souvient de son amour, de la promesse fa
 MDVersion: 1
 Titre: Dire sa joie - Magnificat
 Type: ReferenceBiblique
-Tags: Donner, Semer, Partage, Croissance
+Tags: Donner, Semer, Partager, Croissance
 Reference: 2ème Lettre de St Paul aux Corinthiens 9,6-10
 ---
 Rappelez-vous le proverbe : “À semer trop peu, on récolte trop peu ; à semer largement, on récolte largement”.
@@ -1527,7 +1527,7 @@ Dieu, qui fournit la semence au semeur et le pain pour la nourriture, vous fourn
 MDVersion: 1
 Titre: Dire sa joie - Magnificat
 Type: ReferenceBiblique
-Tags: Donner, Partage, Devoir, Lumière
+Tags: Donner, Partager, Devoir, Lumière
 Reference: Isaïe 58,6-11
 ---
 Votre jeûne se passe en disputes et querelles, en coups de poing sauvages. Ce n’est pas en jeûnant comme vous le faites aujourd’hui que vous ferez entendre là-haut votre voix.
@@ -1620,7 +1620,7 @@ Venez, maison de Jacob ! Marchons à la lumière du Seigneur.
 MDVersion: 1
 Titre: Mourir pour vivre - Grain de blé
 Type: ReferenceBiblique
-Tags: Mort, Blé, Grain, Resurrection, Patience
+Tags: Mort, Grain, Resurrection, Patience
 Reference: Jean 12,20-32
 ---
 Il y avait quelques Grecs parmi ceux qui étaient montés à Jérusalem pour adorer Dieu pendant la fête de la Pâque.  
@@ -1640,7 +1640,7 @@ et moi, quand j’aurai été élevé de terre, j’attirerai à moi tous les ho
 MDVersion: 1
 Titre: Redonner la vie - Résurection de Lazare
 Type: ReferenceBiblique
-Tags: Mort, Vie, Resurrection
+Tags: Mort, Vivre, Resurrection
 Reference: Jean 11,1-44
 ---
 Il y avait quelqu’un de malade, Lazare, de Béthanie, le village de Marie et de Marthe, sa sœur.  
@@ -1691,7 +1691,7 @@ Et le mort sortit, les pieds et les mains liés par des bandelettes, le visage e
 MDVersion: 1
 Titre: Lève-toi
 Type: ReferenceBiblique
-Tags: Mort, Vie, Resurrection
+Tags: Mort, Vivre, Resurrection
 Reference: Luc 7,11-16
 ---
 Par la suite, Jésus se rendit dans une ville appelée Naïm. Ses disciples faisaient route avec lui, ainsi qu’une grande foule.  
@@ -1704,7 +1704,7 @@ La crainte s’empara de tous, et ils rendaient gloire à Dieu en disant : « Un
 MDVersion: 1
 Titre: Que l’amour dont tu m’as aimé soit en eux
 Type: ReferenceBiblique
-Tags: Louange, Gloire, Confiance, Amour, Vérité
+Tags: Louange, Gloire, Confiance, Aimer, Vérité
 Reference: Jean 17
 ---
 Ainsi parla Jésus. Puis il leva les yeux au ciel et dit : « Père, l’heure est venue. Glorifie ton Fils afin que le Fils te glorifie.  
@@ -1737,7 +1737,7 @@ Je leur ai fait connaître ton nom, et je le ferai connaître, pour que l’amou
 MDVersion: 1
 Titre: Respecter la Loi
 Type: ReferenceBiblique
-Tags: Loi, Respect, Colère, Amour, Paix, Justice
+Tags: Loi, Respect, Colère, Aimer, Paix, Justice
 Reference: Matthieu 5,17-25
 ---
 « Ne pensez pas que je sois venu abolir la Loi ou les Prophètes : je ne suis pas venu abolir, mais accomplir.  
@@ -1816,7 +1816,7 @@ Vous avez entendu ce que je vous ai dit : Je m’en vais, et je reviens vers vou
 MDVersion: 1
 Titre: Artisan de Paix
 Type: ReferenceBiblique
-Tags: Pain, Partage
+Tags: Pain, Partager
 Reference: Mt 26,26-30
 ---
 Pendant le repas, Jésus, ayant pris du pain et prononcé la bénédiction, le rompit et, le donnant aux disciples, il dit : « Prenez, mangez : ceci est mon corps. »
@@ -1832,7 +1832,7 @@ Après avoir chanté les psaumes, ils partirent pour le mont des Oliviers.
 MDVersion: 1
 Titre: Multiplication des pains
 Type: ReferenceBiblique
-Tags: Pain, Poisson, Partage, Nourriture
+Tags: Pain, Poisson, Partager, Nourriture
 Reference: Jean 6,1-15
 ---
 Après cela, Jésus passa de l’autre côté de la mer de Galilée, le lac de Tibériade.  
@@ -1869,7 +1869,7 @@ afin que ton aumône reste dans le secret ; ton Père qui voit dans le secret te
 MDVersion: 1
 Titre: Paratger ses biens 
 Type: ReferenceBiblique
-Tags: Partage, Collectif, Unité, Esprit, Baptème 
+Tags: Partager, Collectif, Unité, Esprit, Baptême 
 Reference: Actes des apôtres 2,42-47
 ---
 Pierre leur répondit : « Convertissez-vous, et que chacun de vous soit baptisé au nom de Jésus Christ pour le pardon de ses péchés ; vous recevrez alors le don du Saint-Esprit.
@@ -1896,7 +1896,7 @@ ils louaient Dieu et avaient la faveur du peuple tout entier. Chaque jour, le Se
 MDVersion: 1
 Titre: Partager ses biens 
 Type: ReferenceBiblique
-Tags: Partage, Aumône
+Tags: Partager
 Reference: Deutéronome 24,19-22
 ---
 Lorsque tu feras ta moisson, si tu oublies une gerbe dans ton champ, tu ne retourneras pas la chercher. Laisse-la pour l’immigré, l’orphelin et la veuve, afin que le Seigneur ton Dieu te bénisse dans tous tes travaux.
@@ -1960,7 +1960,7 @@ C’était la troisième fois que Jésus ressuscité d’entre les morts se mani
 MDVersion: 1
 Titre: Faire profiter les autres de ses talents
 Type: ReferenceBiblique
-Tags: Collectif, Fraternité, Talent, 
+Tags: Collectif, Fraternité, Talent
 Reference: 1ère lettre de st Paul aux Cotinthiens 12,27-31
 ---
 Or, vous êtes corps du Christ et, chacun pour votre part, vous êtes membres de ce corps.
@@ -2028,7 +2028,7 @@ Choisir la dernière place - Lc 14,1-11
 MDVersion: 1
 Titre: Venue de l'ange Gabriel
 Type: ReferenceBiblique
-Tags: Marie, Esprit, Ange, Confiance
+Tags: Marie, Esprit, Confiance
 Reference: Lc 1,26-38
 ---
 Le sixième mois, l’ange Gabriel fut envoyé par Dieu dans une ville de Galilée, appelée Nazareth, à une jeune fille vierge, accordée en mariage à un homme de la maison de David, appelé Joseph ; et le nom de la jeune fille était Marie.  
@@ -2138,7 +2138,7 @@ Donnez, et l’on vous donnera : c’est une mesure bien pleine, tassée, secou�
 MDVersion: 1
 Titre: Construire sa maison sur le roc
 Type: ReferenceBiblique
-Tags: Début de camp, Roc, Choix, Fruit
+Tags: Début de camp, Roc, Choisir, Fruit
 Reference: Luc 6,20-38
 ---
 Un bon arbre ne donne pas de fruit pourri ; jamais non plus un arbre qui pourrit ne donne de bon fruit.  
@@ -2152,7 +2152,7 @@ Mais celui qui a écouté et n’a pas mis en pratique ressemble à celui qui a 
 MDVersion: 1
 Titre: La lumière est venue dans le monde
 Type: ReferenceBiblique
-Tags: Lumière, Vérité, Louange, Amour
+Tags: Lumière, Vérité, Louange, Aimer
 Reference: Jean 3,14-21
 ---
 De même que le serpent de bronze fut élevé par Moïse dans le désert, ainsi faut-il que le Fils de l’homme soit élevé,  
@@ -2211,7 +2211,7 @@ Quant à ce serviteur bon à rien, jetez-le dans les ténèbres extérieures ; l
 MDVersion: 1
 Titre: Le fils retrouvé
 Type: ReferenceBiblique
-Tags: Pardon, Réconciliation, Amour
+Tags: Pardon, Réconciliation, Aimer
 Reference: Luc 15,11-32
 ---
 Jésus dit encore : « Un homme avait deux fils.  
@@ -2345,7 +2345,7 @@ Mais celui qui ne la connaissait pas, et qui a mérité des coups pour sa condui
 MDVersion: 1
 Titre: Profession de Pierre
 Type: ReferenceBiblique
-Tags: Choix, Confiance, Amour
+Tags: Choisir, Confiance, Aimer
 Reference: Jean 21,15-19
 ---
 Quand ils eurent mangé, Jésus dit à Simon-Pierre : « Simon, fils de Jean, m’aimes-tu vraiment, plus que ceux-ci ? » Il lui répond : « Oui, Seigneur ! Toi, tu le sais : je t’aime. » Jésus lui dit : « Sois le berger de mes agneaux. »

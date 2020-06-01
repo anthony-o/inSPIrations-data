@@ -4,7 +4,7 @@ Titre: Prendre du recul au désert
 Type: TempsSpi
 TitreParole: Le roi et le jardin
 TitreGeste: Identifier les richesses de ma vie
-Tags: Désert, Prise de recul, Essentiel
+Tags: Désert, Prendre de recul, Essentiel
 Tranches d'âges: 14-17,17-19
 ---
 # --> Accueil
@@ -376,7 +376,7 @@ Titre: L’eau vive
 Type: TempsSpi
 TitreParole: La Samaritaine
 TitreGeste: Admirer, remercier, prier
-Tags: Le Don de Dieu
+Tags: Don de Dieu
 Tranches d'âges: 8-11,11-14, 14-17
 ---
 
