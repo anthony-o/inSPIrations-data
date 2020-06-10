@@ -60,15 +60,15 @@ Compagnons, compagnons
 
 ---
 MDVersion: 1
-Titre: Le pain d’hier est raci
+Titre: Le pain d’hier est rassis
 Type: benedicite
 ---
-Le pain d’hier est raci  
+Le pain d’hier est rassis  
 Le pain de demain n’est pas cuit  
 Merci Seigneur pour le pain d’aujourd’hui   
 Et à tous bon appétit  
 
-[Lien Youtube: Le pain d’hier est raci](https://www.youtube.com/watch?v=ghHbyCPoxCQ&index=5&list=PLVB2dphYKAKsDlaYLzfMSeNHpLiy1k_PK)
+[Lien Youtube: Le pain d’hier est rassis](https://www.youtube.com/watch?v=ghHbyCPoxCQ&index=5&list=PLVB2dphYKAKsDlaYLzfMSeNHpLiy1k_PK)
 ---
 MDVersion: 1
 Titre: Nous te disons merci
