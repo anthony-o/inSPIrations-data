@@ -259,6 +259,8 @@ MDVersion: 1
 Titre: Psaume de la Création
 Type: Chant
 Tags: Création, Laudato Si, Louange
+CodeFilBlanc: Laudatosi
+OrdreFilBlanc: 10
 ---
 
 [Lien Youtube: Psaume de la Création](https://www.youtube.com/watch?v=Lje_aWoQnnQ)
@@ -450,7 +452,7 @@ Resucito
 [Lien Youtube: Resucito](https://www.youtube.com/watch?v=ilD4GprtZEI)
 ---
 MDVersion: 1
-Titre: Liberté]
+Titre: Liberté
 Type: chant
 Tags: Espérance
 ---
@@ -458,4 +460,16 @@ Liberté d'Angélique et Photis Ionatos
 
 
 [Lien Youtube: Liberté](https://www.youtube.com/watch?v=HRgLnC_RCP4)
+---
+MDVersion: 1
+Titre: Laudato si
+Type: chant
+Tags: Laudato Si
+CodeFilBlanc: Laudatosi
+OrdreFilBlanc: 11
+---
+
+
+
+[Lien Youtube: Laudato Si](https://www.youtube.com/watch?v=yOVkHidnYt8)
 ---
