@@ -1123,4 +1123,18 @@ Culture du déchet = on jette ce qui devient ‘inutile’ (en général sous 1 
 # -->Envoi
 à construire
 ---
+MDVersion: 1
+Titre: Le trésor
+Type: TempsSpi
+Modèle: document-simple
+Tags: Essentiel
+Tranches d'âges: 8-11,11-14,14-17,17-18
 
+---
+Le geste et l’échange : on installe une boîte au milieu et on demande à chacun ce qu’il imagine comme trésor dans cette boîte. >> Tour de parole >> puis question : Quel sont les différents trésors dont on a parlé ? >> Parole libre
+
+La parole :  texte : « Jésus parlait à la foule à l’aide de ses paraboles. « Le royaume des cieux ressemble à un trésor caché dans un champ. Un homme le découvre et le cache à nouveau. Rempli de joie, il va vendre tout ce qu’il possède et achète ce champ »
+
+Ensuite chacun écrit pendant le camp, un souvenir inoubliable de ce camp pour lui qui représente son trésor. >> à la fin du camp on fait une affiche avec tous ces petits souvenirs pour marquer le camp
+
+*Temps proposé par Gabrielle et son équipe*
