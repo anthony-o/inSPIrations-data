@@ -22,7 +22,7 @@ Titre: La Prière Scoute
 Type: TempsSpi
 TitreParole: Prière Scoute
 TitreGeste: Partager son vécu 
-Tags: Scout, Progressions personnelle
+Tags: Scout, Progression personnelle
 Tranches d'âges: 11-14,14-17,17-19
 CodeFilBlanc: Prière Scoute
 OrdreFilBlanc: 1
