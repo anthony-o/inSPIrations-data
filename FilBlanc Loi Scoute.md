@@ -1,6 +1,6 @@
 ---
 MDVersion: 1
-Titre: La Loie Scoute
+Titre: La Loi Scoute
 Type: FilBlanc
 CodeFilBlanc: Loi Scoute
 Tranches d'âges: 17-19
