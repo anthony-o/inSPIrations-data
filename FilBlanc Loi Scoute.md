@@ -28,12 +28,12 @@ La guide, le scout
 MDVersion: 1
 Titre: Loi Scoute SGDF, art. 1 et 2
 Type: TempsSpi
-TitreParole: s’il me manque l’amour
-TitreGeste: Papier dans le feu
+TitreParole: Que ton oui soit oui
+TitreGeste: Le pas en avant
 Tags: Scout
 Tranches d'âges: 17-19
 CodeFilBlanc: Loi Scoute
-OrdreFilBlanc: 2
+OrdreFilBlanc: 1
 ---
 # -->Accueil
 
@@ -73,6 +73,16 @@ Ce pas symbolisera le risque que nous prenons en nous engageant auprès des autr
 Il est temps de quitter vos tombeaux
 [Lien Youtube: Il est temps de quitter vos tombeaux](https://www.youtube.com/watch?v=FBlBWdWYgdk)  
 
+---
+MDVersion: 1
+Titre: Loi Scoute SGDF, art. 3 et 4
+Type: TempsSpi
+TitreParole: s’il me manque l’amour
+TitreGeste: Papier dans le feu
+Tags: Scout
+Tranches d'âges: 17-19
+CodeFilBlanc: Loi Scoute
+OrdreFilBlanc: 2
 ---
 # -->Accueil
 
