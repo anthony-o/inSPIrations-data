@@ -23,16 +23,17 @@ La guide, le scout
 9. Accueille la Bonne Nouvelle par ses actes au service des autres  
 10. Est maître (responsable) de ses paroles, de ses actes et de ses pensées  
 
+*Fil blanc de l'APPRO C Arrancourt 2020*
 ---
 MDVersion: 1
 Titre: Loi Scoute SGDF, art. 1 et 2
 Type: TempsSpi
-TitreParole: Que ton oui soit oui
-TitreGeste: Un pas en avant dans la confiance
+TitreParole: s’il me manque l’amour
+TitreGeste: Papier dans le feu
 Tags: Scout
 Tranches d'âges: 17-19
 CodeFilBlanc: Loi Scoute
-OrdreFilBlanc: 1
+OrdreFilBlanc: 2
 ---
 # -->Accueil
 
@@ -72,5 +73,38 @@ Ce pas symbolisera le risque que nous prenons en nous engageant auprès des autr
 Il est temps de quitter vos tombeaux
 [Lien Youtube: Il est temps de quitter vos tombeaux](https://www.youtube.com/watch?v=FBlBWdWYgdk)  
 
+---
+# -->Accueil
 
+Chant à gestes:  
+[Lien Youtube: L'amour de Dieu est grand comme ça](https://www.youtube.com/watch?v=gvhTNmcO5o4)  
+Explication de loi scoute  
+Lecture des 2 premiers articles de la Loi Scoute SGDF  
+1. Parle en vérité et agit en cohérence   
+2. Est digne de confiance et sait faire confiance aux autres   
+
+
+# -->Parole
+
+Lecture des articles 3 et 4  de la Loi Scoute SGDF  
+3. Va au devant des autres et tisse des liens de fraternité avec les scouts et guides du monde entier  
+4. Emploie ses ressources avec sagesse  
+
+1ère lettre aux Corinthiens 13
+J’aurais beau parler toutes les langues des hommes et des anges, si je n’ai pas la charité, s’il me manque l’amour, je ne suis qu’un cuivre qui résonne, une cymbale retentissante.  
+J’aurais beau être prophète, avoir toute la science des mystères et toute la connaissance de Dieu, j’aurais beau avoir toute la foi jusqu’à transporter les montagnes, s’il me manque l’amour, je ne suis rien.  
+J’aurais beau distribuer toute ma fortune aux affamés, j’aurais beau me faire brûler vif, s’il me manque l’amour, cela ne me sert à rien.  
+L’amour prend patience ; l’amour rend service ; l’amour ne jalouse pas ; il ne se vante pas, ne se gonfle pas d’orgueil ;  
+il ne fait rien d’inconvenant ; il ne cherche pas son intérêt ; il ne s’emporte pas ; il n’entretient pas de rancune ;  
+il ne se réjouit pas de ce qui est injuste, mais il trouve sa joie dans ce qui est vrai ;  
+il supporte tout, il fait confiance en tout, il espère tout, il endure tout.  
+
+Prise de parole de l'animateur pour expliquer en quoi texte a du sens dans la réalité de l'unité
+
+# -->Geste
+Tous les participants vont écrire un remerciement ou une intention pour ce que leur a apporté l'amour et la charité
+
+# -->Envoi
+
+[Lien Youtube: egarde l'étoile](https://www.youtube.com/watch?v=qjlDcdT4Gr4&t=93s)  
 ---
