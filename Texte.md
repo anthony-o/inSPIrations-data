@@ -2633,21 +2633,21 @@ Mais lorsque l'heure sera venue:
 Lorsque ta vie sera droite comme une tige de roseau  
 et simple comme un chant d'alouette  
 
-Un chef ce n'est pas celui qui veut commande, diriger,  
+Un chef ce n'est pas celui qui veut commander, diriger,  
 s'imposer, celui qui donne des ordres pour se faire obéir;  
 Celui qui défend ou qui permet; qui blame et qui loue;  
 qui récompense et qui punit.  
 Un chef, c'est autre chose.  
 C'est davantage.  
  
-Un chef, c'est celui qui , sans le vouloir et sans le savoir,  
+Un chef, c'est celui qui, sans le vouloir et sans le savoir,  
 attire les autres à lui; celui auprès duquel on vient s'asseoir;  
 celui qu'on écoute et qu'on suit parce qu'on a découvert  
 qu'il y avait une force en lui que rien ne peut détruire;  
 que sa vie est droite, et simple son action; chaque jour la même  
 simple comme le regard tranquille  
 qui semble venir de loin et s'en aller plus loin encore  
-jusqu'au fond des conscience et par delà l'horizon.  
+jusqu'au fond des consciences et par delà l'horizon.  
  
 Un chef...  
 Comme il serait bon d'avoir un chef, lorsqu'on est fatigué !  
@@ -2685,7 +2685,7 @@ et auprès duquel tu te sens devenir meilleur que toi -même.
 Voilà pourquoi tu l'as choisi.  
 Voilà pourquoi tu lui dis : " mon Chef"  
  
-Tu seras Chef, veux tu ?  
+Tu seras Chef, veux-tu ?  
 Non pas aujourd'hui ni demain peut-être ;  
 Mais lorsque l'heure sera venue:  
 Lorsque ta vie sera droite comme une tige de roseau  

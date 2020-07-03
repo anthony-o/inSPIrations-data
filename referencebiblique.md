@@ -608,11 +608,10 @@ Aussitôt, Jésus les appela. Alors, laissant dans la barque leur père Zébéd�
 MDVersion: 1
 Titre: La croissance
 Type: ReferenceBiblique
-Tags: Arbre, Croissance
+Tags: Arbre, Croissance, Relecture
 Reference: Matthieu 13,31-32
 ---
 Il leur proposa une autre parabole : « Le royaume des Cieux est comparable à une graine de moutarde qu’un homme a prise et qu’il a semée dans son champ.
-
 C’est la plus petite de toutes les semences, mais, quand elle a poussé, elle dépasse les autres plantes potagères et devient un arbre, si bien que les oiseaux du ciel viennent et font leurs nids dans ses branches.
 ---
 MDVersion: 1

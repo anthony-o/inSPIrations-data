@@ -55,7 +55,7 @@ Ils sont venus chercher des frères pour habiter l'amour.
 
 ---
 MDVersion: 1
-Titre: Ecoute, Ecoute
+Titre: Heureux, bienheureux
 Type: Chant
 Tags: Joie, Bonheur, Ecoute
 ---
