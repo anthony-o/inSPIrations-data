@@ -1,33 +1,33 @@
 ---
 MDVersion: 1
-Titre: La Loi Scoute
+Titre: Enrichissement CAP
 Type: FilBlanc
 CodeFilBlanc: Enrichissement CAP
 Tranches d'âges: 17-19
 ---
 **Objectif** : Proposer une démarche complète de temps spi autour des thèmes de l’enrichissement des CAP  
-*Créativité
-*Découverte
-*Dépassement
-*Rencontre
-*Utilité 
+* Créativité
+* Découverte
+* Dépassement
+* Rencontre
+* Utilité 
 
 **Cadre** : Chaque temps spi sera en lien avec une frise commune.
 
 Déroulé :
-*10 min : Préparation
-*15 min : Temps spi
-*5 min : Prochain temps spi à choisir
+* 10 min : Préparation
+* 15 min : Temps spi
+* 5 min : Prochain temps spi à choisir
 
 Préparation :
-*les 3èmes années dessinent la frise
+* les 3èmes années dessinent la frise
 * les autres attendent (où les chefs les occupent 10 min)
 
 Temps spi :
-*Voir Fiche
+* Voir Fiche
 
 Prochain temps :
-*Choisir en caravane, quel est le prochain thème.
+* Choisir en caravane, quel est le prochain thème.
 ---
 MDVersion: 1
 Titre: Créativité
@@ -40,18 +40,18 @@ OrdreFilBlanc: 1
 ---
 **Geste** : Les jeunes se mettent par groupe de 3 ou 4. Ils reçoivent un pack : Cure-dents, feuilles de papier. Avec ces cure-dents et les feuilles de papier, ils doivent construire une structure, la plus originale possible. Chaque structure sera posée devant la frise ou sur la frise. Geste : Chaque jeune se voit attribuer une citation qu’il gardera jusqu’à la fin de la journée/réunion/semaine 
  
-*Ce n’est pas le doute, c’est la certitude qui rend fou. – Friedrich Nietzsche 
-*La naïveté est la caractéristique principale du génie. – Johann Wolfang von Goethe 
-*On trouve parfois ce qu’on ne cherchait pas. – Alexander Fleming 
-*Ce n’est pas la réalité qui compte dans un film, mais ce que l’imagination peut en faire. – Charlie Chaplin 
-*Si vous pouvez le rêver, vous pouvez le faire. – Walt Disney 
-*Il est plus difficile de briser un préjugé qu’un atome. – Albert Einstein 
-*Je n’ai pas échoué. J’ai simplement trouvé 10 000 solutions qui ne fonctionnent pas. – Thomas Edison 
-*Etre génial, c’est prendre le temps de rêver, croire que tout le monde peut être différent et oser dire tout haut ses rêves les plus fous. – Philippe Brasseur 
-*L’imagination est plus importante que la connaissance. Car la connaissance est limitée, alors que l’imagination embrasse l’univers tout entier. – Albert Einstein 
-*Le succès, c’est d’aller d’échec en échec sans perdre son enthousiasme. – Winston Churchill 
-*Si vous n’échouez pas de temps à autre, c’est le signe que vous ne tentez jamais rien de vraiment novateur. – Woody Allen 
-*Tu es un génie. La question n’est pas tant de savoir “combien” tu es génial(e) mais “comment” tu l’es. – Philippe Brasseur 
+* Ce n’est pas le doute, c’est la certitude qui rend fou. – Friedrich Nietzsche 
+* La naïveté est la caractéristique principale du génie. – Johann Wolfang von Goethe 
+* On trouve parfois ce qu’on ne cherchait pas. – Alexander Fleming 
+* Ce n’est pas la réalité qui compte dans un film, mais ce que l’imagination peut en faire. – Charlie Chaplin 
+* Si vous pouvez le rêver, vous pouvez le faire. – Walt Disney 
+* Il est plus difficile de briser un préjugé qu’un atome. – Albert Einstein 
+* Je n’ai pas échoué. J’ai simplement trouvé 10 000 solutions qui ne fonctionnent pas. – Thomas Edison 
+* Etre génial, c’est prendre le temps de rêver, croire que tout le monde peut être différent et oser dire tout haut ses rêves les plus fous. – Philippe Brasseur 
+* L’imagination est plus importante que la connaissance. Car la connaissance est limitée, alors que l’imagination embrasse l’univers tout entier. – Albert Einstein 
+* Le succès, c’est d’aller d’échec en échec sans perdre son enthousiasme. – Winston Churchill 
+* Si vous n’échouez pas de temps à autre, c’est le signe que vous ne tentez jamais rien de vraiment novateur. – Woody Allen 
+* Tu es un génie. La question n’est pas tant de savoir “combien” tu es génial(e) mais “comment” tu l’es. – Philippe Brasseur 
  
 **Texte** (Joe Vennare) :  
 Créer, un sentiment enivrant C’est le sentiment que vous avez lorsque vous donnez vie à une idée. Il y a peu de choses plus puissantes que de créer quelque chose, surtout quand cette chose est le produit de votre propre imagination, d’une rêverie ou d’un remue-méninge. 
