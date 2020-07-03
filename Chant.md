@@ -473,3 +473,37 @@ OrdreFilBlanc: 11
 
 [Lien Youtube: Laudato Si](https://www.youtube.com/watch?v=yOVkHidnYt8)
 ---
+MDVersion: 1
+Titre: Evenou Shalom Alerem
+Type: chant
+Tags: Paix
+
+---
+
+[Lien Youtube: Evenou Shalom Alerem](https://www.youtube.com/watch?v=ywasyxl9Ywk)
+
+[R] Evenou shalom alerem ! Evenou shalom alerem !  
+Evenou shalom alerem !  
+Evenou shalom, shalom, shalom alerem !  
+
+Nous vous annonçons la paix. (ter)  
+Nous vous annonçons la paix, la paix, la paix de Jésus !  
+
+Refrain
+
+Nous vous annonçons la joie. (ter)  
+Nous vous annonçons la joie, la joie, la joie de Jésus !  
+
+Refrain  
+
+Nous vous annonçons l'amour. (ter)  
+Nous vous annonçons l'amour, l'amour, l'amour de Jésus !  
+
+Refrain  
+
+Nous vous annonçons la paix, nous vous annonçons la joie, nous vous annonçons l'amour.  
+Nous vous annonçons la paix, la joie, l'amour de Jésus !  
+  
+Refrain  
+
+---

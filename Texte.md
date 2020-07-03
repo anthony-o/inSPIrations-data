@@ -3400,4 +3400,148 @@ Je ne partirai pas seulement en voyage.
 Je deviendrai moi-même un voyage, un pèlerinage.  
 
 *Jean Debruynne*  
- ---
+---
+MDVersion: 1
+Titre: Le train de la Vie
+Type: Texte
+Tags: Choisir, Amitié, Vie
+---
+À la naissance, on monte dans le train et on rencontre nos parents.  
+Et on croit qu’ils voyageront toujours avec nous.  
+Pourtant, à une station, nos parents descendront du train, nous laissant seuls continuer le voyage…  
+Au fur et à mesure que le temps passe, d’autres personnes montent dans le train.  
+Et ils seront importants : notre fratrie, amis, enfants, même l’amour de notre vie.  
+Beaucoup démissionneront (même l’amour de notre vie) et laisseront un vide plus ou moins grand.  
+D’autres seront si discrets qu’on ne réalisera pas qu’ils ont quitté leurs sièges.   
+Ce voyage en train sera plein de joies, de peines, d’attentes, de bonjours, d’au-revoir et d’adieux.  
+Le succès est d’avoir de bonnes relations avec tous les passagers pourvu qu’on donne le meilleur de nous-mêmes.  
+On ne sait pas à quelle station nous descendrons.  
+Donc vivons heureux, aimons et pardonnons !  
+Il est important de le faire, car lorsque nous descendrons du train, nous devrions ne laisser que des beaux souvenirs à ceux qui continuent leur voyage…  
+Soyons heureux avec ce que nous avons et remercions le ciel de ce voyage fantastique.  
+Aussi, merci d’être un des passagers de mon train.  
+Et si je dois descendre à la prochaine station, je suis content d’avoir fait un bout de chemin avec vous !  
+Je veux dire à chaque personne qui lira ce texte que je vous remercie  
+d’être dans ma vie et de voyager dans mon train.»  
+
+*Jean d'Ormesson*
+---
+MDVersion: 1
+Titre: Partir le matin
+Type: Texte
+Tags: Départ
+---
+
+Partir le matin sans avoir prévu le départ.  
+Mettre dans son sac ce qui se trouve dans l’armoire de la cuisine ; un bout de pain, un morceau de fromage.  
+Et puis s’en aller, au hasard, sans rien demander au jour qui s’éveille et qui vient à nous avec sa richesse inconnue.  
+S’en aller au hasard… .  
+
+Laisser les oiseaux voltiger devant soi; ne pas effrayer le merle qui chante sur la haie; ne pas arracher l’aubépine qui nourrit les abeilles; ne pas écraser la chenille qui rampe sur le sol.   
+S’en aller au hasard, seul et silencieux à travers les vignes dont la terre lourde s’attache aux souliers; à travers les champs mouillés où la vanesse précoce cherche les premières fleurs ; le long des lisières du bois où, sous les feuilles mortes de l’an dernier, glisse l’orvet et sommeille le crapaud.  
+
+S’en aller au hasard sans avoir rien prévu.  
+Vaincre d’un bond l’obstacle de la route.  
+Dans un élan de joie, bondir par dessus la pierre.  
+Prendre pour refuge l’arbre qui se présente et pour siège, la borne du chemin.  
+
+Ne pas craindre la pluie qui ruisselle et que le vent souffle sur nos visages.  
+Ne pas craindre les grêlons qui tombent avec un bruit de perles sur la route dure et sur les feuilles.  
+Ne pas avoir peur du froid qui fait mal aux mains, ni du chaud qui rend si lourdes et si tristes les plantes assoiffées.  
+
+Etre plus fort que la souffrance,  
+Plus fort que la pauvreté,  
+Généreux comme un pommier couvert de fruits.  
+
+Apaisant comme un champ de blé mûr.  
+Se tenir parmi les hommes, comme l’église au milieu du village.  
+Chanter son chant à travers le monde comme la cloche du clocher.
+
+S’en aller au hasard, sans rien demander à la vie, si ce n’est sa beauté et son lent écoulement.  
+S’en aller au hasard… sans rien demander.  
+Mais accepter, heureux l’offrande de l’heure qui passe, heureux, heureux, le don du jour.  
+
+*Aimée Degallier-Martin (totem Lézard)*
+---
+MDVersion: 1
+Titre: Promesse des petites
+Type: Texte
+Tags: Promesse, Engagement
+---
+Tu n'es pas bien grande, 
+Tu n'es pas bien forte,
+Et la promesse que tu veux faire,
+Tu n'es pas très sûre de pouvoir la tenir...
+
+Ca ne fait rien,
+Viens quand même, et de toute ta force,
+Comme tu peux,
+Comme tu sens,
+Promets de faire tout ton possible pour servir Dieu
+Et pour servir les hommes.
+
+Servir Dieu...
+Servir les hommes...
+C'est la même chose.
+Tu ne peux pas servir Dieu sans servir les hommes.
+Quels services pourrais tu rendre à Dieu ?
+Et de quels services Dieu pourrait avoir besoin ?
+
+Mais à chaque fois que tu t'approches d'un homme pour l'aider, pour l'aimer, simplement pour échanger avec lui une poignée de main ou un regard de compréhension.
+Tu t'approches de Dieu.
+Tu agis dans son esprit
+Cet esprit de Dieu qui passe dans le monde comme un rêve et comme un appel;
+Qui secoue les hommes, qui les reveille et qui les oblige à vivre mieux, encore mieux et toujours mieux, jusqu'à ce qu'ils arrivent à cette vie simple et pure dont on peut dire: elle est parfaite.
+
+Tu n'es pas bien grande;
+Tu n'es pas bien forte;
+Et le promesse que tu veux faire,
+Tu n'es pas très sûre de povoir la tenir
+
+Ca ne fait rien, 
+Viens quand même, et de toute ta force,
+Comme tu peux, 
+comme tu sens,
+Promets de faire tout ton possible pour servir Dieu et pour servir les hommes.
+
+Ne crois pas qu'il faille faire des choses très difficiles, des exploits héroïques.
+Le service est tout petit, tout près de toi.
+Regarde ceux qui t'entourent:
+Il y en a qui sont fatigués.
+Laisse-leur du repos.
+Prépare-leur un repos.
+Il y en a qui sont malades;
+Entoure les de tes soins tranquilles.
+Ne fais pas trop de bruit.
+Il y en a qui travaillent;
+N'interrompts pas le cours de leurs pensées;
+Attends qu'ils aient achevé;
+Puis tu viendras avec ta joie et ta parole.
+
+Servir... Il y a mille façons de servir.
+Tu as la tienne et j'ai la mienne.
+Mais c'est toujours un élan vers autrui;
+un pas au devant des autres
+Et puis, il y a le service silencieux
+qui consiste à ne rien faire, à ne rien dire,
+à être pure seulement, parmi les hommes,
+pure..., sans faute et sans reproche.
+
+Reste tranquille un instant,
+Tu n'as pas besoin de parler.
+Veux-tu servir Dieu ?
+Veux tu servir les hommes ?
+
+Tu n'es pas bien grande;
+Tu n'es pas bien forte;
+Et la promesse que tu veux faire faire,
+Tu n'es pas très sûre de pouvoir la tenir...
+
+Ca ne fait rien;
+Viens quand même, et de toute ta force,
+Comme tu peux, 
+Comme tu sens,
+Avec un mot ou pas un geste,
+promets de faire tout ton possible pour servir Dieu
+Et pour servir les hommes.
+---
