@@ -120,16 +120,33 @@ OrdreFilBlanc: 1
 **Geste** : Idéalement avec un fond musical (guitare, autre). Chaque personne va prendre le temps de réfléchir à un domaine dans lequel il souhaite se dépasser (sport, musique, talent, autres). Et puis chaque son tour, les personnes vont coller le mot sur la frise. 
  
 **Texte 1** (Ralph S. Marston Jr) :  
-Dépasse toi Plus tu vises haut, plus haut tu parviendras. Pousse-toi un peu au-delà de ce que tu te sais capable de faire et tu te découvriras de nouveaux talents et de nouvelles aptitudes. S’il semble que tu ne parviennes pas à faire grande chose, c’est peut-être parce que tu ne te donnes pas assez à faire. Agrandis suffisamment tes rêves et tes ambitions pour qu’ils soient vraiment motivants. Sois sincèrement reconnaissant d’être déjà parvenu là où tu es, mais ne te repose pas sur ce que tu as déjà réalisé. Apprécie ces réalisations en les utilisant comme point de départ vers des succès encore plus importants. Tu es intelligent, adaptable, créatif, souple et efficace dans ce que tu fais. Accomplis ton destin et remplis ton but en te donnant à faire quantité de choses utiles et dignes d’intérêt. Savoure le fait de découvrir tout ce que tu es capable d’accomplir de plus. Le défi d’avancer avec succès sur des territoires nouveaux et inconnus, réjouis-t-en. Continue de te dépasser. Connais la joie et la confiance qui naissent d’une croissance toujours plus grande. 
+Dépasse toi Plus tu vises haut, plus haut tu parviendras.  
+Pousse-toi un peu au-delà de ce que tu te sais capable de faire et tu te découvriras de nouveaux talents et de nouvelles aptitudes.  S’il semble que tu ne parviennes pas à faire grande chose, c’est peut-être parce que tu ne te donnes pas assez à faire.   
+Agrandis suffisamment tes rêves et tes ambitions pour qu’ils soient vraiment motivants.  
+Sois sincèrement reconnaissant d’être déjà parvenu là où tu es, mais ne te repose pas sur ce que tu as déjà réalisé.  
+Apprécie ces réalisations en les utilisant comme point de départ vers des succès encore plus importants.  
+Tu es intelligent, adaptable, créatif, souple et efficace dans ce que tu fais.  
+Accomplis ton destin et remplis ton but en te donnant à faire quantité de choses utiles et dignes d’intérêt.  
+Savoure le fait de découvrir tout ce que tu es capable d’accomplir de plus.  
+Le défi d’avancer avec succès sur des territoires nouveaux et inconnus, réjouis-t-en. Continue de te dépasser. Connais la joie et la confiance qui naissent d’une croissance toujours plus grande.  
  
 **Texte 2** :  
-Rire... c'est risquer de paraître idiot  Pleurer... c'est risquer de paraître sentimental  Tendre la main à quelqu'un... c'est risquer de s'engager  Exposer ses sentiments... c'est risquer d'exposer son moi profond  Présenter ses idées, ses rêves à la foule... c'est risquer de les perdre  Aimer... c'est risquer de ne pas être aimé en retour  Vivre... c'est risquer de mourir  Espérer... c'est risquer de désespérer  Essayer... c'est risquer d'échouer  Mais il faut prendre des risques car le plus grand danger dans la vie, c'est de ne rien risquer du tout. 
+Rire... c'est risquer de paraître idiot  
+Pleurer... c'est risquer de paraître sentimental  
+Tendre la main à quelqu'un... c'est risquer de s'engager  
+Exposer ses sentiments... c'est risquer d'exposer son moi profond  
+Présenter ses idées, ses rêves à la foule... c'est risquer de les perdre  
+Aimer... c'est risquer de ne pas être aimé en retour  
+Vivre... c'est risquer de mourir  
+Espérer... c'est risquer de désespérer  
+Essayer... c'est risquer d'échouer  
+Mais il faut prendre des risques car le plus grand danger dans la vie, c'est de ne rien risquer du tout.  
  
-Celui qui ne risque rien ne fait rien, n'a rien, n'est rien. 
+Celui qui ne risque rien ne fait rien, n'a rien, n'est rien.  
  
-Il peut éviter la souffrance et la tristesse mais il n'apprend rien, ne ressent rien, ne peut ni changer ni se développer, ne peut ni aimer ni vivre.  Enchaîné par sa certitude, il devient esclave, il abandonne sa liberté. 
+Il peut éviter la souffrance et la tristesse mais il n'apprend rien, ne ressent rien, ne peut ni changer ni se développer, ne peut ni aimer ni vivre.  Enchaîné par sa certitude, il devient esclave, il abandonne sa liberté.  
  
-Seul l'individu qui risque est vraiment libre 
+Seul l'individu qui risque est vraiment libre  
 ---
 MDVersion: 1
 Titre: Rencontre
