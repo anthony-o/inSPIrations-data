@@ -3545,3 +3545,41 @@ Avec un mot ou pas un geste,
 promets de faire tout ton possible pour servir Dieu
 Et pour servir les hommes.
 ---
+MDVersion: 1
+Titre: Le Colibri
+Type: Texte
+Tags: Colibri, Utilité
+---
+Cela se passe dans la forêt amazonienne.  
+Dans cette forêt, l’on voit des arbres à perte de vue, mais en regardant un peu mieux, on aperçoit un arbre plus grand et plus haut que tous les autres.  
+
+Cet arbre, il a des branches qui disent : « Venez à moi, peuple des oiseaux !  
+Venez à moi, je vous accueille ».  
+
+Et tout ce petit monde piaille, joue, discute … vit en harmonie.  
+ 
+Mais un jour, arrive un grand malheur, l’arbre prend feu,  
+les oiseaux impuissants s’élèvent dans le ciel contemplant leur arbre partir en fumée.  
+
+A travers la fumée, ils distinguent un petit oiseau qui va à la rivière prendre une goutte d’eau dans son bec et la déposer sur l’arbre.  
+Il retourne à la rivière prendre une goutte d’eau dans son bec et la jette sur l’arbre  
+et retourne encore à la rivière inlassablement, prend une goutte d’eau dans son bec et la dépose sur l’arbre.  
+
+Et ce petit oiseau, c’est colibri.  
+Vous savez, ce petit oiseau multicolore avec un long bec pour sucer le nectar des fleurs.  
+
+« Mais colibri, que fais-tu ? Viens ! Cela ne sert à rien, viens rejoins-nous ! »  
+« Je fais ma part, je fais ma part, je fais ma part de travail pour éteindre le feu ! »  
+« Et vous aussi, vous aussi venez faire votre part, faire votre part ! Votre part de travail pour éteindre le feu. »  
+
+
+Les oiseaux se regardent, perplexes.  
+
+Et dans un même élan, ils s’élancent vers la rivière, prennent une goutte d’eau dans leur bec et la dépose sur l’arbre,  
+puis retournent à la rivière prendre une goutte d’eau dans leur bec et la jettent sur l’arbre et retournent encore à la rivière,  
+inlassablement prennent une goutte d’eau dans leur bec et la dépose sur l’arbre.   
+
+Et ces millions de gouttes d’eau forment une pluie si fine et si dense que le feu finit par s’éteindre.  
+
+Depuis ce jour, l’arbre reverdit, l’harmonie est revenue en son sein et chacun a gardé en mémoire qu’il doit faire sa part.  
+---

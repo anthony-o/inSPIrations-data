@@ -155,7 +155,7 @@ CodeFilBlanc: Enrichissement CAP
 Modèle: document-simple
 Tags: Rencontre
 Tranches d'âges: 14-17
-OrdreFilBlanc: 1
+OrdreFilBlanc: 4
 ---
 **Geste** : Idéalement avec un fond musical (guitare, autre). Un merci, Un pardon, un s’il te plait. Les personnes se mettent deux par deux, un peu éloignés des autres groupes. Chaque binôme se dise un Merci (merci pour quelque chose que l’autre à fait par exemple). Puis on tourne changent les binômes, ils se disent un pardon, on tourne les binômes, et ils se disent un s’il te plait. Geste : Ils marquent le nom d’une personne qu’ils ont rencontré dans leur vie et qui les a marqués. Puis ils vont les coller sur la frise. 
  
@@ -164,4 +164,50 @@ OrdreFilBlanc: 1
 Je vis quelque chose au loin et je crus que c'était un animal. Je m'approchai et m'aperçus que c'était un homme. Je m'approchai encore et je compris que c'était mon frère. Notre terre est malmenée, je souhaite agir aujourd'hui pour demain. Je refuse de penser les inégalités comme des fatalités, je veux construire la paix sur la justice et le refus de toute violence. Héritier de liberté, je veux tracer ma propre route, poussé par la force de mes rêves. Je veux faire des choix qui m'impliquent et me risquer à la réalité du quotidien. Partir à la rencontre. Entrer en relation. C’est d’abord apprendre à se quitter soi-même C’est aussi sortir de sa forteresse. Ce n’est pas se mettre en avant, C’est laisser l’autre s’avancer. C’est apprendre à donner mais aussi à recevoir. 
  
 **Texte 2** (Tahar Ben Jelloun) :  Chaque visage est un miracle Un enfant noir, à la peau noir, aux yeux noirs, Aux cheveux crépus ou frisés, est un enfant. Un enfant blanc, à la peau rose, Aux yeux bleus ou verts, Aux cheveux blonds ou raides, est un enfant. L’un et l’autre, le noir et le blanc, Ont le même sourire quand une main leur caresse le visage. Quand on les regarde avec amour et leur parle avec tendresse. Ils verseront les mêmes larmes si on les contrarie, si on leur fait du mal. Il n’existe pas deux visages absolument identiques. Chaque visage est un miracle, parce qu’il est unique. Deux visages peuvent se ressembler, Ils ne seront jamais tout à fait les mêmes. Vivre ensemble est une aventure où l’amour, L’amitié est une belle rencontre avec ce qui n’est pas moi, Avec ce qui est toujours différent de moi et qui m’enrichit. 
+---
+MDVersion: 1
+Titre: Utilité
+Type: TempsSpi
+CodeFilBlanc: Enrichissement CAP
+Modèle: document-simple
+Tags: Utilité
+Tranches d'âges: 14-17
+OrdreFilBlanc: 5
+---
+**Texte**
+Cela se passe dans la forêt amazonienne.
+Dans cette forêt, l’on voit des arbres à perte de vue, mais en regardant un peu mieux, on aperçoit un arbre plus grand et plus haut que tous les autres.
+
+Cet arbre, il a des branches qui disent : « Venez à moi, peuple des oiseaux !
+Venez à moi, je vous accueille ».
+
+Et tout ce petit monde piaille, joue, discute … vit en harmonie.
+
+Mais un jour, arrive un grand malheur, l’arbre prend feu,
+les oiseaux impuissants s’élèvent dans le ciel contemplant leur arbre partir en fumée.
+
+A travers la fumée, ils distinguent un petit oiseau qui va à la rivière prendre une goutte d’eau dans son bec et la déposer sur l’arbre.
+Il retourne à la rivière prendre une goutte d’eau dans son bec et la jette sur l’arbre
+et retourne encore à la rivière inlassablement, prend une goutte d’eau dans son bec et la dépose sur l’arbre.
+
+Et ce petit oiseau, c’est colibri.
+Vous savez, ce petit oiseau multicolore avec un long bec pour sucer le nectar des fleurs.
+
+« Mais colibri, que fais-tu ? Viens ! Cela ne sert à rien, viens rejoins-nous ! »
+« Je fais ma part, je fais ma part, je fais ma part de travail pour éteindre le feu ! »
+« Et vous aussi, vous aussi venez faire votre part, faire votre part ! Votre part de travail pour éteindre le feu. »
+
+
+Les oiseaux se regardent, perplexes.
+
+Et dans un même élan, ils s’élancent vers la rivière, prennent une goutte d’eau dans leur bec et la dépose sur l’arbre,
+puis retournent à la rivière prendre une goutte d’eau dans leur bec et la jettent sur l’arbre et retournent encore à la rivière,
+inlassablement prennent une goutte d’eau dans leur bec et la dépose sur l’arbre.
+
+Et ces millions de gouttes d’eau forment une pluie si fine et si dense que le feu finit par s’éteindre.
+
+Depuis ce jour, l’arbre reverdit, l’harmonie est revenue en son sein et chacun a gardé en mémoire qu’il doit faire sa part.
+
+**Geste** 
+Chacun ajoutera une pierre dans un recipient pour symboliser le poid et la capaicité à agir du collectif
 ---
