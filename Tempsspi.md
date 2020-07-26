@@ -1138,3 +1138,4 @@ La parole :  texte : « Jésus parlait à la foule à l’aide de ses paraboles.
 Ensuite chacun écrit pendant le camp, un souvenir inoubliable de ce camp pour lui qui représente son trésor. >> à la fin du camp on fait une affiche avec tous ces petits souvenirs pour marquer le camp
 
 *Temps proposé par Gabrielle et son équipe*
+---

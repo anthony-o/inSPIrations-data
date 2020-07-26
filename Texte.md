@@ -2313,24 +2313,6 @@ Oh ! oui, je le veux bien.
 *Aimée Degallier-Martin (totem Lézard) *
 ---
 MDVersion: 1
-Titre: Risquer
-Type: Texte
-Tags: Oser, Courage
----
-Rire, c'est risquer d'avoir l'air ridicule.   
-Pleurer, c'est risquer de paraître sentimental.  
-Vouloir rejoindre l'autre, c'est prendre le risque de s'impliquer.  
-Exprimer ses sentiments, c'est risquer de révéler sa véritable façon d'être, d'affirmer à la face du monde ses idées et ses rêves, c'est risquer de perdre.  
-Aimer, c'est prendre le risque de ne pas être aimé en retour.  
-Vivre, c'est risquer de mourir.  
-Espérer, c'est risquer le désespoir.  
-Essayer, c'est risquer d'échouer.  
-Mais on se doit de risquer parce que la plus sérieuse menace à la vie elle-même se trouve dans l'absence du risque...
-<br><br>
-
-<i>Anonyme</i>
----
-MDVersion: 1
 Titre: Prière de St François d'Assise
 Type: Texte
 Tags: Prière, Servir, Paix
@@ -3582,4 +3564,88 @@ inlassablement prennent une goutte d’eau dans leur bec et la dépose sur l’a
 Et ces millions de gouttes d’eau forment une pluie si fine et si dense que le feu finit par s’éteindre.  
 
 Depuis ce jour, l’arbre reverdit, l’harmonie est revenue en son sein et chacun a gardé en mémoire qu’il doit faire sa part.  
+---
+MDVersion: 1
+Titre: Toi qui m'aimes comme je suis
+Type: Texte
+Tags: Prière, Aimer, S'aimer
+---
+Seigneur, réconcilie-moi avec moi-même.   
+Comment pourrais-je rencontrer et aimer les autres   
+Si je ne me rencontre et ne m’aime plus.  
+
+Seigneur, Toi qui m’aimes tel que je suis  
+Et non tel que je me rêve,  
+Aide-moi à accepter ma condition d’homme  
+Limité mais appelé à se dépasser.  
+
+Apprends-moi à vivre  
+avec mes ombres et mes lumières,  
+mes douceurs et mes colères,  
+mes rires et mes larmes,  
+mon passé et mon présent.  
+
+Donne-moi de m’accueillir comme Tu m’accueilles,  
+de m’aimer comme Tu m’aimes.  
+Délivre-moi de la perfection que Tu veux me donner,  
+ouvre-moi à la sainteté que Tu veux m’accorder.  
+
+Epargne-moi le remords de Judas  
+rentrant en lui-même pour n’en plus sortir,  
+épouvanté et désespéré par son péché.  
+
+Accorde-moi le repentir de Pierre,  
+rencontrant le silence de ton regard  
+plein de tendresse et de pitié.  
+
+Et si je dois pleurer,  
+que ce ne soit pas sur moi-même  
+mais sur ton Amour offensé.  
+
+Seigneur, Tu connais le désespoir qui ronge mon coeur.  
+Le dégoût de moi-même,  
+je le projette sans cesse sur les autres !  
+
+Que ta tendresse me fasse exister à mes propres yeux !  
+Je voudrais tellement déverrouiller la porte de ma prison  
+dont je serre moi-même la clef!  
+
+Donne-moi le courage de sortir de moi-même.  
+Dis-moi que tout est possible à celui qui croit.  
+Dis-moi si je peux encore guérir  
+dans la lumière de ton regard et de ta Parole.  
+
+*Michel Hubaut*
+---
+MDVersion: 1
+Titre: Le train de la Vie
+Type: Texte
+Tags: Vivre
+---
+À la naissance, on monte dans le train et on rencontre nos parents.  
+Et on croit qu’ils voyageront toujours avec nous.  
+Pourtant, à une station, nos parents descendront du train,  
+nous laissant seuls continuer le voyage…  
+Au fur et à mesure que le temps passe, d’autres personnes montent dans le train.  
+Et ils seront importants : notre fratrie, amis, enfants, même l’amour de notre vie.  
+Beaucoup démissionneront (même l’amour de notre vie) et laisseront un vide  
+plus ou moins grand.  
+D’autres seront si discrets qu’on ne réalisera pas qu’ils ont quitté leurs sièges.  
+Ce voyage en train sera plein de joies, de peines, d’attentes, de bonjours,  
+d’au-revoir et d’adieux.  
+Le succès est d’avoir de bonnes relations avec tous les passagers  
+pourvu qu’on donne le meilleur de nous-mêmes.  
+On ne sait pas à quelle station nous descendrons.  
+Donc vivons heureux, aimons et pardonnons !  
+Il est important de le faire, car lorsque nous descendrons du train,  
+nous devrions ne laisser que des beaux souvenirs à ceux qui continuent leur voyage…  
+Soyons heureux avec ce que nous avons et remercions le ciel  
+de ce voyage fantastique.  
+Aussi, merci d’être un des passagers de mon train.  
+Et si je dois descendre à la prochaine station, je suis content d’avoir fait  
+un bout de chemin avec vous !  
+Je veux dire à chaque personne qui lira ce texte que je vous remercie  
+d’être dans ma vie et de voyager dans mon train.»  
+
+*Jean d'Ormesson*
 ---
