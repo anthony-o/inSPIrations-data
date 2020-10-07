@@ -1149,13 +1149,14 @@ Tranches d'âges: 8-11,11-14,14-17,17-18
 ---
 chacun est reconnu pour ce qu’il apporte
 
-**Accueil :** 
+**Accueil :**  
 On demande à chacun de réfléchir intérieurement à ce qu’il peut apporter à l’unité , à une de ses qualités.
 
-**Jeu de la corde :**
+**Jeu de la corde :**  
 On se met en unité assis en rond on met une corde en rond qui passe aux pieds de chacun . A chaque fois que quelqu’un annonce sa qualité ou ce qu’il va amener à l’unité il attrape la corde. Quand tous les participants tiennent la corde On demande à chacun d’énoncer la qualité , ce qu’il va apporter à l’unité . Le jeu s’arrête quand tous les participants tiennent la corde
 
-**Texte de Saint Paul** 1 cor 12/14-27
+**Texte de Saint Paul**  
+1 cor 12/14-27
 
 Le corps ne se compose pas d'une seule partie, mais de plusieurs.  
 Si le pied disait: "Je ne suis pas une main, donc je n'appartiens pas au corps", il ne cesserait pas pour autant d'être une partie du corps.  
@@ -1172,17 +1173,17 @@ Si une partie du corps souffre, toutes les autres souffrent avec elle; si une pa
 Or, vous êtes le corps du Christ, et chacun de vous est une partie de ce corps.  
 Chant : Des couleurs sur mon chemin couplets 1 et 2 . .  
 
-**Jeu de la pile** 
+**Jeu de la pile**  
 Chaque participant a une “pile” sur la tête (un Kapla, un légo ou tout objet rectangulaire et léger). Cette pile nous fournit de l’énergie : si la pile tombe, on ne peut plus bouger. Seul un autre joueur pourra nous aider en ramassant la pile par terre et en nous la remettant sur la tête. Tout la difficulté consiste à ramasser la “pile” de l’autre sans faire tomber la nôtre. Si c’est le cas, un troisième joueur devra venir à notre rescousse. Le jeu se déroule en équipes de couleurs mélangées l’objectif est de faire traverser une distance à toute l’équipe. Le jeu s’arrête quand la première équipe a traversé ou qu’il n’y a plus qu’il n’y a plus de joueurs en mouvement  
 Une petite explication sur ce que le jeu a pu montrer. (L’esprit de compétition, l’envie de gagner, l’oubli de l’objectif principal…)
 
 **Texte: Tous les membres d’une même famille (Baden Powell)**
-
 À l’école, on nous encourage à prendre la tête de notre classe, à gagner des prix, des bourses scolaires, entrant ainsi en compétition avec les autres. Nous prenons l’habitude de rechercher ce que nous pouvons obtenir pour nous-mêmes. Il est temps d’acquérir l’habitude de voir ce que nous pouvons donner aux autres. À la génération qui est en train de se former, nous pouvons apprendre la grande vérité : que nous sommes tous membres de la même famille, la famille humaine. Par conséquent, lorsque des différends s’élèvent entre nous, nous devons les résoudre d’une façon positive, non pas comme autrefois par un appel aux armes.
 
 **Notre père**
 
 **Prière scoute**
 
-**Chant : Des couleurs sur mon chemin  couplet 3 et 4**
---
+**Chant:** Des couleurs sur mon chemin  couplet 3 et 4
+
+---
