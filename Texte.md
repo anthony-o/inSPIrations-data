@@ -3649,3 +3649,21 @@ d’être dans ma vie et de voyager dans mon train.»
 
 *Jean d'Ormesson*
 ---
+MDVersion: 1
+Titre: Ce n'est pas un fardeau
+Type: Texte
+Tags: Fraternité, Solidarité
+---
+Sur un sentier raide et pierreux
+J’ai rencontré une petite fille qui portait sur le dos son jeune frère.
+« Mon enfant, lui ai-je dit : tu portes un lourd fardeau ».
+Elle me regarde et dit :
+« Ce n’est pas un fardeau, monsieur, c’est mon frère ».
+Je restais interdit.
+Le mot de cette enfant courageuse s’est gravé dans mon cœur.
+Et quand la peine des hommes m’accable
+Et que tout le courage me quitte,
+Le mot de l’enfant me rappelle :
+Ce n’est pas un fardeau que tu portes,
+C’est ton frère…
+---
