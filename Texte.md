@@ -3691,4 +3691,6 @@ Car elle dit aussi de qui tu reçois ce désir de servir :
 De Celui qui a donné sa vie pour ses amis sur une croix.
 C'est le Christ qui t'envoie vers tes frères pour les servir.
 C'est Lui ta Force !
+
+*proposé par Lion*
 ---
