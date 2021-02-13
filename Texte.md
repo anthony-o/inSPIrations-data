@@ -3672,24 +3672,24 @@ Titre: L'insigne que tu portes sur la poitrine
 Type: Texte
 Tags: Promesse, Engagement
 ---
-L'insigne que tu portes sur la poitrine,
-Ne te donne pas le droit de te vanter.
-Il te rappelle seulement qui tu es,
-Et le rappelle aussi aux autres.
-Ne t'étonne pas si ils comptent sur toi,
-Ne t'étonne pas si ils attendent beaucoup de toi.
-Cette croix sur ton cœur, leur dit que tu as promis,
-De servir de ton mieux, d'observer la loi scouts,
-Et d'aider ton prochain en toute circonstance.
-Ils savent aussi, que ce n'est pas facile,
-Que souvent on oublie ses promesses ...
-Mais celle-ci tu la portes sur toi.
-Et tu la portes au regard de tous.
-Elle t'engage envers eux.
-Tu as raison de la porter cette croix.
-Car elle dit aussi de qui tu reçois ce désir de servir :
-De Celui qui a donné sa vie pour ses amis sur une croix.
-C'est le Christ qui t'envoie vers tes frères pour les servir.
+L'insigne que tu portes sur la poitrine,  
+Ne te donne pas le droit de te vanter.  
+Il te rappelle seulement qui tu es,  
+Et le rappelle aussi aux autres.  
+Ne t'étonne pas si ils comptent sur toi,  
+Ne t'étonne pas si ils attendent beaucoup de toi.  
+Cette croix sur ton cœur, leur dit que tu as promis,  
+De servir de ton mieux, d'observer la loi scouts,  
+Et d'aider ton prochain en toute circonstance.  
+Ils savent aussi, que ce n'est pas facile,  
+Que souvent on oublie ses promesses ...  
+Mais celle-ci tu la portes sur toi.  
+Et tu la portes au regard de tous.  
+Elle t'engage envers eux.  
+Tu as raison de la porter cette croix.  
+Car elle dit aussi de qui tu reçois ce désir de servir :  
+De Celui qui a donné sa vie pour ses amis sur une croix.  
+C'est le Christ qui t'envoie vers tes frères pour les servir.  
 C'est Lui ta Force !
 
 *proposé par Lion*
