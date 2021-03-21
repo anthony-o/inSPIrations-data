@@ -507,3 +507,80 @@ Nous vous annonçons la paix, la joie, l'amour de Jésus !
 Refrain  
 
 ---
+MDVersion: 1
+Titre: Regarde l'étoile
+Type: chant
+Tags: Espérance, Confiance
+---
+
+[Lien Youtube: Regarde l'étoile](https://www.youtube.com/watch?v=hPxXlHu0H2E)
+
+Si le vent des tentations s'élève  
+Si tu heurtes le rocher des épreuves  
+Si les flots de l'ambition t'entraînent  
+Si l'orage des passions se déchaîne  
+
+Regarde l'étoile  
+Invoque Marie  
+Si tu la suis, tu ne crains rien  
+
+Regarde l'étoile  
+Invoque Marie  
+Elle te conduit sur le chemin  
+
+Quand l'angoisse et les périls, le doute  
+Quand la nuit du désespoir te recouvre  
+Si devant la gravité de tes fautes  
+La pensée du jugement te tourmente 
+
+Regarde l'étoile  
+Invoque Marie  
+Si tu la suis, tu ne crains rien  
+
+Regarde l'étoile  
+Invoque Marie  
+Elle te conduit sur le chemin  
+
+Si ton âme est envahie de colère  
+Jalousie et trahison te submergent  
+Si ton cœur est englouti dans le gouffre  
+Emporté par les courants de tristesse  
+
+Regarde l'étoile  
+Invoque Marie  
+Si tu la suis, tu ne crains rien  
+Regarde l'étoile…  
+  
+℗ 2012 Il est vivant - Editions de l'Emmanuel  
+---
+MDVersion: 1
+Titre: Que bondisse mon coeur plein de joie
+Type: chant
+Tags: Joie
+---
+
+[Lien Youtube: Que bondisse mon coeur plein de joie](https://www.youtube.com/watch?v=Teq7YKT654g&ab_channel=BenoitROUX)
+
+Le Seigneur a fait pour moi des merveilles  
+Il libère son peuple à tout jamais  
+Que bondisse mon cœur plein de joie  
+Et qu'il chante le Seigneur.  
+
+1  
+Le Seigneur a fait en moi de grandes choses  
+Il regarde sa petite servante  
+Tous les hommes me diront bienheureuse.  
+2  
+Il repousse les hommes trop fiers  
+Quant aux riches il les renvoie les mains vides  
+Il chasse les puissants de la terre.  
+3  
+Il regarde avec amour les petits  
+Il nourrit tous ceux qui ont faim  
+Et les pauvres deviennent ses préférés.  
+4  
+Il protège son peuple choisi  
+Il tient envers lui ses promesses  
+Son amour s'étend d'âge en âge.  
+---
+

@@ -1613,6 +1613,9 @@ Titre: Les gros cailloux de la vie
 Type: Texte
 Tags: Sens, Essentiel
 ---
+
+[Lien Youtube: Les gros cailloux de la vie en vidéo](https://www.youtube.com/watch?v=2n7Y9Bc6mGw&ab_channel=HamidFathi)
+
 Un jour, un vieux professeur de l'École nationale d'administration publique (ENAP) fut engagé pour donner une formation sur la planification efficace de son temps à un groupe d'une quinzaine de dirigeants de grosses compagnies nord-américaines. Ce cours constituait l'un des cinq ateliers de leur journée de formation. Le vieux prof n'avait donc qu'une heure pour "passer sa matière ".  
 
 Debout, devant ce groupe d'élite (qui était prêt à noter tout ce que l'expert allait enseigner), le vieux prof les regarda un par un, lentement, puis leur dit : "Nous allons réaliser une expérience". De dessous la table qui le séparait de ses élèves, le vieux prof sortit un immense pot Mason d'un gallon (pot de verre de plus de 4 litres) qu'il posa délicatement en face de lui. Ensuite, il sortit environ une douzaine de cailloux a peu près gros comme des balles de tennis et les plaça délicatement, un par un, dans le grand pot.

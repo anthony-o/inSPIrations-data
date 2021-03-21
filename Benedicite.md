@@ -228,5 +228,37 @@ Merci Seigneur pour toute joie
 A tous bon appétit
 
 [Un ami à droite, un ami à gauche](https://www.youtube.com/watch?v=BGJMGDCxPyY&index=3&list=PLVB2dphYKAKsDlaYLzfMSeNHpLiy1k_PK)
+---
+MDVersion: 1
+Titre: Seigneur bénis ce repas
+Type: benedicite
+---
+Seigneur bénis ce repas et ceux qui l'ont préparé  
+Nous sommes tous dans la joie d'être aujourd'hui rassemblés  
+Offrons à ceux qui ont faim et sont démunis  
+Du pain, du feu, une lueur dans la nuit  
 
+[Seigneur bénis ce repas](https://www.youtube.com/watch?v=1BXeOV-RqPE&ab_channel=BenoitROUX)
+---
+MDVersion: 1
+Titre: Compagnons partageons ce pain
+Type: benedicite
+---
+Compagnons, partageons ce pain,  
+Donnons-en à ceux qui ont faim,  
+Que Dieu bénisse ce repas,  
+Compagnons, compagnons  
 
+[Seigneur bénis ce repas](https://www.youtube.com/watch?v=5F3bBAfbJjQ&ab_channel=BenoitROUX)
+---
+MDVersion: 1
+Titre: Ô Seigneur, bénissez ce repas que nous prenons dans la joie
+Type: benedicite
+---
+"Ô Seigneur, bénissez ce repas que nous prenons dans la joie,  
+Quel bonheur d'être ainsi rassemblés tous ensemble pour chanter !  
+Bon appétit, à tous mes chers amis !  
+Ne gaspillons rien, partageons nos biens, tous unis, main dans la main"  
+
+[Seigneur bénis ce repas](https://www.youtube.com/watch?v=wnBpzuNfeyw&ab_channel=BenoitROUX)
+---
