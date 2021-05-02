@@ -3697,3 +3697,30 @@ C'est Lui ta Force !
 
 *proposé par Lion*
 ---
+MDVersion: 1
+Titre: Con-tri-buer
+Type: Texte
+Tags: Humanité
+---
+« Quand nous avons cessé d'être des tribus, l'unité s'est fissurée. Nous pensions que le couple, ou le noyau familial, suffirait, tandis que les amis et les cercles d'appartenance nous ont donné les miettes d'une coexistence éphémère.
+
+La tribu est bien plus que des amis et des frères de sang. La tribu est l'appartenance spirituelle à une fraternité qui soutient et nous invite à soutenir. La tribu est l'endroit où les rôles naturels sont partagés, échangés et interagissent.
+
+Aujourd'hui, les mères allaitent seules sans le groupe de soutien. Les enfants ont des frères qui sont toujours les mêmes, ceux du sang, et les frères spirituels qui sont nombreux devraient jouer ensemble, co-créer. Nous nous sommes séparés dans de petites propriétés privées, courant d'un côté à l'autre pour rechercher la subsistance du noyau familial.
+
+Le plus naturel est de se regrouper et pendant que certains plantent, d'autres éduquent, d'autres construisent, certains cuisinent, et au bon moment on se réunit pour manger, célébrer, continuer à être tribu.
+
+L'amour que l'on recherche tant, en plus de l'amour pour soi qui se cultive, n'est pas celui d'un partenaire, des enfants, de la famille, mais en n'ayant pas de tribu pour pratiquer l'amour sous ses facettes infinies, on surcharge l'idée que le couple, les enfants et la famille nous donneront la terre pour canaliser l'amour.
+
+Sans tribu, c'est comme un corps humain démembré essayant de fonctionner, chaque membre séparément.
+
+Nous devons retourner dans les tribus où les grands-parents sont dignes et nous sommes tous des oncles. Le commerce, la propriété privée et l'individualisme nous ont arrachés comme des branches du tronc qui nous unit.
+
+Dans la tribu, tous les cadeaux sont les bienvenus, et la rotation des rôles ne crée ni ennui ni saturation. Dans les tribus, il y a tellement de frères et sœurs que le partage est très riche et les modèles s'alternent.
+
+Maintenant, le vieillissement entre amis commence à être utilisé, et ça c'est apprécier la tribu. Nous pouvons commencer plus tôt et offrir aux enfants un environnement sain où le partage est naturel et où il existe de nombreuses références à apprendre.
+
+La tribu : c'est pour créer l'amour. »
+
+*Par Laura Losada*
+---
