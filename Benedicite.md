@@ -249,7 +249,7 @@ Donnons-en à ceux qui ont faim,
 Que Dieu bénisse ce repas,  
 Compagnons, compagnons  
 
-[Seigneur bénis ce repas](https://www.youtube.com/watch?v=5F3bBAfbJjQ&ab_channel=BenoitROUX)
+[Compagnons partageons ce pain](https://www.youtube.com/watch?v=5F3bBAfbJjQ&ab_channel=BenoitROUX)
 ---
 MDVersion: 1
 Titre: Ô Seigneur, bénissez ce repas que nous prenons dans la joie
@@ -260,5 +260,31 @@ Quel bonheur d'être ainsi rassemblés tous ensemble pour chanter !
 Bon appétit, à tous mes chers amis !  
 Ne gaspillons rien, partageons nos biens, tous unis, main dans la main"  
 
-[Seigneur bénis ce repas](https://www.youtube.com/watch?v=wnBpzuNfeyw&ab_channel=BenoitROUX)
+[Ô Seigneur, bénissez ce repas](https://www.youtube.com/watch?v=wnBpzuNfeyw&ab_channel=BenoitROUX)
+---
+MDVersion: 1
+Titre: Ô Seigneur, nous voici tous rassemblés
+Type: benedicite
+---
+sur l'air de « elle descend de la montagne à cheval »  
+
+« Ô Seigneur, nous voici tous rassemblés !  
+Bénis ce repas que nous allons manger !  
+Apprends-nous à partager le bon pain dans l'amitié !  
+Merci et bravo à tous les cuisiniers ! »  
+
+[Première partie de la vidéo](https://www.youtube.com/watch?v=1aBLl-O7mP4)
+---
+MDVersion: 1
+Titre: Midi sonne ! Midi sonne !
+Type: benedicite
+---
+le second sur l'air de « Frère Jacques »  
+
+« Midi sonne ! Midi sonne !  
+Tous à table ! Tous à table !  
+Bénissez, Ô Seigneur ! Bénissez, Ô Seigneur,  
+Ce repas ! Ce repas ! »
+
+[2nde partie de la vidéo](https://www.youtube.com/watch?v=1aBLl-O7mP4)
 ---

@@ -3724,3 +3724,37 @@ La tribu : c'est pour créer l'amour. »
 
 *Par Laura Losada*
 ---
+MDVersion: 1
+Titre: Prière de l'équipe
+Type: Texte
+Tags: Prière, Equipe
+---
+
+Seigneur,  
+  
+j’ai compris que seul, je n’y arriverai jamais ...  
+Et tu me donnes la chance de vivre dans une équipe.  
+Fais que les autres acceptent la lenteur de mon cheminement.  
+  
+Mais fais aussi que j’accepte, avec patience, le cheminement des autres.  
+Rends-moi assez humble pour donner aux autres la permission de m’aider  
+et assez ouvert pour que les autres trouvent en moi une aide remarquable.  
+  
+Remplis-moi de ton esprit afin que, dans le quotidien de nos vies et celles de mes frères,  
+nous découvrions tes appels à un engagement qui libère l’Homme.  
+  
+Rends-nous accueillant à ta Parole. Une parole qui interroge et qui remets en question, 
+mais une Parole aussi qui conduit à la vraie liberté.  
+  
+Donne-nous de nous aimer ensemble jusqu’au bout,  
+sans avoir de mauvaise indulgence les uns pour les autres.  
+  
+Et quand l’équipe sera en difficulté,  
+je devrai d’abord m’interroger et oser regarder lucidement ma participation.  
+  
+Enfin Seigneur ; aide-nous à découvrir le seul motif, fort, durable,  
+  
+qui nous dépasse toujours et qui puisse nous rassembler celui de ta présence parmi nous.  
+
+*Guides catholiques de Belgique*
+---
