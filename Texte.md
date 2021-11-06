@@ -3758,3 +3758,31 @@ qui nous dépasse toujours et qui puisse nous rassembler celui de ta présence p
 
 *Guides catholiques de Belgique*
 ---
+MDVersion: 1
+Titre: Que lui demanderais-je  ?  
+Type: Texte
+Tags: Sens, Volonté
+---
+Je médite sur l'ordre de l'univers, non pour l'expliquer par de vains systèmes, mais pour l'admirer sans cesse, pour adorer le sage auteur qui s'y fait sentir.  
+Je converse avec lui, je pénètre toutes mes facultés de sa divine essence ;  
+je m'attendris à ses bienfaits, je le bénis de ses dons ;  
+mais je ne le prie pas ;  
+que lui demanderais-je  ?  
+Qu'il change pour moi le cours des choses, qu'il fît des miracles en ma faveur ?  
+Moi qui dois aimer par-dessus tout l'ordre établi par sa sagesse et maintenu par sa providence, voudrais-je que cet ordre fût troublé par moi ?  
+Non, ce voeu téméraire mériterait d'être plutôt puni qu'exaucé.  
+Je ne lui demande pas non plus le pouvoir de bien faire ;  
+pourquoi lui demander ce qu'il m'a donné  ?  
+Ne m'a-t-il pas donné la conscience pour aimer le bien, la raison pour le connaître, la liberté pour le choisir  ? 
+Si je fais le mal, je n'ai point d'excuse ;  
+je le fais parce que je le veux ;  
+lui demander de changer ma volonté, c'est lui demander ce qu'il me demande ;  
+c'est vouloir qu'il fasse mon oeuvre et que j'en recueille le salaire ;  
+n'être pas content de mon état, c'est ne vouloir plus être homme, c'est vouloir autre chose que ce qui est, c'est vouloir le désordre et le mal.  
+Source de justice et de vérité, Dieu clément et bon !  
+dans ma confiance en toi, le suprême voeu de mon coeur est que ta volonté soit faite.  
+En y joignant la mienne, je fais ce que tu fais, j'acquiesce à ta bonté ;  
+je crois partager d'avance la suprême félicité qui en est le prix. 
+
+*Rousseau, Émile, IV, (1762)*
+---
