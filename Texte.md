@@ -3786,3 +3786,28 @@ je crois partager d'avance la suprême félicité qui en est le prix.
 
 *Rousseau, Émile, IV, (1762)*
 ---
+MDVersion: 1
+Titre: Tu as voyagé
+Type: Texte
+Tags: Sens, Essentiel
+---
+Voilà.
+C’est presque fini. Tu as voyagé, tu as peut-être vu l’océan, immense, plus profond encore que le ciel ;  
+tu as peut-être rencontré ces forêts millénaires, où les légendes se perdent en brises fraîche. Peut-être as-tu franchi une montagne, ou croisé la course folle d’un torrent.  
+Tu as voyagé, tu connais la fatigue et le repos, la nostalgie et l’espoir.  
+  
+Tu sais que nul n’est pareil, car tu as vu des milliers de sourires différents sur des milliers de visages, tu as vu des mains tendues, des pieds nus dans la boues et des enfants qui jouent. Tu as appris qu’un rire n’a pas de frontière et un chant pas d’appartenance. Tu t’es offert toi-même à ceux que tu as rencontré sur ta route, à ces rencontre fortuites, à ces épris de liberté.  
+Tu sais maintenant que le monde est immense, démesurément, incroyablement vaste, puisque chacun d’entre nous porte un monde au fond du cœur. Tu as découvert que ce que tu pensais vrai ne l’était pas toujours, et tu as découvert qu’il y avait trop de façons de vivre pour toutes les comprendre.  
+Mais tu as compris que cet univers est fait d’humains, est que chaque humain recèle en lui une part d’amour et de liberté, une soif de connaître et de chanter, et, quelque soit sa condition, l’insatiable désir d’être heureux.  
+  
+Tu as voyagé, tu es plus riche que jamais ; mais il est temps de rentrer.  
+  
+Une partie de ton cœur se réjouis, tu vas retrouver ta terre, ta maison, tes affaires, tu vas retrouver ta famille, l’odeur familière des lieux quotidiens ; tu rentre chez toi, et rentrer chez sois réchauffe le cœur, c’est bien normal, c’est humain.  
+Pourtant, tu te sens triste. Tu as l’impression d’abandonner quelque chose derrière toi. Mais ne pleure pas. Tu vas retrouver le monde qui est le tient, mais tu ne vas pas oublier celui que tu as découvert.  
+N’oublie pas ce qui sera alors lointain, les océans, les forêts ou les montagnes, et n’oublie surtout pas les gens, les rencontres, les rires et les larmes. N’oublie pas de rêver.  
+Ramène avec toi un peu de cet ailleurs, avec douceur, répand autour de toi, comme une lumière, ce que la vie t’a offert. Fais toi un devoir de sourire. Souris en pensant à tous ceux que tu as croisé. Souris en pensant à tous ceux que tu as aidé.  Souris en pensant que tu as changé quelque chose, ne serais-ce qu’en toi, et que ce quelque chose fait une différence immense.  
+  
+Souris, enfin, parce que les voyages ne s’arrêtent jamais, on les ramène avec soi comme des trésors inestimables.  
+  
+*Isabelle Lozach*  
+---
