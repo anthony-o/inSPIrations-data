@@ -3836,5 +3836,5 @@ Et je veux Te dire Merci Seigneur par avance,
 car je sais que je reviendrais de ce camp, ou de cette rencontre plus fort, différent, grandit, et prêt à repartir vers un autre chemin pour de nouvelles aventures.  
 Merci Seigneur pour ces camps scouts et ces rencontres scoutes à venir et toutes ces lumières de la paix qui baliseront nos routes.   
   
-*Bruno, Cléophas Toulouse Nord*   
+*Chef Scout de  Toulouse Nord*   
 ---
