@@ -3811,3 +3811,30 @@ Souris, enfin, parce que les voyages ne s’arrêtent jamais, on les ramène ave
   
 *Isabelle Lozach*  
 ---
+MDVersion: 1
+Titre: Prière pour l'Epiphanie
+Type: Texte
+Tags: Prière
+---
+Seigneur Jésus,  
+je suis un peu comme l'un de ces rois mages qui a vu briller une étoile de la paix dans le ciel de Bethleem.  
+Comme eux, quelque chose me fait sortir de chez moi.  
+Dans mon engagement scout, quelque chose m'attire, .... sans doute, pour mieux aller à Ta rencontre.  
+J'aurais pu rester chez moi, j'avais prévu tout autre chose, et je ne suis pas sûr de ce que je vais y trouver.... et pourtant j'ai bien envie de venir Te retrouver!  
+Je me dis que comme les rois mages quelque chose de plus fort que moi me pousse à venir à ce camp scout, ou cette rencontre scoute, comme si je répondais à un appel, comme une certitude de retrouver des amis riches de bonheur et de vie, toujours prêt à être agréablement surpris ou surprise.  
+Je suis un peu comme ce roi mage dans l'attente de camps, avec des envies.  
+Non pas pour y rencontrer un futur roi, mais tout simplement des gens ou des enfants supers sympas.  
+Comme les rois mages j'ai de quoi me réjouir de cette rencontre future.  
+Je me sais heureux/heureuse de retrouver mon équipe, mon groupe, mon unité: il y aura forcément du bonheur en récompense,  
+  
+Seigneur Jésus,  
+j'espère aussi avoir le même courage et la même humilité que ces rois mages qui n'hésitent pas à s'effacer devant ce nouveau-né inconnu, en y reconnaissant toute sa "grandeur" à venir, comme je pourrais moi-même la déceler dans les yeux des jeunes que j'encadre.   
+  
+Seigneur Jésus,  
+à mon tour je peux venir avec mes présents, que sont ma bonne humeur, mon enthousiasme, mes propositions et ma bienveillance.  
+Et je veux Te dire Merci Seigneur par avance,  
+car je sais que je reviendrais de ce camp, ou de cette rencontre plus fort, différent, grandit, et prêt à repartir vers un autre chemin pour de nouvelles aventures.  
+Merci Seigneur pour ces camps scouts et ces rencontres scoutes à venir et toutes ces lumières de la paix qui baliseront nos routes.   
+  
+*Bruno, Cléophas Toulouse Nord*   
+---
