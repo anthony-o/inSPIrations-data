@@ -273,7 +273,7 @@ Bénis ce repas que nous allons manger !
 Apprends-nous à partager le bon pain dans l'amitié !  
 Merci et bravo à tous les cuisiniers ! »  
 
-[Première partie de la vidéo](https://www.youtube.com/watch?v=1aBLl-O7mP4)
+[Ô Seigneur, nous voici tous rassemblés](https://www.youtube.com/watch?v=1aBLl-O7mP4)
 ---
 MDVersion: 1
 Titre: Midi sonne ! Midi sonne !
@@ -286,5 +286,19 @@ Tous à table ! Tous à table !
 Bénissez, Ô Seigneur ! Bénissez, Ô Seigneur,  
 Ce repas ! Ce repas ! »
 
-[2nde partie de la vidéo](https://www.youtube.com/watch?v=1aBLl-O7mP4)
+[Midi sonne ! Midi sonne !](https://www.youtube.com/watch?v=1aBLl-O7mP4)
+---
+MDVersion: 1
+Titre: Un ami à droite, un ami à gauche
+Type: benedicite
+---
+Un ami à droite, un ami à gauche, à tous, bon appétit !
+Un ami à gauche, un ami à droite, à tous, bon appétit !
+Merci Seigneur pour ce repas !
+Merci Seigneur pour ce repas !
+Merci Seigneur pour tout cela !
+A tous, bon appétit !
+A tous, bon appétit !
+
+[Un ami à droite, un ami à gauche](https://www.youtube.com/watch?v=RKdPEewEk3Y)
 ---

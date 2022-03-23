@@ -583,4 +583,38 @@ Il protège son peuple choisi
 Il tient envers lui ses promesses  
 Son amour s'étend d'âge en âge.  
 ---
+MDVersion: 1
+Titre: Père, tu es père
+Type: chant
+Tags: Parole de Dieu
+---
+
+[Lien Youtube: Père, tu es père](https://www.youtube.com/watch?v=TWDD5Ck5tEM)
+
+Refrain:
+PÈRE, TU ES PÈRE  
+NOUS SOMMES TES ENFANTS  
+TU FAIS DE NOUS DES FRÈRES  
+PÈRE BIEN-AIMANT  
+
+1 Ta Parole est pour nous le plus bel héritage  
+Elle est comme un trésor que tu livres en partage  
+L’aîné ou le cadet en ont la même part  
+L’amour a tout son temps, il n’est jamais trop tard  
+
+2 Ta Parole est un gué ou une porte ouverte  
+Un permis d’avenir, la liberté offerte  
+Tu connais nos chemins de fuites et de détours  
+Mais tu restes fidèle à guetter nos retours  
+
+3 Ta Parole est l’élan qui nous fait vivre en frères  
+En cela nous croyons que tu es notre Père  
+Tu nous cherches en avant du seuil de ta maison  
+Tes bras nous sont tendus en signe de pardon  
+
+4 Ta Parole a signé le temps de l’Alliance  
+Et tes fils, à jamais, prendront part à la danse  
+Nos mérites ou nos peines n’ont pas cours à tes yeux  
+Puisqu’en toutes les veines coule la vie de Dieu  
+---
 
