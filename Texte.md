@@ -3838,3 +3838,49 @@ Merci Seigneur pour ces camps scouts et ces rencontres scoutes à venir et toute
   
 *Chef Scout de  Toulouse Nord*   
 ---
+MDVersion: 1
+Titre: Ce qu'écouter veut dire
+Type: Texte
+Tags: Ecouter
+---
+Écouter est, peut-être, le plus beau cadeau que nous puissions faire à quelqu'un.  
+
+C'est lui dire, non pas avec des mots, mais avec ses yeux, son visage, son sourire et tout son corps :  
+tu es important pour moi, tu es intéressant, je suis heureux que tu sois là, tu vas m'enrichir car tu es ce que je ne suis pas . . .   
+Pas étonnant si la meilleure façon pour une personne de se révéler à elle-même, c’est d’être écoutée par une autre !
+  
+Écouter, c'est commencer par se taire. . .   
+  
+Avez-vous remarqué combien les « dialogues » sont remplis d'expressions de ce genre :  
+« C'est comme moi quand. . . », ou bien « ça me rappelle ce qui m'est arrivé. . . ».  
+Bien souvent, ce que l'autre dit n'est qu'une occasion de parler de soi.  
+  
+Écouter, c'est commencer par arrêter son petit cinéma intérieur, son monologue portatif, pour se laisser habiter par l'autre.  
+C'est accepter que l'autre entre en nous-même comme il entrerait dans notre maison et s'y installerait un instant, en prenant ses aises.  
+  
+Écouter, c'est vraiment laisser tomber ce qui nous occupe pour donner tout son temps à l'autre.
+C’est comme une promenade avec un ami : marcher à son pas, proche mais sans gêner, se laisser conduire par lui, s’arrêter avec lui, repartir, pour rien, pour lui.  
+  
+Écouter, c'est ne pas chercher à répondre à l'autre, sachant qu'il a en lui-même les réponses à ses propres questions.  
+C'est refuser de penser à la place de l'autre, de lui donner des conseils et même de vouloir le comprendre.   
+  
+Écouter, c'est accueillir l'autre avec reconnaissance tel qu'il se définit lui-même, sans se substituer à lui pour lui dire ce qu'il doit être. C'est être ouvert positivement à toutes les idées, à tous les sujets, à toutes les expériences, à toutes les solutions, sans interpréter, sans juger, laissant à l'autre le temps et l'espace de trouver la voie qui est la sienne.  
+  
+Écouter, ce n'est pas vouloir que quelqu'un soit comme ceci ou comme cela, c'est apprendre à découvrir ses qualités qui sont en lui spécifiques.  
+Être attentif à quelqu'un qui souffre, ce n'est pas donner une solution ou une explication à sa souffrance, c'est lui permettre de la dire et de trouver lui-même son propre chemin pour s'en libérer.  
+
+Apprendre à écouter quelqu'un, c'est l'exercice le plus utile que nous puissions faire pour nous libérer de nos propres détresses...   
+  
+Écouter, c'est donner à l'autre ce que l'on ne nous a, peut-être, encore jamais donné : de l'attention, du temps, une présence affectueuse.  
+C'est en apprenant à écouter les autres que nous arrivons à nous écouter nous-mêmes, notre corps et toutes nos émotions, c'est le chemin pour apprendre à écouter la terre et la vie, c'est devenir poète, c'est-à-dire sentir le cœur et voir l'âme des choses.  
+  
+À celui qui sait écouter, est donné de ne plus vivre à la surface : il communie à la vibration intérieure de tout vivant, il commence à découvrir l'infini qui vit à la fois la richesse et l'originalité de l'autre.  
+C'est alors qu'il entrevoit combien la rencontre est source d'être et non pas d'avoir.  
+  
+*« Tu ne vaux que ce que valent tes rencontres,*
+*le seul luxe est celui des relations humaines » (Saint-Exupéry).*
+  
+C'est le seul luxe gratuit car offert à la décision et à la liberté de chacun.   
+
+*André Gromolard*
+---
